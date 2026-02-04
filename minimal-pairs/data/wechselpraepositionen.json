@@ -1,0 +1,247 @@
+{
+  "category": "wechselpraepositionen",
+  "displayName": "Wechselpräpositionen",
+  "description": "Akkusativ bei Bewegung (wohin?), Dativ bei Ort (wo?)",
+  "items": [
+    {
+      "id": "wp001",
+      "correct": "Ich lege das Buch auf den Tisch.",
+      "incorrect": "Ich lege das Buch auf dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "Bei Bewegung (wohin?) verwendet man Akkusativ. 'legen' zeigt eine Bewegung an.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp002",
+      "correct": "Das Buch liegt auf dem Tisch.",
+      "incorrect": "Das Buch liegt auf den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "Bei einem Ort (wo?) verwendet man Dativ. 'liegen' beschreibt einen Zustand.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp003",
+      "correct": "Ich stelle die Vase auf den Schrank.",
+      "incorrect": "Ich stelle die Vase auf dem Schrank.",
+      "highlight": ["den", "dem"],
+      "explanation": "'stellen' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp004",
+      "correct": "Die Vase steht auf dem Schrank.",
+      "incorrect": "Die Vase steht auf den Schrank.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp005",
+      "correct": "Er hängt das Bild an die Wand.",
+      "incorrect": "Er hängt das Bild an der Wand.",
+      "highlight": ["die", "der"],
+      "explanation": "'hängen' (transitiv) ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp006",
+      "correct": "Das Bild hängt an der Wand.",
+      "incorrect": "Das Bild hängt an die Wand.",
+      "highlight": ["der", "die"],
+      "explanation": "'hängen' (intransitiv) beschreibt einen Zustand, daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp007",
+      "correct": "Ich setze mich auf den Stuhl.",
+      "incorrect": "Ich setze mich auf dem Stuhl.",
+      "highlight": ["den", "dem"],
+      "explanation": "'sich setzen' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp008",
+      "correct": "Ich sitze auf dem Stuhl.",
+      "incorrect": "Ich sitze auf den Stuhl.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen' beschreibt einen Zustand (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp009",
+      "correct": "Sie geht in die Küche.",
+      "incorrect": "Sie geht in der Küche.",
+      "highlight": ["die", "der"],
+      "explanation": "'gehen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp010",
+      "correct": "Sie ist in der Küche.",
+      "incorrect": "Sie ist in die Küche.",
+      "highlight": ["der", "die"],
+      "explanation": "'sein in' beschreibt einen Aufenthaltsort, daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp011",
+      "correct": "Der Hund läuft unter den Tisch.",
+      "incorrect": "Der Hund läuft unter dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'laufen unter' mit Bewegung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp012",
+      "correct": "Der Hund schläft unter dem Tisch.",
+      "incorrect": "Der Hund schläft unter den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'schlafen unter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp013",
+      "correct": "Ich fahre das Auto in die Garage.",
+      "incorrect": "Ich fahre das Auto in der Garage.",
+      "highlight": ["die", "der"],
+      "explanation": "Das Auto wird in die Garage gefahren (Bewegung), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp014",
+      "correct": "Das Auto steht in der Garage.",
+      "incorrect": "Das Auto steht in die Garage.",
+      "highlight": ["der", "die"],
+      "explanation": "Das Auto befindet sich in der Garage (Ort), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp015",
+      "correct": "Er stellt den Koffer neben das Bett.",
+      "incorrect": "Er stellt den Koffer neben dem Bett.",
+      "highlight": ["das", "dem"],
+      "explanation": "'stellen neben' mit Bewegung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp016",
+      "correct": "Der Koffer steht neben dem Bett.",
+      "incorrect": "Der Koffer steht neben das Bett.",
+      "highlight": ["dem", "das"],
+      "explanation": "Der Koffer befindet sich neben dem Bett (Ort), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp017",
+      "correct": "Die Katze springt auf den Tisch.",
+      "incorrect": "Die Katze springt auf dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'springen auf' ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp018",
+      "correct": "Die Katze sitzt auf dem Tisch.",
+      "incorrect": "Die Katze sitzt auf den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen auf' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp019",
+      "correct": "Ich hänge meinen Mantel an den Haken.",
+      "incorrect": "Ich hänge meinen Mantel an dem Haken.",
+      "highlight": ["den", "dem"],
+      "explanation": "'hängen an' (transitiv) ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp020",
+      "correct": "Mein Mantel hängt an dem Haken.",
+      "incorrect": "Mein Mantel hängt an den Haken.",
+      "highlight": ["dem", "den"],
+      "explanation": "'hängen an' (intransitiv) beschreibt einen Zustand, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp021",
+      "correct": "Das Kind versteckt sich hinter dem Vorhang.",
+      "incorrect": "Das Kind versteckt sich hinter den Vorhang.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sich verstecken hinter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp022",
+      "correct": "Das Kind läuft hinter den Vorhang.",
+      "incorrect": "Das Kind läuft hinter dem Vorhang.",
+      "highlight": ["den", "dem"],
+      "explanation": "'laufen hinter' mit Bewegung erfordert Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp023",
+      "correct": "Sie stellt die Blumen vor das Fenster.",
+      "incorrect": "Sie stellt die Blumen vor dem Fenster.",
+      "highlight": ["das", "dem"],
+      "explanation": "'stellen vor' mit Bewegung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp024",
+      "correct": "Die Blumen stehen vor dem Fenster.",
+      "incorrect": "Die Blumen stehen vor das Fenster.",
+      "highlight": ["dem", "das"],
+      "explanation": "'stehen vor' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp025",
+      "correct": "Er setzt sich zwischen die beiden Frauen.",
+      "incorrect": "Er setzt sich zwischen den beiden Frauen.",
+      "highlight": ["die", "den"],
+      "explanation": "'sich setzen zwischen' ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp026",
+      "correct": "Er sitzt zwischen den beiden Frauen.",
+      "incorrect": "Er sitzt zwischen die beiden Frauen.",
+      "highlight": ["den", "die"],
+      "explanation": "'sitzen zwischen' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp027",
+      "correct": "Wir gehen über die Brücke.",
+      "incorrect": "Wir gehen über der Brücke.",
+      "highlight": ["die", "der"],
+      "explanation": "'gehen über' ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp028",
+      "correct": "Die Lampe hängt über dem Tisch.",
+      "incorrect": "Die Lampe hängt über den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'hängen über' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp029",
+      "correct": "Ich lege die Zeitung unter das Buch.",
+      "incorrect": "Ich lege die Zeitung unter dem Buch.",
+      "highlight": ["das", "dem"],
+      "explanation": "'legen unter' ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp030",
+      "correct": "Die Zeitung liegt unter dem Buch.",
+      "incorrect": "Die Zeitung liegt unter das Buch.",
+      "highlight": ["dem", "das"],
+      "explanation": "'liegen unter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "category": "adjektivendungen",
+  "displayName": "Adjektivendungen",
+  "description": "Adjektivdeklination mit bestimmtem, unbestimmtem und ohne Artikel",
+  "items": [
+    {
+      "id": "ae001",
+      "correct": "Der große Mann steht dort.",
+      "incorrect": "Der großer Mann steht dort.",
+      "highlight": ["große", "großer"],
+      "explanation": "Nach bestimmtem Artikel im Nominativ maskulin: -e",
+      "difficulty": 1
+    },
+    {
+      "id": "ae002",
+      "correct": "Ich sehe den großen Mann.",
+      "incorrect": "Ich sehe den großer Mann.",
+      "highlight": ["großen", "großer"],
+      "explanation": "Nach bestimmtem Artikel im Akkusativ maskulin: -en",
+      "difficulty": 1
+    },
+    {
+      "id": "ae003",
+      "correct": "Ich helfe dem alten Mann.",
+      "incorrect": "Ich helfe dem alter Mann.",
+      "highlight": ["alten", "alter"],
+      "explanation": "Nach bestimmtem Artikel im Dativ maskulin: -en",
+      "difficulty": 1
+    },
+    {
+      "id": "ae004",
+      "correct": "Die kleine Katze schläft.",
+      "incorrect": "Die kleiner Katze schläft.",
+      "highlight": ["kleine", "kleiner"],
+      "explanation": "Nach bestimmtem Artikel im Nominativ feminin: -e",
+      "difficulty": 1
+    },
+    {
+      "id": "ae005",
+      "correct": "Ich sehe die kleine Katze.",
+      "incorrect": "Ich sehe die kleinen Katze.",
+      "highlight": ["kleine", "kleinen"],
+      "explanation": "Nach bestimmtem Artikel im Akkusativ feminin: -e",
+      "difficulty": 1
+    },
+    {
+      "id": "ae006",
+      "correct": "Das neue Buch ist interessant.",
+      "incorrect": "Das neues Buch ist interessant.",
+      "highlight": ["neue", "neues"],
+      "explanation": "Nach bestimmtem Artikel im Nominativ neutral: -e",
+      "difficulty": 1
+    },
+    {
+      "id": "ae007",
+      "correct": "Ein großer Mann steht dort.",
+      "incorrect": "Ein große Mann steht dort.",
+      "highlight": ["großer", "große"],
+      "explanation": "Nach unbestimmtem Artikel im Nominativ maskulin: -er (das Adjektiv übernimmt die Endung)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae008",
+      "correct": "Ich sehe einen großen Mann.",
+      "incorrect": "Ich sehe einen großer Mann.",
+      "highlight": ["großen", "großer"],
+      "explanation": "Nach unbestimmtem Artikel im Akkusativ maskulin: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae009",
+      "correct": "Eine kleine Katze schläft.",
+      "incorrect": "Eine kleiner Katze schläft.",
+      "highlight": ["kleine", "kleiner"],
+      "explanation": "Nach unbestimmtem Artikel im Nominativ feminin: -e",
+      "difficulty": 2
+    },
+    {
+      "id": "ae010",
+      "correct": "Ein neues Buch liegt hier.",
+      "incorrect": "Ein neue Buch liegt hier.",
+      "highlight": ["neues", "neue"],
+      "explanation": "Nach unbestimmtem Artikel im Nominativ neutral: -es (das Adjektiv übernimmt die Endung)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae011",
+      "correct": "Kalter Kaffee schmeckt nicht gut.",
+      "incorrect": "Kalte Kaffee schmeckt nicht gut.",
+      "highlight": ["Kalter", "Kalte"],
+      "explanation": "Ohne Artikel im Nominativ maskulin: -er (starke Deklination)",
+      "difficulty": 3
+    },
+    {
+      "id": "ae012",
+      "correct": "Frische Milch ist gesund.",
+      "incorrect": "Frischer Milch ist gesund.",
+      "highlight": ["Frische", "Frischer"],
+      "explanation": "Ohne Artikel im Nominativ feminin: -e (starke Deklination)",
+      "difficulty": 3
+    },
+    {
+      "id": "ae013",
+      "correct": "Warmes Wasser hilft bei Erkältungen.",
+      "incorrect": "Warme Wasser hilft bei Erkältungen.",
+      "highlight": ["Warmes", "Warme"],
+      "explanation": "Ohne Artikel im Nominativ neutral: -es (starke Deklination)",
+      "difficulty": 3
+    },
+    {
+      "id": "ae014",
+      "correct": "Die schönen Blumen blühen.",
+      "incorrect": "Die schöne Blumen blühen.",
+      "highlight": ["schönen", "schöne"],
+      "explanation": "Nach bestimmtem Artikel im Nominativ Plural: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae015",
+      "correct": "Ich kaufe die roten Äpfel.",
+      "incorrect": "Ich kaufe die rote Äpfel.",
+      "highlight": ["roten", "rote"],
+      "explanation": "Nach bestimmtem Artikel im Akkusativ Plural: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae016",
+      "correct": "Ich helfe den alten Leuten.",
+      "incorrect": "Ich helfe den alte Leuten.",
+      "highlight": ["alten", "alte"],
+      "explanation": "Nach bestimmtem Artikel im Dativ Plural: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae017",
+      "correct": "Er trägt ein blaues Hemd.",
+      "incorrect": "Er trägt ein blauer Hemd.",
+      "highlight": ["blaues", "blauer"],
+      "explanation": "Nach unbestimmtem Artikel im Akkusativ neutral: -es",
+      "difficulty": 2
+    },
+    {
+      "id": "ae018",
+      "correct": "Sie hat einen neuen Job.",
+      "incorrect": "Sie hat einen neue Job.",
+      "highlight": ["neuen", "neue"],
+      "explanation": "Nach unbestimmtem Artikel im Akkusativ maskulin: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae019",
+      "correct": "Ich trinke gern heißen Tee.",
+      "incorrect": "Ich trinke gern heißer Tee.",
+      "highlight": ["heißen", "heißer"],
+      "explanation": "Ohne Artikel im Akkusativ maskulin: -en (starke Deklination)",
+      "difficulty": 3
+    },
+    {
+      "id": "ae020",
+      "correct": "Mit frischem Brot schmeckt es besser.",
+      "incorrect": "Mit frischer Brot schmeckt es besser.",
+      "highlight": ["frischem", "frischer"],
+      "explanation": "Ohne Artikel im Dativ neutral: -em (starke Deklination)",
+      "difficulty": 3
+    },
+    {
+      "id": "ae021",
+      "correct": "Das ist mein neuer Computer.",
+      "incorrect": "Das ist mein neue Computer.",
+      "highlight": ["neuer", "neue"],
+      "explanation": "Nach Possessivartikel 'mein' im Nominativ maskulin: -er (wie unbestimmter Artikel)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae022",
+      "correct": "Ich liebe meine alte Wohnung.",
+      "incorrect": "Ich liebe meine alter Wohnung.",
+      "highlight": ["alte", "alter"],
+      "explanation": "Nach Possessivartikel 'meine' im Akkusativ feminin: -e",
+      "difficulty": 2
+    },
+    {
+      "id": "ae023",
+      "correct": "Sein kleines Kind spielt im Garten.",
+      "incorrect": "Sein kleine Kind spielt im Garten.",
+      "highlight": ["kleines", "kleine"],
+      "explanation": "Nach Possessivartikel 'sein' im Nominativ neutral: -es (wie unbestimmter Artikel)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae024",
+      "correct": "Kein guter Freund würde das tun.",
+      "incorrect": "Kein gute Freund würde das tun.",
+      "highlight": ["guter", "gute"],
+      "explanation": "Nach 'kein' im Nominativ maskulin: -er (wie unbestimmter Artikel)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae025",
+      "correct": "Ich habe keine neuen Schuhe.",
+      "incorrect": "Ich habe keine neue Schuhe.",
+      "highlight": ["neuen", "neue"],
+      "explanation": "Nach 'keine' im Akkusativ Plural: -en",
+      "difficulty": 2
+    },
+    {
+      "id": "ae026",
+      "correct": "Der junge deutsche Student lernt fleißig.",
+      "incorrect": "Der junge deutscher Student lernt fleißig.",
+      "highlight": ["deutsche", "deutscher"],
+      "explanation": "Nach bestimmtem Artikel haben alle Adjektive dieselbe Endung.",
+      "difficulty": 3
+    },
+    {
+      "id": "ae027",
+      "correct": "Ein interessantes deutsches Buch.",
+      "incorrect": "Ein interessantes deutscher Buch.",
+      "highlight": ["deutsches", "deutscher"],
+      "explanation": "Nach unbestimmtem Artikel im Nominativ neutral haben beide Adjektive -es.",
+      "difficulty": 3
+    },
+    {
+      "id": "ae028",
+      "correct": "Dieses alte Haus ist schön.",
+      "incorrect": "Dieses alter Haus ist schön.",
+      "highlight": ["alte", "alter"],
+      "explanation": "Nach 'dieses' im Nominativ neutral: -e (wie nach bestimmtem Artikel)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae029",
+      "correct": "Welchen neuen Film hast du gesehen?",
+      "incorrect": "Welchen neue Film hast du gesehen?",
+      "highlight": ["neuen", "neue"],
+      "explanation": "Nach 'welchen' im Akkusativ maskulin: -en (wie nach bestimmtem Artikel)",
+      "difficulty": 2
+    },
+    {
+      "id": "ae030",
+      "correct": "Jeder gute Mensch verdient Respekt.",
+      "incorrect": "Jeder guter Mensch verdient Respekt.",
+      "highlight": ["gute", "guter"],
+      "explanation": "Nach 'jeder' im Nominativ maskulin: -e (wie nach bestimmtem Artikel)",
+      "difficulty": 3
+    }
+  ]
+}

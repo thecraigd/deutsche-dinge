@@ -1,0 +1,247 @@
+{
+  "category": "kommasetzung",
+  "displayName": "Kommasetzung",
+  "description": "Kommaregeln bei Nebensätzen und Infinitivkonstruktionen",
+  "items": [
+    {
+      "id": "ks001",
+      "correct": "Ich weiß, dass er morgen kommt.",
+      "incorrect": "Ich weiß dass er morgen kommt.",
+      "highlight": [", dass", " dass"],
+      "explanation": "Vor der Konjunktion 'dass' steht immer ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks002",
+      "correct": "Er sagt, dass er müde ist.",
+      "incorrect": "Er sagt dass er müde ist.",
+      "highlight": [", dass", " dass"],
+      "explanation": "Vor der Konjunktion 'dass' steht immer ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks003",
+      "correct": "Ich bleibe zu Hause, weil ich krank bin.",
+      "incorrect": "Ich bleibe zu Hause weil ich krank bin.",
+      "highlight": [", weil", " weil"],
+      "explanation": "Vor der Konjunktion 'weil' steht immer ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks004",
+      "correct": "Wenn es regnet, bleibe ich zu Hause.",
+      "incorrect": "Wenn es regnet bleibe ich zu Hause.",
+      "highlight": ["regnet,", "regnet "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks005",
+      "correct": "Ich frage mich, ob er kommt.",
+      "incorrect": "Ich frage mich ob er kommt.",
+      "highlight": [", ob", " ob"],
+      "explanation": "Vor der Konjunktion 'ob' steht immer ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks006",
+      "correct": "Obwohl es regnet, gehen wir spazieren.",
+      "incorrect": "Obwohl es regnet gehen wir spazieren.",
+      "highlight": ["regnet,", "regnet "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'obwohl' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks007",
+      "correct": "Der Mann, der dort steht, ist mein Vater.",
+      "incorrect": "Der Mann der dort steht ist mein Vater.",
+      "highlight": [", der", " der"],
+      "explanation": "Relativsätze werden mit Kommas abgetrennt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks008",
+      "correct": "Das Buch, das ich lese, ist spannend.",
+      "incorrect": "Das Buch das ich lese ist spannend.",
+      "highlight": [", das", " das"],
+      "explanation": "Relativsätze werden mit Kommas abgetrennt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks009",
+      "correct": "Die Frau, die nebenan wohnt, ist Ärztin.",
+      "incorrect": "Die Frau die nebenan wohnt ist Ärztin.",
+      "highlight": [", die", " die"],
+      "explanation": "Relativsätze werden mit Kommas abgetrennt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks010",
+      "correct": "Ich versuche, pünktlich zu kommen.",
+      "incorrect": "Ich versuche pünktlich zu kommen.",
+      "highlight": [", pünktlich", " pünktlich"],
+      "explanation": "Vor erweiterten Infinitivkonstruktionen mit 'zu' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks011",
+      "correct": "Er hat versprochen, mir zu helfen.",
+      "incorrect": "Er hat versprochen mir zu helfen.",
+      "highlight": [", mir", " mir"],
+      "explanation": "Vor erweiterten Infinitivkonstruktionen mit 'zu' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks012",
+      "correct": "Sie hofft, bald Urlaub zu bekommen.",
+      "incorrect": "Sie hofft bald Urlaub zu bekommen.",
+      "highlight": [", bald", " bald"],
+      "explanation": "Vor erweiterten Infinitivkonstruktionen mit 'zu' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks013",
+      "correct": "Ich freue mich, dich zu sehen.",
+      "incorrect": "Ich freue mich dich zu sehen.",
+      "highlight": [", dich", " dich"],
+      "explanation": "Vor erweiterten Infinitivkonstruktionen mit 'zu' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks014",
+      "correct": "Er bat mich, ihm zu helfen.",
+      "incorrect": "Er bat mich ihm zu helfen.",
+      "highlight": [", ihm", " ihm"],
+      "explanation": "Vor erweiterten Infinitivkonstruktionen mit 'zu' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks015",
+      "correct": "Während ich arbeitete, rief er an.",
+      "incorrect": "Während ich arbeitete rief er an.",
+      "highlight": ["arbeitete,", "arbeitete "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'während' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks016",
+      "correct": "Bevor du gehst, ruf mich an.",
+      "incorrect": "Bevor du gehst ruf mich an.",
+      "highlight": ["gehst,", "gehst "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'bevor' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks017",
+      "correct": "Nachdem er gegessen hatte, ging er schlafen.",
+      "incorrect": "Nachdem er gegessen hatte ging er schlafen.",
+      "highlight": ["hatte,", "hatte "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'nachdem' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks018",
+      "correct": "Als ich jung war, spielte ich oft Fußball.",
+      "incorrect": "Als ich jung war spielte ich oft Fußball.",
+      "highlight": ["war,", "war "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'als' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks019",
+      "correct": "Seitdem er hier wohnt, ist er glücklicher.",
+      "incorrect": "Seitdem er hier wohnt ist er glücklicher.",
+      "highlight": ["wohnt,", "wohnt "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'seitdem' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks020",
+      "correct": "Ich gehe ins Bett, sobald ich fertig bin.",
+      "incorrect": "Ich gehe ins Bett sobald ich fertig bin.",
+      "highlight": [", sobald", " sobald"],
+      "explanation": "Vor der Konjunktion 'sobald' steht immer ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks021",
+      "correct": "Das Auto, das er gekauft hat, ist rot.",
+      "incorrect": "Das Auto das er gekauft hat ist rot.",
+      "highlight": [", das", " das"],
+      "explanation": "Relativsätze werden mit Kommas abgetrennt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks022",
+      "correct": "Die Stadt, in der ich wohne, ist klein.",
+      "incorrect": "Die Stadt in der ich wohne ist klein.",
+      "highlight": [", in", " in"],
+      "explanation": "Relativsätze werden mit Kommas abgetrennt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks023",
+      "correct": "Ich glaube, dass du recht hast.",
+      "incorrect": "Ich glaube dass du recht hast.",
+      "highlight": [", dass", " dass"],
+      "explanation": "Vor der Konjunktion 'dass' steht immer ein Komma.",
+      "difficulty": 1
+    },
+    {
+      "id": "ks024",
+      "correct": "Er fragte, wann der Zug kommt.",
+      "incorrect": "Er fragte wann der Zug kommt.",
+      "highlight": [", wann", " wann"],
+      "explanation": "Vor dem Fragewort 'wann' im indirekten Fragesatz steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks025",
+      "correct": "Sie weiß nicht, wo er wohnt.",
+      "incorrect": "Sie weiß nicht wo er wohnt.",
+      "highlight": [", wo", " wo"],
+      "explanation": "Vor dem Fragewort 'wo' im indirekten Fragesatz steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks026",
+      "correct": "Ich habe keine Ahnung, warum er das getan hat.",
+      "incorrect": "Ich habe keine Ahnung warum er das getan hat.",
+      "highlight": [", warum", " warum"],
+      "explanation": "Vor dem Fragewort 'warum' im indirekten Fragesatz steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks027",
+      "correct": "Falls du Zeit hast, ruf mich an.",
+      "incorrect": "Falls du Zeit hast ruf mich an.",
+      "highlight": ["hast,", "hast "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'falls' steht ein Komma.",
+      "difficulty": 2
+    },
+    {
+      "id": "ks028",
+      "correct": "Damit ich dich verstehe, sprich bitte langsamer.",
+      "incorrect": "Damit ich dich verstehe sprich bitte langsamer.",
+      "highlight": ["verstehe,", "verstehe "],
+      "explanation": "Nach einem vorangestellten Nebensatz mit 'damit' steht ein Komma.",
+      "difficulty": 3
+    },
+    {
+      "id": "ks029",
+      "correct": "Je mehr ich lerne, desto besser verstehe ich.",
+      "incorrect": "Je mehr ich lerne desto besser verstehe ich.",
+      "highlight": ["lerne,", "lerne "],
+      "explanation": "Nach dem 'je'-Teil steht ein Komma vor 'desto'.",
+      "difficulty": 3
+    },
+    {
+      "id": "ks030",
+      "correct": "Er arbeitet hart, um erfolgreich zu sein.",
+      "incorrect": "Er arbeitet hart um erfolgreich zu sein.",
+      "highlight": [", um", " um"],
+      "explanation": "Vor der Infinitivkonstruktion mit 'um ... zu' steht ein Komma.",
+      "difficulty": 2
+    }
+  ]
+}

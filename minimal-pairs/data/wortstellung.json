@@ -1,0 +1,247 @@
+{
+  "category": "wortstellung",
+  "displayName": "Wortstellung",
+  "description": "Verbposition in Nebensätzen und nach vorangestellten Satzgliedern",
+  "items": [
+    {
+      "id": "ws001",
+      "correct": "Ich weiß, dass er morgen kommt.",
+      "incorrect": "Ich weiß, dass er kommt morgen.",
+      "highlight": ["kommt.", "kommt morgen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws002",
+      "correct": "Er sagt, dass er müde ist.",
+      "incorrect": "Er sagt, dass er ist müde.",
+      "highlight": ["müde ist.", "ist müde."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws003",
+      "correct": "Ich bleibe zu Hause, weil ich krank bin.",
+      "incorrect": "Ich bleibe zu Hause, weil ich bin krank.",
+      "highlight": ["krank bin.", "bin krank."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws004",
+      "correct": "Morgen gehe ich ins Kino.",
+      "incorrect": "Morgen ich gehe ins Kino.",
+      "highlight": ["gehe ich", "ich gehe"],
+      "explanation": "Nach einem vorangestellten Satzglied (hier: 'Morgen') folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws005",
+      "correct": "Gestern habe ich einen Film gesehen.",
+      "incorrect": "Gestern ich habe einen Film gesehen.",
+      "highlight": ["habe ich", "ich habe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws006",
+      "correct": "Im Sommer fahren wir nach Italien.",
+      "incorrect": "Im Sommer wir fahren nach Italien.",
+      "highlight": ["fahren wir", "wir fahren"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws007",
+      "correct": "Heute Abend koche ich Pasta.",
+      "incorrect": "Heute Abend ich koche Pasta.",
+      "highlight": ["koche ich", "ich koche"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws008",
+      "correct": "Er weiß nicht, wo seine Schlüssel sind.",
+      "incorrect": "Er weiß nicht, wo sind seine Schlüssel.",
+      "highlight": ["Schlüssel sind.", "sind seine Schlüssel."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws009",
+      "correct": "Ich frage mich, warum er nicht kommt.",
+      "incorrect": "Ich frage mich, warum kommt er nicht.",
+      "highlight": ["nicht kommt.", "kommt er nicht."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws010",
+      "correct": "Sie fragt, wann der Zug abfährt.",
+      "incorrect": "Sie fragt, wann fährt der Zug ab.",
+      "highlight": ["Zug abfährt.", "fährt der Zug ab."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws011",
+      "correct": "Der Mann, der dort steht, ist mein Vater.",
+      "incorrect": "Der Mann, der steht dort, ist mein Vater.",
+      "highlight": ["dort steht,", "steht dort,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws012",
+      "correct": "Das Buch, das ich gelesen habe, war spannend.",
+      "incorrect": "Das Buch, das ich habe gelesen, war spannend.",
+      "highlight": ["gelesen habe,", "habe gelesen,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb (hier: 'habe') am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws013",
+      "correct": "Wenn es regnet, bleibe ich zu Hause.",
+      "incorrect": "Wenn es regnet, ich bleibe zu Hause.",
+      "highlight": ["bleibe ich", "ich bleibe"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws014",
+      "correct": "Obwohl er müde war, arbeitete er weiter.",
+      "incorrect": "Obwohl er müde war, er arbeitete weiter.",
+      "highlight": ["arbeitete er", "er arbeitete"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws015",
+      "correct": "Nachdem er gegessen hatte, ging er schlafen.",
+      "incorrect": "Nachdem er gegessen hatte, er ging schlafen.",
+      "highlight": ["ging er", "er ging"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws016",
+      "correct": "Er hat gestern einen Brief geschrieben.",
+      "incorrect": "Er hat einen Brief gestern geschrieben.",
+      "highlight": ["gestern einen Brief", "einen Brief gestern"],
+      "explanation": "Zeitangaben stehen meist vor Objekten (TeKaMoLo: Temporal vor Kausal vor Modal vor Lokal).",
+      "difficulty": 3
+    },
+    {
+      "id": "ws017",
+      "correct": "Ich habe das Buch nicht gelesen.",
+      "incorrect": "Ich habe nicht das Buch gelesen.",
+      "highlight": ["Buch nicht", "nicht das Buch"],
+      "explanation": "'nicht' steht vor dem zu verneinenden Satzteil. Hier wird die Handlung verneint, nicht das Buch.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws018",
+      "correct": "Er ist heute früh aufgestanden.",
+      "incorrect": "Er ist aufgestanden heute früh.",
+      "highlight": ["früh aufgestanden.", "aufgestanden heute früh."],
+      "explanation": "Das Partizip steht bei trennbaren Verben am Satzende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws019",
+      "correct": "Ich werde morgen früh aufstehen.",
+      "incorrect": "Ich werde aufstehen morgen früh.",
+      "highlight": ["früh aufstehen.", "aufstehen morgen früh."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws020",
+      "correct": "Er muss heute noch arbeiten.",
+      "incorrect": "Er muss arbeiten heute noch.",
+      "highlight": ["noch arbeiten.", "arbeiten heute noch."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws021",
+      "correct": "Sie kann sehr gut Deutsch sprechen.",
+      "incorrect": "Sie kann sprechen sehr gut Deutsch.",
+      "highlight": ["Deutsch sprechen.", "sprechen sehr gut Deutsch."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws022",
+      "correct": "Leider kann ich heute nicht kommen.",
+      "incorrect": "Leider ich kann heute nicht kommen.",
+      "highlight": ["kann ich", "ich kann"],
+      "explanation": "Nach 'leider' (wie nach jedem vorangestellten Satzglied) folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws023",
+      "correct": "Hoffentlich regnet es morgen nicht.",
+      "incorrect": "Hoffentlich es regnet morgen nicht.",
+      "highlight": ["regnet es", "es regnet"],
+      "explanation": "Nach 'hoffentlich' (wie nach jedem vorangestellten Satzglied) folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws024",
+      "correct": "Deshalb gehe ich jetzt nach Hause.",
+      "incorrect": "Deshalb ich gehe jetzt nach Hause.",
+      "highlight": ["gehe ich", "ich gehe"],
+      "explanation": "Nach 'deshalb' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws025",
+      "correct": "Trotzdem hat er die Prüfung bestanden.",
+      "incorrect": "Trotzdem er hat die Prüfung bestanden.",
+      "highlight": ["hat er", "er hat"],
+      "explanation": "Nach 'trotzdem' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws026",
+      "correct": "Er sagte, dass er den Film schon gesehen hatte.",
+      "incorrect": "Er sagte, dass er hatte den Film schon gesehen.",
+      "highlight": ["gesehen hatte.", "hatte den Film"],
+      "explanation": "Im Nebensatz steht das konjugierte Verb (hier: 'hatte') am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws027",
+      "correct": "Ich weiß nicht, ob er heute kommen kann.",
+      "incorrect": "Ich weiß nicht, ob er kann heute kommen.",
+      "highlight": ["kommen kann.", "kann heute kommen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb (hier: 'kann') am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws028",
+      "correct": "Als ich klein war, spielte ich oft draußen.",
+      "incorrect": "Als ich war klein, spielte ich oft draußen.",
+      "highlight": ["klein war,", "war klein,"],
+      "explanation": "Im Nebensatz steht das konjugierte Verb (hier: 'war') am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws029",
+      "correct": "Ich glaube, dass sie recht hat.",
+      "incorrect": "Ich glaube, dass sie hat recht.",
+      "highlight": ["recht hat.", "hat recht."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws030",
+      "correct": "Dort drüben steht mein Auto.",
+      "incorrect": "Dort drüben mein Auto steht.",
+      "highlight": ["steht mein", "mein Auto steht."],
+      "explanation": "Nach einer vorangestellten Ortsangabe folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    }
+  ]
+}

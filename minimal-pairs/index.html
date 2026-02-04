@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="Deutsche Grammatik Minimal Pairs - Übungen für B2/C1 Lerner">
+    <meta name="theme-color" content="#1a1a2e">
+    <title>Deutsche Grammatik - Minimal Pairs</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇩🇪</text></svg>">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header id="header">
+            <h1>Minimal Pairs</h1>
+            <button id="menuBtn" aria-label="Menü">☰</button>
+        </header>
+
+        <!-- Progress Bar -->
+        <div id="progressBar">
+            <div id="progressFill"></div>
+        </div>
+
+        <!-- Main Quiz View -->
+        <main id="quizView">
+            <div id="categoryLabel"></div>
+
+            <div id="questionArea">
+                <p id="instruction">Welcher Satz ist richtig?</p>
+
+                <div id="options">
+                    <button class="option" id="optionA"></button>
+                    <button class="option" id="optionB"></button>
+                </div>
+            </div>
+
+            <div id="feedback" class="hidden">
+                <div id="feedbackIcon"></div>
+                <p id="feedbackText"></p>
+                <div id="explanation"></div>
+                <button id="nextBtn">Weiter</button>
+            </div>
+        </main>
+
+        <!-- Menu/Settings Panel -->
+        <aside id="menuPanel" class="hidden">
+            <div id="menuContent">
+                <button id="closeMenuBtn" aria-label="Schließen">×</button>
+
+                <section id="statsSection">
+                    <h2>Fortschritt</h2>
+                    <div id="statsGrid">
+                        <div class="stat">
+                            <span class="statValue" id="totalCorrect">0</span>
+                            <span class="statLabel">Richtig</span>
+                        </div>
+                        <div class="stat">
+                            <span class="statValue" id="totalAnswered">0</span>
+                            <span class="statLabel">Gesamt</span>
+                        </div>
+                        <div class="stat">
+                            <span class="statValue" id="accuracy">0%</span>
+                            <span class="statLabel">Quote</span>
+                        </div>
+                        <div class="stat">
+                            <span class="statValue" id="streak">0</span>
+                            <span class="statLabel">Serie</span>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="categoriesSection">
+                    <h2>Kategorien</h2>
+                    <div id="categoryFilters">
+                        <label class="categoryFilter">
+                            <input type="checkbox" value="wechselpraepositionen" checked>
+                            <span>Wechselpräpositionen</span>
+                            <span class="categoryAccuracy" data-category="wechselpraepositionen"></span>
+                        </label>
+                        <label class="categoryFilter">
+                            <input type="checkbox" value="dativ-verben" checked>
+                            <span>Dativ-Verben</span>
+                            <span class="categoryAccuracy" data-category="dativ-verben"></span>
+                        </label>
+                        <label class="categoryFilter">
+                            <input type="checkbox" value="kommasetzung" checked>
+                            <span>Kommasetzung</span>
+                            <span class="categoryAccuracy" data-category="kommasetzung"></span>
+                        </label>
+                        <label class="categoryFilter">
+                            <input type="checkbox" value="wortstellung" checked>
+                            <span>Wortstellung</span>
+                            <span class="categoryAccuracy" data-category="wortstellung"></span>
+                        </label>
+                        <label class="categoryFilter">
+                            <input type="checkbox" value="adjektivendungen" checked>
+                            <span>Adjektivendungen</span>
+                            <span class="categoryAccuracy" data-category="adjektivendungen"></span>
+                        </label>
+                    </div>
+                </section>
+
+                <section id="leitnerSection">
+                    <h2>Leitner-Boxen</h2>
+                    <div id="leitnerBoxes">
+                        <div class="leitnerBox" data-box="1">
+                            <span class="boxNumber">1</span>
+                            <span class="boxCount" id="box1Count">0</span>
+                            <span class="boxLabel">Neu</span>
+                        </div>
+                        <div class="leitnerBox" data-box="2">
+                            <span class="boxNumber">2</span>
+                            <span class="boxCount" id="box2Count">0</span>
+                            <span class="boxLabel">Lernen</span>
+                        </div>
+                        <div class="leitnerBox" data-box="3">
+                            <span class="boxNumber">3</span>
+                            <span class="boxCount" id="box3Count">0</span>
+                            <span class="boxLabel">Üben</span>
+                        </div>
+                        <div class="leitnerBox" data-box="4">
+                            <span class="boxNumber">4</span>
+                            <span class="boxCount" id="box4Count">0</span>
+                            <span class="boxLabel">Festigen</span>
+                        </div>
+                        <div class="leitnerBox" data-box="5">
+                            <span class="boxNumber">5</span>
+                            <span class="boxCount" id="box5Count">0</span>
+                            <span class="boxLabel">Gemeistert</span>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="actionsSection">
+                    <button id="resetBtn" class="actionBtn">Fortschritt zurücksetzen</button>
+                </section>
+            </div>
+        </aside>
+
+        <!-- Loading State -->
+        <div id="loading">
+            <div class="spinner"></div>
+            <p>Laden...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div id="emptyState" class="hidden">
+            <p>Keine Fragen verfügbar.</p>
+            <p>Bitte wähle mindestens eine Kategorie aus.</p>
+            <button id="openCategoriesBtn">Kategorien öffnen</button>
+        </div>
+
+        <!-- Completion State -->
+        <div id="completionState" class="hidden">
+            <div id="completionIcon">🎉</div>
+            <h2>Geschafft!</h2>
+            <p>Du hast alle Fragen für heute beantwortet.</p>
+            <p id="completionStats"></p>
+            <button id="reviewBtn">Schwierige Fragen wiederholen</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
