@@ -108,6 +108,243 @@ Each grammar category is stored as a JSON file in `minimal-pairs/data/`.
 
 ---
 
+## Data Creation Methodology
+
+This section documents how the minimal pair data was created, enabling future sessions to generate additional high-quality content.
+
+### Core Principles
+
+1. **True minimal pairs:** Sentences must differ by exactly ONE grammatical feature
+2. **Natural language:** Use realistic, everyday sentences a B2/C1 learner would encounter
+3. **Clear contrast:** The error should be a common learner mistake, not an obscure edge case
+4. **Unambiguous correctness:** There should be no debate about which sentence is correct
+5. **Consistent difficulty:** Within each category, vary sentence complexity but keep the grammatical focus consistent
+
+### Creation Process
+
+#### Step 1: Identify the Grammar Rule
+For each category, clearly define the rule being tested:
+- **Wechselpräpositionen:** Akkusativ for movement (wohin?), Dativ for location (wo?)
+- **Dativ-Verben:** Specific verbs that require dative case
+- **Kommasetzung:** Comma required before subordinating conjunctions and relative pronouns
+- **Wortstellung:** Verb-final in subordinate clauses, V2 in main clauses after fronted elements
+- **Adjektivendungen:** Adjective endings based on article type, case, gender, and number
+
+#### Step 2: Create Systematic Variations
+For each rule, create pairs that vary:
+- **Nouns:** Different genders (der/die/das) to test case recognition
+- **Verbs:** Different verbs that follow the same pattern
+- **Contexts:** Different but realistic scenarios
+- **Sentence structures:** Simple and complex sentences
+
+#### Step 3: Write the Correct Sentence First
+Always start with a natural, grammatically correct German sentence. Then create the incorrect version by changing only the target feature.
+
+#### Step 4: Verify the Highlight Words
+The `highlight` array must contain exactly the words that differ:
+- First element: the word/phrase as it appears in the CORRECT sentence
+- Second element: the word/phrase as it appears in the INCORRECT sentence
+
+### Category-Specific Guidelines
+
+#### Wechselpräpositionen (Two-way Prepositions)
+
+**Pattern:** Create pairs using the same preposition, contrasting movement vs. location verbs.
+
+| Movement Verbs (Akkusativ) | Location Verbs (Dativ) |
+|---------------------------|------------------------|
+| legen (to lay) | liegen (to lie) |
+| stellen (to place standing) | stehen (to stand) |
+| setzen (to set/seat) | sitzen (to sit) |
+| hängen (transitive) | hängen (intransitive) |
+| gehen, laufen, fahren | sein, bleiben, wohnen |
+
+**Example creation:**
+```
+Correct (movement): "Ich lege das Buch auf den Tisch."
+Incorrect: "Ich lege das Buch auf dem Tisch."
+Highlight: ["den", "dem"]
+Explanation: "Bei Bewegung (wohin?) verwendet man Akkusativ. 'legen' zeigt eine Bewegung an."
+```
+
+**Then create the location counterpart:**
+```
+Correct (location): "Das Buch liegt auf dem Tisch."
+Incorrect: "Das Buch liegt auf den Tisch."
+Highlight: ["dem", "den"]
+Explanation: "Bei einem Ort (wo?) verwendet man Dativ. 'liegen' beschreibt einen Zustand."
+```
+
+**Prepositions to use:** an, auf, hinter, in, neben, über, unter, vor, zwischen
+
+**Vary the nouns by gender:**
+- Masculine: Tisch, Schrank, Stuhl, Haken, Bahnhof
+- Feminine: Wand, Küche, Garage, Tasche
+- Neuter: Bett, Fenster, Buch, Haus
+
+#### Dativ-Verben (Dative Verbs)
+
+**Two sub-categories:**
+
+1. **Verbs requiring dative object:**
+   - helfen, danken, gefallen, gehören, schmecken, passen, folgen, glauben, antworten, vertrauen, gratulieren, widersprechen, begegnen, fehlen, ähneln, raten, gelingen, schaden, nützen
+
+2. **Prepositions always requiring dative:**
+   - mit, bei, aus, seit, nach, zu, von, gegenüber
+
+**Example creation (dative verb):**
+```
+Correct: "Ich helfe meinem Freund."
+Incorrect: "Ich helfe meinen Freund."
+Highlight: ["meinem", "meinen"]
+Explanation: "'helfen' verlangt den Dativ."
+```
+
+**Example creation (dative preposition):**
+```
+Correct: "Ich fahre mit dem Auto."
+Incorrect: "Ich fahre mit das Auto."
+Highlight: ["dem", "das"]
+Explanation: "'mit' ist eine Präposition, die den Dativ verlangt."
+```
+
+**Vary the pronouns/articles:** mir/mich, dir/dich, ihm/ihn, ihr/sie, meinem/meinen, dem/den, der/die
+
+#### Kommasetzung (Comma Rules)
+
+**Focus areas:**
+
+1. **Before subordinating conjunctions:** dass, weil, wenn, ob, obwohl, als, nachdem, bevor, während, seitdem, sobald, falls, damit
+2. **Around relative clauses:** der, die, das, welcher, welche, welches
+3. **Before infinitive clauses with zu:** especially with um...zu, ohne...zu, anstatt...zu
+4. **After fronted subordinate clauses**
+
+**Example creation (conjunction):**
+```
+Correct: "Ich weiß, dass er morgen kommt."
+Incorrect: "Ich weiß dass er morgen kommt."
+Highlight: [", dass", " dass"]
+Explanation: "Vor der Konjunktion 'dass' steht immer ein Komma."
+```
+
+**Example creation (fronted clause):**
+```
+Correct: "Wenn es regnet, bleibe ich zu Hause."
+Incorrect: "Wenn es regnet bleibe ich zu Hause."
+Highlight: ["regnet,", "regnet "]
+Explanation: "Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."
+```
+
+**Note:** The highlight includes the space or comma+space to show the exact difference.
+
+#### Wortstellung (Word Order)
+
+**Focus areas:**
+
+1. **Verb-final in subordinate clauses:** dass, weil, wenn, ob, als, etc.
+2. **V2 after fronted elements:** time expressions, adverbs, subordinate clauses
+3. **Position of infinitives and participles**
+4. **Indirect questions**
+
+**Example creation (subordinate clause):**
+```
+Correct: "Ich weiß, dass er morgen kommt."
+Incorrect: "Ich weiß, dass er kommt morgen."
+Highlight: ["kommt.", "kommt morgen."]
+Explanation: "Im Nebensatz steht das konjugierte Verb am Ende."
+```
+
+**Example creation (inversion after fronted element):**
+```
+Correct: "Morgen gehe ich ins Kino."
+Incorrect: "Morgen ich gehe ins Kino."
+Highlight: ["gehe ich", "ich gehe"]
+Explanation: "Nach einem vorangestellten Satzglied (hier: 'Morgen') folgt das Verb vor dem Subjekt."
+```
+
+**Fronted elements to use:** Morgen, Gestern, Heute, Leider, Hoffentlich, Deshalb, Trotzdem, Im Sommer, Dort drüben
+
+#### Adjektivendungen (Adjective Endings)
+
+**Three declension patterns:**
+
+1. **After definite article (der/die/das):** weak endings (-e or -en)
+2. **After indefinite article (ein/eine/ein):** mixed endings
+3. **No article:** strong endings (adjective shows gender/case)
+
+**Quick reference for common cases:**
+
+| Case | Definite (m/f/n/pl) | Indefinite (m/f/n) | No article (m/f/n) |
+|------|---------------------|--------------------|--------------------|
+| Nom | -e/-e/-e/-en | -er/-e/-es | -er/-e/-es |
+| Akk | -en/-e/-e/-en | -en/-e/-es | -en/-e/-es |
+| Dat | -en/-en/-en/-en | -en/-en/-en | -em/-er/-em |
+
+**Example creation (definite article):**
+```
+Correct: "Der große Mann steht dort."
+Incorrect: "Der großer Mann steht dort."
+Highlight: ["große", "großer"]
+Explanation: "Nach bestimmtem Artikel im Nominativ maskulin: -e"
+```
+
+**Example creation (indefinite article):**
+```
+Correct: "Ein großer Mann steht dort."
+Incorrect: "Ein große Mann steht dort."
+Highlight: ["großer", "große"]
+Explanation: "Nach unbestimmtem Artikel im Nominativ maskulin: -er (das Adjektiv übernimmt die Endung)"
+```
+
+**Also include:** possessive articles (mein, dein, sein), kein, dieser, jeder, welcher
+
+### Quality Checklist
+
+Before adding new items, verify:
+
+- [ ] The correct sentence is grammatically perfect
+- [ ] The incorrect sentence contains exactly ONE error
+- [ ] The error is a realistic learner mistake
+- [ ] The highlight array correctly identifies the differing words
+- [ ] The explanation is in German and clearly states the rule
+- [ ] The ID follows the convention (prefix + 3-digit number)
+- [ ] The JSON is valid (no trailing commas, proper quotes)
+- [ ] The sentence uses natural, everyday vocabulary
+
+### Common Pitfalls to Avoid
+
+1. **Multiple errors:** Don't create sentences where the incorrect version has more than one mistake
+2. **Ambiguous cases:** Avoid sentences where context could make either version acceptable
+3. **Overly complex sentences:** Keep sentences readable; the focus is grammar, not vocabulary
+4. **Rare vocabulary:** Use common words that B2/C1 learners know
+5. **German quotation marks:** Use `'single quotes'` in JSON, never `„German quotes"`
+6. **Inconsistent highlights:** Ensure highlights match exactly what appears in the sentences
+7. **Missing punctuation:** Both sentences should have proper ending punctuation
+
+### Generating at Scale
+
+To efficiently create many items:
+
+1. **Use templates:** Create sentence templates with slots for nouns/verbs
+2. **Systematic variation:** For each template, vary gender, number, and person
+3. **Pair creation:** For Wechselpräpositionen, always create movement AND location pairs
+4. **Batch validation:** After creating a batch, validate JSON and spot-check 10-20% of items
+5. **Difficulty progression:** Create some simple (difficulty: 1), medium (2), and complex (3) examples
+
+### Example Batch Creation (Wechselpräpositionen)
+
+Template: `[Subject] [verb] [object] [preposition] [article] [location].`
+
+Generate pairs for "auf" with masculine noun "Tisch":
+```json
+{"id": "wp001", "correct": "Ich lege das Buch auf den Tisch.", "incorrect": "Ich lege das Buch auf dem Tisch.", ...},
+{"id": "wp002", "correct": "Das Buch liegt auf dem Tisch.", "incorrect": "Das Buch liegt auf den Tisch.", ...}
+```
+
+Then repeat with feminine "Tasche", neuter "Bett", and other prepositions (in, an, unter, etc.).
+
+---
+
 ## Leitner Spaced Repetition System
 
 ### Box System
