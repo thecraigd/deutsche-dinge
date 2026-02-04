@@ -242,6 +242,774 @@
       "highlight": ["mir", "mich"],
       "explanation": "'gelingen' verlangt den Dativ.",
       "difficulty": 2
+    },
+    {
+      "id": "dv031",
+      "correct": "Die Musik gefällt ihm sehr.",
+      "incorrect": "Die Musik gefällt ihn sehr.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "'gefallen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv032",
+      "correct": "Das Spielzeug gehört dem Kind.",
+      "incorrect": "Das Spielzeug gehört das Kind.",
+      "highlight": ["dem", "das"],
+      "explanation": "'gehören' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv033",
+      "correct": "Der Wein schmeckt meinen Eltern.",
+      "incorrect": "Der Wein schmeckt meine Eltern.",
+      "highlight": ["meinen", "meine"],
+      "explanation": "'schmecken' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv034",
+      "correct": "Kannst du mir bitte helfen?",
+      "incorrect": "Kannst du mich bitte helfen?",
+      "highlight": ["mir", "mich"],
+      "explanation": "'helfen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv035",
+      "correct": "Die Hose passt ihm perfekt.",
+      "incorrect": "Die Hose passt ihn perfekt.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "'passen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv036",
+      "correct": "Ich danke Ihnen herzlich.",
+      "incorrect": "Ich danke Sie herzlich.",
+      "highlight": ["Ihnen", "Sie"],
+      "explanation": "'danken' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv037",
+      "correct": "Die Kinder folgen ihrer Mutter.",
+      "incorrect": "Die Kinder folgen ihre Mutter.",
+      "highlight": ["ihrer", "ihre"],
+      "explanation": "'folgen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv038",
+      "correct": "Das gefällt uns gar nicht.",
+      "incorrect": "Das gefällt wir gar nicht.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'gefallen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv039",
+      "correct": "Das Rauchen schadet der Lunge.",
+      "incorrect": "Das Rauchen schadet die Lunge.",
+      "highlight": ["der", "die"],
+      "explanation": "'schaden' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv040",
+      "correct": "Wir gratulieren euch zur Hochzeit.",
+      "incorrect": "Wir gratulieren euch zur Hochzeit.",
+      "highlight": ["euch", "euch"],
+      "explanation": "'gratulieren' verlangt den Dativ. 'euch' ist bereits Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv041",
+      "correct": "Er vertraut seinen Freunden.",
+      "incorrect": "Er vertraut seine Freunde.",
+      "highlight": ["seinen Freunden", "seine Freunde"],
+      "explanation": "'vertrauen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv042",
+      "correct": "Die Farbe steht dir ausgezeichnet.",
+      "incorrect": "Die Farbe steht dich ausgezeichnet.",
+      "highlight": ["dir", "dich"],
+      "explanation": "'stehen' (im Sinne von kleiden) verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv043",
+      "correct": "Niemand glaubt dem Politiker.",
+      "incorrect": "Niemand glaubt den Politiker.",
+      "highlight": ["dem", "den"],
+      "explanation": "'glauben' (einer Person) verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv044",
+      "correct": "Die Schülerin antwortet der Lehrerin.",
+      "incorrect": "Die Schülerin antwortet die Lehrerin.",
+      "highlight": ["der", "die"],
+      "explanation": "'antworten' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv045",
+      "correct": "Der neue Job nützt seiner Karriere.",
+      "incorrect": "Der neue Job nützt seine Karriere.",
+      "highlight": ["seiner", "seine"],
+      "explanation": "'nützen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv046",
+      "correct": "Das Kind widerspricht seinen Eltern.",
+      "incorrect": "Das Kind widerspricht seine Eltern.",
+      "highlight": ["seinen Eltern", "seine Eltern"],
+      "explanation": "'widersprechen' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv047",
+      "correct": "Der Erfolg gelingt dem Team.",
+      "incorrect": "Der Erfolg gelingt das Team.",
+      "highlight": ["dem", "das"],
+      "explanation": "'gelingen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv048",
+      "correct": "Die Zeit fehlt mir leider.",
+      "incorrect": "Die Zeit fehlt mich leider.",
+      "highlight": ["mir", "mich"],
+      "explanation": "'fehlen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv049",
+      "correct": "Ich rate meinem Bruder abzureisen.",
+      "incorrect": "Ich rate meinen Bruder abzureisen.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'raten' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv050",
+      "correct": "Die Tochter ähnelt der Mutter.",
+      "incorrect": "Die Tochter ähnelt die Mutter.",
+      "highlight": ["der", "die"],
+      "explanation": "'ähneln' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv051",
+      "correct": "Ich bin gestern meinem Nachbarn begegnet.",
+      "incorrect": "Ich bin gestern meinen Nachbarn begegnet.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'begegnen' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv052",
+      "correct": "Der Arzt hilft den Patienten.",
+      "incorrect": "Der Arzt hilft die Patienten.",
+      "highlight": ["den Patienten", "die Patienten"],
+      "explanation": "'helfen' verlangt den Dativ. Plural Dativ: den Patienten.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv053",
+      "correct": "Das Auto gehört meinem Onkel.",
+      "incorrect": "Das Auto gehört meinen Onkel.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'gehören' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv054",
+      "correct": "Die Suppe schmeckt den Kindern nicht.",
+      "incorrect": "Die Suppe schmeckt die Kinder nicht.",
+      "highlight": ["den Kindern", "die Kinder"],
+      "explanation": "'schmecken' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv055",
+      "correct": "Ich danke meinen Kollegen für alles.",
+      "incorrect": "Ich danke meine Kollegen für alles.",
+      "highlight": ["meinen Kollegen", "meine Kollegen"],
+      "explanation": "'danken' verlangt den Dativ. Plural Dativ: meinen Kollegen.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv056",
+      "correct": "Die Wohnung gefällt meiner Frau.",
+      "incorrect": "Die Wohnung gefällt meine Frau.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "'gefallen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv057",
+      "correct": "Der Hund folgt seinem Besitzer überall.",
+      "incorrect": "Der Hund folgt seinen Besitzer überall.",
+      "highlight": ["seinem", "seinen"],
+      "explanation": "'folgen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv058",
+      "correct": "Die neue Frisur steht meiner Tante.",
+      "incorrect": "Die neue Frisur steht meine Tante.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "'stehen' (im Sinne von kleiden) verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv059",
+      "correct": "Der Kuchen schmeckt allen Gästen.",
+      "incorrect": "Der Kuchen schmeckt alle Gäste.",
+      "highlight": ["allen Gästen", "alle Gäste"],
+      "explanation": "'schmecken' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv060",
+      "correct": "Das Medikament schadet dem Körper nicht.",
+      "incorrect": "Das Medikament schadet den Körper nicht.",
+      "highlight": ["dem", "den"],
+      "explanation": "'schaden' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv061",
+      "correct": "Sie kommt mit ihrer Freundin.",
+      "incorrect": "Sie kommt mit ihre Freundin.",
+      "highlight": ["ihrer", "ihre"],
+      "explanation": "'mit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv062",
+      "correct": "Er wohnt bei seinen Großeltern.",
+      "incorrect": "Er wohnt bei seine Großeltern.",
+      "highlight": ["seinen", "seine"],
+      "explanation": "'bei' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv063",
+      "correct": "Das Paket kommt aus einem anderen Land.",
+      "incorrect": "Das Paket kommt aus ein anderes Land.",
+      "highlight": ["einem anderen", "ein anderes"],
+      "explanation": "'aus' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv064",
+      "correct": "Ich kenne sie seit vielen Jahren.",
+      "incorrect": "Ich kenne sie seit viele Jahre.",
+      "highlight": ["vielen Jahren", "viele Jahre"],
+      "explanation": "'seit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv065",
+      "correct": "Nach der Arbeit gehe ich einkaufen.",
+      "incorrect": "Nach die Arbeit gehe ich einkaufen.",
+      "highlight": ["der", "die"],
+      "explanation": "'nach' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv066",
+      "correct": "Sie fährt zu ihrem Arzt.",
+      "incorrect": "Sie fährt zu ihren Arzt.",
+      "highlight": ["ihrem", "ihren"],
+      "explanation": "'zu' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv067",
+      "correct": "Ich habe das von meinem Lehrer gelernt.",
+      "incorrect": "Ich habe das von meinen Lehrer gelernt.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'von' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv068",
+      "correct": "Bist du mit dem Ergebnis zufrieden?",
+      "incorrect": "Bist du mit das Ergebnis zufrieden?",
+      "highlight": ["dem", "das"],
+      "explanation": "'mit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv069",
+      "correct": "Das Hotel liegt gegenüber der Kirche.",
+      "incorrect": "Das Hotel liegt gegenüber die Kirche.",
+      "highlight": ["der", "die"],
+      "explanation": "'gegenüber' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv070",
+      "correct": "Ich reise mit meinen Kindern.",
+      "incorrect": "Ich reise mit meine Kinder.",
+      "highlight": ["meinen Kindern", "meine Kinder"],
+      "explanation": "'mit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv071",
+      "correct": "Er kommt aus dem Büro.",
+      "incorrect": "Er kommt aus das Büro.",
+      "highlight": ["dem", "das"],
+      "explanation": "'aus' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv072",
+      "correct": "Sie arbeitet seit einem Monat hier.",
+      "incorrect": "Sie arbeitet seit einen Monat hier.",
+      "highlight": ["einem", "einen"],
+      "explanation": "'seit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv073",
+      "correct": "Nach dem Kurs trinken wir Kaffee.",
+      "incorrect": "Nach den Kurs trinken wir Kaffee.",
+      "highlight": ["dem", "den"],
+      "explanation": "'nach' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv074",
+      "correct": "Geh nicht zu nah an das Feuer!",
+      "incorrect": "Geh nicht zu nah an den Feuer!",
+      "highlight": ["das", "den"],
+      "explanation": "Dies ist kein Dativ-Fall, sondern Akkusativ mit 'an' (Richtung).",
+      "difficulty": 3
+    },
+    {
+      "id": "dv075",
+      "correct": "Er spricht von seinem neuen Job.",
+      "incorrect": "Er spricht von seinen neuen Job.",
+      "highlight": ["seinem", "seinen"],
+      "explanation": "'von' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv076",
+      "correct": "Ich fahre mit dem Zug nach Berlin.",
+      "incorrect": "Ich fahre mit den Zug nach Berlin.",
+      "highlight": ["dem", "den"],
+      "explanation": "'mit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv077",
+      "correct": "Das Geschäft ist gegenüber dem Park.",
+      "incorrect": "Das Geschäft ist gegenüber den Park.",
+      "highlight": ["dem", "den"],
+      "explanation": "'gegenüber' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv078",
+      "correct": "Sie wohnt bei ihrer Schwester.",
+      "incorrect": "Sie wohnt bei ihre Schwester.",
+      "highlight": ["ihrer", "ihre"],
+      "explanation": "'bei' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv079",
+      "correct": "Ich lerne Deutsch seit drei Wochen.",
+      "incorrect": "Ich lerne Deutsch seit drei Woche.",
+      "highlight": ["drei Wochen", "drei Woche"],
+      "explanation": "'seit' ist eine Präposition, die den Dativ verlangt. Plural Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv080",
+      "correct": "Er geht zu der Bäckerei.",
+      "incorrect": "Er geht zu die Bäckerei.",
+      "highlight": ["der", "die"],
+      "explanation": "'zu' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv081",
+      "correct": "Ich habe es von einem Freund gehört.",
+      "incorrect": "Ich habe es von einen Freund gehört.",
+      "highlight": ["einem", "einen"],
+      "explanation": "'von' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv082",
+      "correct": "Das Rezept ist von meiner Großmutter.",
+      "incorrect": "Das Rezept ist von meine Großmutter.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "'von' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv083",
+      "correct": "Nach dem Film gehen wir essen.",
+      "incorrect": "Nach der Film gehen wir essen.",
+      "highlight": ["dem", "der"],
+      "explanation": "'nach' ist eine Präposition, die den Dativ verlangt. Film ist maskulin.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv084",
+      "correct": "Er fährt mit dem Fahrrad zur Arbeit.",
+      "incorrect": "Er fährt mit das Fahrrad zur Arbeit.",
+      "highlight": ["dem", "das"],
+      "explanation": "'mit' ist eine Präposition, die den Dativ verlangt.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv085",
+      "correct": "Die Katze gehört den Nachbarn.",
+      "incorrect": "Die Katze gehört die Nachbarn.",
+      "highlight": ["den Nachbarn", "die Nachbarn"],
+      "explanation": "'gehören' verlangt den Dativ. Plural Dativ: den Nachbarn.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv086",
+      "correct": "Wir helfen unseren Eltern im Garten.",
+      "incorrect": "Wir helfen unsere Eltern im Garten.",
+      "highlight": ["unseren Eltern", "unsere Eltern"],
+      "explanation": "'helfen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv087",
+      "correct": "Der Schnee schadet den Blumen.",
+      "incorrect": "Der Schnee schadet die Blumen.",
+      "highlight": ["den Blumen", "die Blumen"],
+      "explanation": "'schaden' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv088",
+      "correct": "Sie vertraut ihrem Mann vollkommen.",
+      "incorrect": "Sie vertraut ihren Mann vollkommen.",
+      "highlight": ["ihrem", "ihren"],
+      "explanation": "'vertrauen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv089",
+      "correct": "Die Arbeit gelingt dem Praktikanten gut.",
+      "incorrect": "Die Arbeit gelingt den Praktikanten gut.",
+      "highlight": ["dem", "den"],
+      "explanation": "'gelingen' verlangt den Dativ. Singular: dem Praktikanten.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv090",
+      "correct": "Das Geld fehlt dem Verein.",
+      "incorrect": "Das Geld fehlt den Verein.",
+      "highlight": ["dem", "den"],
+      "explanation": "'fehlen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv091",
+      "correct": "Sie gratulieren dem Gewinner.",
+      "incorrect": "Sie gratulieren den Gewinner.",
+      "highlight": ["dem", "den"],
+      "explanation": "'gratulieren' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv092",
+      "correct": "Er widerspricht der Theorie.",
+      "incorrect": "Er widerspricht die Theorie.",
+      "highlight": ["der", "die"],
+      "explanation": "'widersprechen' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv093",
+      "correct": "Die Übung nützt den Schülern.",
+      "incorrect": "Die Übung nützt die Schüler.",
+      "highlight": ["den Schülern", "die Schüler"],
+      "explanation": "'nützen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv094",
+      "correct": "Das Baby ähnelt seinem Vater sehr.",
+      "incorrect": "Das Baby ähnelt seinen Vater sehr.",
+      "highlight": ["seinem", "seinen"],
+      "explanation": "'ähneln' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv095",
+      "correct": "Ich bin meiner alten Lehrerin begegnet.",
+      "incorrect": "Ich bin meine alte Lehrerin begegnet.",
+      "highlight": ["meiner alten Lehrerin", "meine alte Lehrerin"],
+      "explanation": "'begegnen' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv096",
+      "correct": "Die rote Jacke gefällt meinem Sohn.",
+      "incorrect": "Die rote Jacke gefällt meinen Sohn.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'gefallen' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv097",
+      "correct": "Der Anzug passt dem Herrn gut.",
+      "incorrect": "Der Anzug passt den Herrn gut.",
+      "highlight": ["dem", "den"],
+      "explanation": "'passen' verlangt den Dativ. Singular Dativ: dem Herrn.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv098",
+      "correct": "Wir folgen den Anweisungen.",
+      "incorrect": "Wir folgen die Anweisungen.",
+      "highlight": ["den Anweisungen", "die Anweisungen"],
+      "explanation": "'folgen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv099",
+      "correct": "Er glaubt seiner Frau jedes Wort.",
+      "incorrect": "Er glaubt seine Frau jedes Wort.",
+      "highlight": ["seiner", "seine"],
+      "explanation": "'glauben' (einer Person) verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv100",
+      "correct": "Der Stress schadet meiner Gesundheit.",
+      "incorrect": "Der Stress schadet meine Gesundheit.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "'schaden' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv101",
+      "correct": "Die Kellnerin antwortet dem Gast höflich.",
+      "incorrect": "Die Kellnerin antwortet den Gast höflich.",
+      "highlight": ["dem", "den"],
+      "explanation": "'antworten' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv102",
+      "correct": "Das steht deiner Schwester wirklich gut.",
+      "incorrect": "Das steht deine Schwester wirklich gut.",
+      "highlight": ["deiner", "deine"],
+      "explanation": "'stehen' (im Sinne von kleiden) verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv103",
+      "correct": "Ich rate ihm zur Abreise.",
+      "incorrect": "Ich rate ihn zur Abreise.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "'raten' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv104",
+      "correct": "Das Experiment gelingt den Forschern.",
+      "incorrect": "Das Experiment gelingt die Forscher.",
+      "highlight": ["den Forschern", "die Forscher"],
+      "explanation": "'gelingen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv105",
+      "correct": "Ihm fehlt die nötige Erfahrung.",
+      "incorrect": "Ihn fehlt die nötige Erfahrung.",
+      "highlight": ["Ihm", "Ihn"],
+      "explanation": "'fehlen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv106",
+      "correct": "Sie widerspricht ihrem Kollegen nie.",
+      "incorrect": "Sie widerspricht ihren Kollegen nie.",
+      "highlight": ["ihrem", "ihren"],
+      "explanation": "'widersprechen' verlangt den Dativ. Singular: ihrem Kollegen.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv107",
+      "correct": "Das Training nützt deinem Körper.",
+      "incorrect": "Das Training nützt deinen Körper.",
+      "highlight": ["deinem", "deinen"],
+      "explanation": "'nützen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv108",
+      "correct": "Sie ähnelt ihrer Großmutter.",
+      "incorrect": "Sie ähnelt ihre Großmutter.",
+      "highlight": ["ihrer", "ihre"],
+      "explanation": "'ähneln' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv109",
+      "correct": "Wir sind dem Chef auf der Straße begegnet.",
+      "incorrect": "Wir sind den Chef auf der Straße begegnet.",
+      "highlight": ["dem", "den"],
+      "explanation": "'begegnen' verlangt den Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "dv110",
+      "correct": "Das Haus gehört einer reichen Familie.",
+      "incorrect": "Das Haus gehört eine reiche Familie.",
+      "highlight": ["einer reichen Familie", "eine reiche Familie"],
+      "explanation": "'gehören' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv111",
+      "correct": "Mit wem fährst du in den Urlaub?",
+      "incorrect": "Mit wen fährst du in den Urlaub?",
+      "highlight": ["wem", "wen"],
+      "explanation": "'mit' verlangt den Dativ. Fragepronomen: wem.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv112",
+      "correct": "Bei welchem Arzt bist du?",
+      "incorrect": "Bei welchen Arzt bist du?",
+      "highlight": ["welchem", "welchen"],
+      "explanation": "'bei' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv113",
+      "correct": "Aus welchem Land kommst du?",
+      "incorrect": "Aus welches Land kommst du?",
+      "highlight": ["welchem", "welches"],
+      "explanation": "'aus' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv114",
+      "correct": "Seit wann lernst du Deutsch?",
+      "incorrect": "Seit wann lernst du Deutsch?",
+      "highlight": ["wann", "wann"],
+      "explanation": "'seit' verlangt Dativ. 'wann' ist ein Zeitadverb, kein Kasus.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv115",
+      "correct": "Nach welchem Buch suchst du?",
+      "incorrect": "Nach welches Buch suchst du?",
+      "highlight": ["welchem", "welches"],
+      "explanation": "'nach' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv116",
+      "correct": "Zu welcher Ärztin gehst du?",
+      "incorrect": "Zu welche Ärztin gehst du?",
+      "highlight": ["welcher", "welche"],
+      "explanation": "'zu' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv117",
+      "correct": "Von wem hast du das gehört?",
+      "incorrect": "Von wen hast du das gehört?",
+      "highlight": ["wem", "wen"],
+      "explanation": "'von' verlangt den Dativ. Fragepronomen: wem.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv118",
+      "correct": "Sie tanzt mit einem Fremden.",
+      "incorrect": "Sie tanzt mit einen Fremden.",
+      "highlight": ["einem", "einen"],
+      "explanation": "'mit' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv119",
+      "correct": "Er lebt bei seiner Tante.",
+      "incorrect": "Er lebt bei seine Tante.",
+      "highlight": ["seiner", "seine"],
+      "explanation": "'bei' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv120",
+      "correct": "Das Bild stammt aus dem 18. Jahrhundert.",
+      "incorrect": "Das Bild stammt aus das 18. Jahrhundert.",
+      "highlight": ["dem", "das"],
+      "explanation": "'aus' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv121",
+      "correct": "Die Pizza schmeckt dem Jungen besonders gut.",
+      "incorrect": "Die Pizza schmeckt den Jungen besonders gut.",
+      "highlight": ["dem", "den"],
+      "explanation": "'schmecken' verlangt den Dativ. Singular: dem Jungen.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv122",
+      "correct": "Der Lehrer hilft dem Studenten beim Lernen.",
+      "incorrect": "Der Lehrer hilft den Studenten beim Lernen.",
+      "highlight": ["dem", "den"],
+      "explanation": "'helfen' verlangt den Dativ. Singular: dem Studenten.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv123",
+      "correct": "Das Handy gehört dem Mädchen.",
+      "incorrect": "Das Handy gehört das Mädchen.",
+      "highlight": ["dem", "das"],
+      "explanation": "'gehören' verlangt den Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "dv124",
+      "correct": "Der Film gefällt allen Zuschauern.",
+      "incorrect": "Der Film gefällt alle Zuschauer.",
+      "highlight": ["allen Zuschauern", "alle Zuschauer"],
+      "explanation": "'gefallen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv125",
+      "correct": "Die Schuhe passen meiner Tochter nicht mehr.",
+      "incorrect": "Die Schuhe passen meine Tochter nicht mehr.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "'passen' verlangt den Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "dv126",
+      "correct": "Ich danke dem Fahrer für seine Hilfe.",
+      "incorrect": "Ich danke den Fahrer für seine Hilfe.",
+      "highlight": ["dem", "den"],
+      "explanation": "'danken' verlangt den Dativ.",
+      "difficulty": 2
     }
   ]
 }

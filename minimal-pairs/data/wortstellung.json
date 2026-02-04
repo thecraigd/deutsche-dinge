@@ -242,6 +242,774 @@
       "highlight": ["steht mein", "mein Auto steht."],
       "explanation": "Nach einer vorangestellten Ortsangabe folgt das Verb vor dem Subjekt.",
       "difficulty": 2
+    },
+    {
+      "id": "ws031",
+      "correct": "Sie weiß, dass er Arzt ist.",
+      "incorrect": "Sie weiß, dass er ist Arzt.",
+      "highlight": ["Arzt ist.", "ist Arzt."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws032",
+      "correct": "Er hofft, dass sie bald kommt.",
+      "incorrect": "Er hofft, dass sie kommt bald.",
+      "highlight": ["bald kommt.", "kommt bald."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws033",
+      "correct": "Ich denke, dass das richtig ist.",
+      "incorrect": "Ich denke, dass das ist richtig.",
+      "highlight": ["richtig ist.", "ist richtig."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws034",
+      "correct": "Sie glaubt, dass er sie liebt.",
+      "incorrect": "Sie glaubt, dass er liebt sie.",
+      "highlight": ["sie liebt.", "liebt sie."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws035",
+      "correct": "Ich bin froh, weil du hier bist.",
+      "incorrect": "Ich bin froh, weil du bist hier.",
+      "highlight": ["hier bist.", "bist hier."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws036",
+      "correct": "Er kommt nicht, weil er arbeiten muss.",
+      "incorrect": "Er kommt nicht, weil er muss arbeiten.",
+      "highlight": ["arbeiten muss.", "muss arbeiten."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws037",
+      "correct": "Sie ist müde, weil sie wenig geschlafen hat.",
+      "incorrect": "Sie ist müde, weil sie hat wenig geschlafen.",
+      "highlight": ["geschlafen hat.", "hat wenig geschlafen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws038",
+      "correct": "Heute habe ich viel gelernt.",
+      "incorrect": "Heute ich habe viel gelernt.",
+      "highlight": ["habe ich", "ich habe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws039",
+      "correct": "Letzte Woche war ich in Berlin.",
+      "incorrect": "Letzte Woche ich war in Berlin.",
+      "highlight": ["war ich", "ich war"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws040",
+      "correct": "Nächstes Jahr reise ich nach Japan.",
+      "incorrect": "Nächstes Jahr ich reise nach Japan.",
+      "highlight": ["reise ich", "ich reise"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws041",
+      "correct": "Am Wochenende besuche ich meine Eltern.",
+      "incorrect": "Am Wochenende ich besuche meine Eltern.",
+      "highlight": ["besuche ich", "ich besuche"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws042",
+      "correct": "Manchmal esse ich Pizza zum Frühstück.",
+      "incorrect": "Manchmal ich esse Pizza zum Frühstück.",
+      "highlight": ["esse ich", "ich esse"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws043",
+      "correct": "Jeden Tag trinke ich Kaffee.",
+      "incorrect": "Jeden Tag ich trinke Kaffee.",
+      "highlight": ["trinke ich", "ich trinke"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws044",
+      "correct": "Normalerweise stehe ich um 7 Uhr auf.",
+      "incorrect": "Normalerweise ich stehe um 7 Uhr auf.",
+      "highlight": ["stehe ich", "ich stehe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws045",
+      "correct": "Glücklicherweise hat er den Bus noch erreicht.",
+      "incorrect": "Glücklicherweise er hat den Bus noch erreicht.",
+      "highlight": ["hat er", "er hat"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws046",
+      "correct": "Wahrscheinlich kommt sie später.",
+      "incorrect": "Wahrscheinlich sie kommt später.",
+      "highlight": ["kommt sie", "sie kommt"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws047",
+      "correct": "Vielleicht gehen wir morgen ins Kino.",
+      "incorrect": "Vielleicht wir gehen morgen ins Kino.",
+      "highlight": ["gehen wir", "wir gehen"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws048",
+      "correct": "Natürlich helfe ich dir.",
+      "incorrect": "Natürlich ich helfe dir.",
+      "highlight": ["helfe ich", "ich helfe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws049",
+      "correct": "Er fragt, wo sie wohnt.",
+      "incorrect": "Er fragt, wo wohnt sie.",
+      "highlight": ["sie wohnt.", "wohnt sie."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws050",
+      "correct": "Sie möchte wissen, wann das Konzert beginnt.",
+      "incorrect": "Sie möchte wissen, wann beginnt das Konzert.",
+      "highlight": ["Konzert beginnt.", "beginnt das Konzert."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws051",
+      "correct": "Ich verstehe nicht, warum er das gesagt hat.",
+      "incorrect": "Ich verstehe nicht, warum hat er das gesagt.",
+      "highlight": ["gesagt hat.", "hat er das gesagt."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws052",
+      "correct": "Er erklärt mir, wie das funktioniert.",
+      "incorrect": "Er erklärt mir, wie funktioniert das.",
+      "highlight": ["das funktioniert.", "funktioniert das."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws053",
+      "correct": "Weißt du, wer das gemacht hat?",
+      "incorrect": "Weißt du, wer hat das gemacht?",
+      "highlight": ["gemacht hat?", "hat das gemacht?"],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws054",
+      "correct": "Ich weiß nicht, was ich machen soll.",
+      "incorrect": "Ich weiß nicht, was soll ich machen.",
+      "highlight": ["machen soll.", "soll ich machen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws055",
+      "correct": "Die Frau, die dort sitzt, ist meine Schwester.",
+      "incorrect": "Die Frau, die sitzt dort, ist meine Schwester.",
+      "highlight": ["dort sitzt,", "sitzt dort,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws056",
+      "correct": "Das ist der Film, den ich gesehen habe.",
+      "incorrect": "Das ist der Film, den ich habe gesehen.",
+      "highlight": ["gesehen habe.", "habe gesehen."],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws057",
+      "correct": "Das Haus, in dem wir wohnen, ist alt.",
+      "incorrect": "Das Haus, in dem wohnen wir, ist alt.",
+      "highlight": ["wir wohnen,", "wohnen wir,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws058",
+      "correct": "Die Leute, die hier arbeiten, sind freundlich.",
+      "incorrect": "Die Leute, die arbeiten hier, sind freundlich.",
+      "highlight": ["hier arbeiten,", "arbeiten hier,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws059",
+      "correct": "Wenn du Zeit hast, ruf mich an.",
+      "incorrect": "Wenn du Zeit hast, ruf an mich.",
+      "highlight": ["ruf mich an.", "ruf an mich."],
+      "explanation": "Der abtrennbare Verbteil steht am Ende des Hauptsatzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws060",
+      "correct": "Als sie ankam, freuten wir uns.",
+      "incorrect": "Als sie ankam, wir freuten uns.",
+      "highlight": ["freuten wir", "wir freuten"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws061",
+      "correct": "Weil er krank ist, bleibt er zu Hause.",
+      "incorrect": "Weil er krank ist, er bleibt zu Hause.",
+      "highlight": ["bleibt er", "er bleibt"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws062",
+      "correct": "Bevor ich gehe, muss ich noch etwas erledigen.",
+      "incorrect": "Bevor ich gehe, ich muss noch etwas erledigen.",
+      "highlight": ["muss ich", "ich muss"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws063",
+      "correct": "Sobald er fertig ist, ruft er an.",
+      "incorrect": "Sobald er fertig ist, er ruft an.",
+      "highlight": ["ruft er", "er ruft"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws064",
+      "correct": "Falls es regnet, nehmen wir den Bus.",
+      "incorrect": "Falls es regnet, wir nehmen den Bus.",
+      "highlight": ["nehmen wir", "wir nehmen"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws065",
+      "correct": "Sie will morgen früh aufstehen.",
+      "incorrect": "Sie will aufstehen morgen früh.",
+      "highlight": ["früh aufstehen.", "aufstehen morgen früh."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws066",
+      "correct": "Ich kann heute leider nicht kommen.",
+      "incorrect": "Ich kann kommen heute leider nicht.",
+      "highlight": ["nicht kommen.", "kommen heute leider nicht."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws067",
+      "correct": "Er möchte im Sommer nach Spanien fahren.",
+      "incorrect": "Er möchte fahren im Sommer nach Spanien.",
+      "highlight": ["Spanien fahren.", "fahren im Sommer nach Spanien."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws068",
+      "correct": "Wir werden nächstes Jahr heiraten.",
+      "incorrect": "Wir werden heiraten nächstes Jahr.",
+      "highlight": ["Jahr heiraten.", "heiraten nächstes Jahr."],
+      "explanation": "Der Infinitiv steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws069",
+      "correct": "Sie hat gestern einen Kuchen gebacken.",
+      "incorrect": "Sie hat gebacken gestern einen Kuchen.",
+      "highlight": ["Kuchen gebacken.", "gebacken gestern einen Kuchen."],
+      "explanation": "Das Partizip steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws070",
+      "correct": "Er ist letzte Woche nach Paris geflogen.",
+      "incorrect": "Er ist geflogen letzte Woche nach Paris.",
+      "highlight": ["Paris geflogen.", "geflogen letzte Woche nach Paris."],
+      "explanation": "Das Partizip steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws071",
+      "correct": "Ich habe ihm gestern das Buch gegeben.",
+      "incorrect": "Ich habe gegeben ihm gestern das Buch.",
+      "highlight": ["Buch gegeben.", "gegeben ihm gestern das Buch."],
+      "explanation": "Das Partizip steht am Ende des Satzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws072",
+      "correct": "Außerdem spreche ich auch Französisch.",
+      "incorrect": "Außerdem ich spreche auch Französisch.",
+      "highlight": ["spreche ich", "ich spreche"],
+      "explanation": "Nach 'außerdem' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws073",
+      "correct": "Daher muss ich jetzt gehen.",
+      "incorrect": "Daher ich muss jetzt gehen.",
+      "highlight": ["muss ich", "ich muss"],
+      "explanation": "Nach 'daher' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws074",
+      "correct": "Dennoch hat er es geschafft.",
+      "incorrect": "Dennoch er hat es geschafft.",
+      "highlight": ["hat er", "er hat"],
+      "explanation": "Nach 'dennoch' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws075",
+      "correct": "Allerdings ist das schwierig.",
+      "incorrect": "Allerdings das ist schwierig.",
+      "highlight": ["ist das", "das ist"],
+      "explanation": "Nach 'allerdings' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws076",
+      "correct": "Schließlich haben wir es gefunden.",
+      "incorrect": "Schließlich wir haben es gefunden.",
+      "highlight": ["haben wir", "wir haben"],
+      "explanation": "Nach 'schließlich' folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws077",
+      "correct": "Ich weiß, dass er gestern angekommen ist.",
+      "incorrect": "Ich weiß, dass er gestern ist angekommen.",
+      "highlight": ["angekommen ist.", "ist angekommen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws078",
+      "correct": "Er sagt, dass er morgen arbeiten muss.",
+      "incorrect": "Er sagt, dass er morgen muss arbeiten.",
+      "highlight": ["arbeiten muss.", "muss arbeiten."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws079",
+      "correct": "Sie hofft, dass sie bald kommen kann.",
+      "incorrect": "Sie hofft, dass sie bald kann kommen.",
+      "highlight": ["kommen kann.", "kann kommen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws080",
+      "correct": "Ich glaube, dass er das verstanden hat.",
+      "incorrect": "Ich glaube, dass er das hat verstanden.",
+      "highlight": ["verstanden hat.", "hat verstanden."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws081",
+      "correct": "Am Anfang war es schwierig.",
+      "incorrect": "Am Anfang es war schwierig.",
+      "highlight": ["war es", "es war"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws082",
+      "correct": "Zum Glück hat niemand etwas bemerkt.",
+      "incorrect": "Zum Glück niemand hat etwas bemerkt.",
+      "highlight": ["hat niemand", "niemand hat"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws083",
+      "correct": "Aus diesem Grund bleibe ich hier.",
+      "incorrect": "Aus diesem Grund ich bleibe hier.",
+      "highlight": ["bleibe ich", "ich bleibe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws084",
+      "correct": "Unter diesen Umständen kann ich nicht helfen.",
+      "incorrect": "Unter diesen Umständen ich kann nicht helfen.",
+      "highlight": ["kann ich", "ich kann"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws085",
+      "correct": "Mit großer Freude nehme ich an.",
+      "incorrect": "Mit großer Freude ich nehme an.",
+      "highlight": ["nehme ich", "ich nehme"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws086",
+      "correct": "Sie fragt sich, ob das stimmt.",
+      "incorrect": "Sie fragt sich, ob stimmt das.",
+      "highlight": ["das stimmt.", "stimmt das."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws087",
+      "correct": "Ich frage mich, ob er morgen kommt.",
+      "incorrect": "Ich frage mich, ob kommt er morgen.",
+      "highlight": ["morgen kommt.", "kommt er morgen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws088",
+      "correct": "Er weiß nicht, ob sie ihm helfen kann.",
+      "incorrect": "Er weiß nicht, ob sie kann ihm helfen.",
+      "highlight": ["helfen kann.", "kann ihm helfen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws089",
+      "correct": "Kannst du mir sagen, wie spät es ist?",
+      "incorrect": "Kannst du mir sagen, wie spät ist es?",
+      "highlight": ["es ist?", "ist es?"],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws090",
+      "correct": "Ich verstehe nicht, weshalb er gegangen ist.",
+      "incorrect": "Ich verstehe nicht, weshalb ist er gegangen.",
+      "highlight": ["gegangen ist.", "ist er gegangen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws091",
+      "correct": "Zuerst mache ich meine Hausaufgaben.",
+      "incorrect": "Zuerst ich mache meine Hausaufgaben.",
+      "highlight": ["mache ich", "ich mache"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws092",
+      "correct": "Dann gehe ich zum Sport.",
+      "incorrect": "Dann ich gehe zum Sport.",
+      "highlight": ["gehe ich", "ich gehe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws093",
+      "correct": "Danach treffe ich meine Freunde.",
+      "incorrect": "Danach ich treffe meine Freunde.",
+      "highlight": ["treffe ich", "ich treffe"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws094",
+      "correct": "Früher hatte ich einen Hund.",
+      "incorrect": "Früher ich hatte einen Hund.",
+      "highlight": ["hatte ich", "ich hatte"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 1
+    },
+    {
+      "id": "ws095",
+      "correct": "Plötzlich fing es an zu regnen.",
+      "incorrect": "Plötzlich es fing an zu regnen.",
+      "highlight": ["fing es", "es fing"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws096",
+      "correct": "Endlich haben wir es geschafft.",
+      "incorrect": "Endlich wir haben es geschafft.",
+      "highlight": ["haben wir", "wir haben"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws097",
+      "correct": "Insgesamt bin ich zufrieden.",
+      "incorrect": "Insgesamt ich bin zufrieden.",
+      "highlight": ["bin ich", "ich bin"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws098",
+      "correct": "Momentan arbeite ich von zu Hause.",
+      "incorrect": "Momentan ich arbeite von zu Hause.",
+      "highlight": ["arbeite ich", "ich arbeite"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws099",
+      "correct": "Ich denke, dass er recht haben könnte.",
+      "incorrect": "Ich denke, dass er könnte recht haben.",
+      "highlight": ["haben könnte.", "könnte recht haben."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws100",
+      "correct": "Sie sagt, dass sie früher aufstehen wird.",
+      "incorrect": "Sie sagt, dass sie wird früher aufstehen.",
+      "highlight": ["aufstehen wird.", "wird früher aufstehen."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws101",
+      "correct": "Er behauptet, dass er nichts gewusst hat.",
+      "incorrect": "Er behauptet, dass er hat nichts gewusst.",
+      "highlight": ["gewusst hat.", "hat nichts gewusst."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws102",
+      "correct": "Ich bin sicher, dass sie pünktlich sein wird.",
+      "incorrect": "Ich bin sicher, dass sie wird pünktlich sein.",
+      "highlight": ["sein wird.", "wird pünktlich sein."],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws103",
+      "correct": "Hier arbeiten viele Menschen.",
+      "incorrect": "Hier viele Menschen arbeiten.",
+      "highlight": ["arbeiten viele", "viele Menschen arbeiten."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws104",
+      "correct": "In diesem Gebäude befinden sich die Büros.",
+      "incorrect": "In diesem Gebäude die Büros befinden sich.",
+      "highlight": ["befinden sich die", "die Büros befinden sich."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws105",
+      "correct": "Auf dem Tisch liegt ein Buch.",
+      "incorrect": "Auf dem Tisch ein Buch liegt.",
+      "highlight": ["liegt ein", "ein Buch liegt."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws106",
+      "correct": "In der Küche kocht meine Mutter.",
+      "incorrect": "In der Küche meine Mutter kocht.",
+      "highlight": ["kocht meine", "meine Mutter kocht."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws107",
+      "correct": "Durch den Park laufen viele Jogger.",
+      "incorrect": "Durch den Park viele Jogger laufen.",
+      "highlight": ["laufen viele", "viele Jogger laufen."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws108",
+      "correct": "Nach dem Essen ruhen wir uns aus.",
+      "incorrect": "Nach dem Essen wir ruhen uns aus.",
+      "highlight": ["ruhen wir", "wir ruhen"],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws109",
+      "correct": "Vor dem Haus steht ein großer Baum.",
+      "incorrect": "Vor dem Haus ein großer Baum steht.",
+      "highlight": ["steht ein", "ein großer Baum steht."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws110",
+      "correct": "Im Garten spielen die Kinder.",
+      "incorrect": "Im Garten die Kinder spielen.",
+      "highlight": ["spielen die", "die Kinder spielen."],
+      "explanation": "Nach einem vorangestellten Satzglied folgt das Verb vor dem Subjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws111",
+      "correct": "Er weiß nicht, wie er das machen soll.",
+      "incorrect": "Er weiß nicht, wie soll er das machen.",
+      "highlight": ["machen soll.", "soll er das machen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws112",
+      "correct": "Sie fragt, wohin wir fahren wollen.",
+      "incorrect": "Sie fragt, wohin wollen wir fahren.",
+      "highlight": ["fahren wollen.", "wollen wir fahren."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws113",
+      "correct": "Ich erkläre dir, wie das funktioniert.",
+      "incorrect": "Ich erkläre dir, wie funktioniert das.",
+      "highlight": ["das funktioniert.", "funktioniert das."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws114",
+      "correct": "Er erzählt uns, was passiert ist.",
+      "incorrect": "Er erzählt uns, was ist passiert.",
+      "highlight": ["passiert ist.", "ist passiert."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws115",
+      "correct": "Sie weiß nicht, wen sie einladen soll.",
+      "incorrect": "Sie weiß nicht, wen soll sie einladen.",
+      "highlight": ["einladen soll.", "soll sie einladen."],
+      "explanation": "Im indirekten Fragesatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws116",
+      "correct": "Der Mann, dessen Auto gestohlen wurde, ist wütend.",
+      "incorrect": "Der Mann, dessen Auto wurde gestohlen, ist wütend.",
+      "highlight": ["gestohlen wurde,", "wurde gestohlen,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws117",
+      "correct": "Die Stadt, in der ich geboren wurde, ist klein.",
+      "incorrect": "Die Stadt, in der wurde ich geboren, ist klein.",
+      "highlight": ["geboren wurde,", "wurde ich geboren,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws118",
+      "correct": "Das Buch, das ich lesen möchte, ist vergriffen.",
+      "incorrect": "Das Buch, das ich möchte lesen, ist vergriffen.",
+      "highlight": ["lesen möchte,", "möchte lesen,"],
+      "explanation": "Im Relativsatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws119",
+      "correct": "Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
+      "incorrect": "Wenn ich hätte Zeit gehabt, wäre ich gekommen.",
+      "highlight": ["gehabt hätte,", "hätte Zeit gehabt,"],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws120",
+      "correct": "Obwohl er viel gearbeitet hatte, war er nicht müde.",
+      "incorrect": "Obwohl er hatte viel gearbeitet, war er nicht müde.",
+      "highlight": ["gearbeitet hatte,", "hatte viel gearbeitet,"],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 3
+    },
+    {
+      "id": "ws121",
+      "correct": "Bevor ich es vergesse, sage ich es dir jetzt.",
+      "incorrect": "Bevor ich vergesse es, sage ich es dir jetzt.",
+      "highlight": ["es vergesse,", "vergesse es,"],
+      "explanation": "Im Nebensatz steht das konjugierte Verb am Ende.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws122",
+      "correct": "Sobald sie ankommt, rufen wir dich an.",
+      "incorrect": "Sobald sie ankommt, wir rufen dich an.",
+      "highlight": ["rufen wir", "wir rufen"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws123",
+      "correct": "Seit er das weiß, verhält er sich anders.",
+      "incorrect": "Seit er das weiß, er verhält sich anders.",
+      "highlight": ["verhält er", "er verhält"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws124",
+      "correct": "Damit du es verstehst, erkläre ich es nochmal.",
+      "incorrect": "Damit du es verstehst, ich erkläre es nochmal.",
+      "highlight": ["erkläre ich", "ich erkläre"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws125",
+      "correct": "Obgleich es schwer war, hat er nicht aufgegeben.",
+      "incorrect": "Obgleich es schwer war, er hat nicht aufgegeben.",
+      "highlight": ["hat er", "er hat"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 2
+    },
+    {
+      "id": "ws126",
+      "correct": "Indem er hart arbeitete, erreichte er sein Ziel.",
+      "incorrect": "Indem er hart arbeitete, er erreichte sein Ziel.",
+      "highlight": ["erreichte er", "er erreichte"],
+      "explanation": "Nach einem vorangestellten Nebensatz folgt das Verb vor dem Subjekt im Hauptsatz.",
+      "difficulty": 3
     }
   ]
 }

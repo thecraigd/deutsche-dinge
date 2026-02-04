@@ -242,6 +242,774 @@
       "highlight": ["dem", "das"],
       "explanation": "'liegen unter' beschreibt einen Ort, daher Dativ.",
       "difficulty": 2
+    },
+    {
+      "id": "wp031",
+      "correct": "Er legt den Schlüssel auf die Kommode.",
+      "incorrect": "Er legt den Schlüssel auf der Kommode.",
+      "highlight": ["die", "der"],
+      "explanation": "'legen' zeigt eine Bewegung an (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp032",
+      "correct": "Der Schlüssel liegt auf der Kommode.",
+      "incorrect": "Der Schlüssel liegt auf die Kommode.",
+      "highlight": ["der", "die"],
+      "explanation": "'liegen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp033",
+      "correct": "Sie stellt die Tasse auf den Teller.",
+      "incorrect": "Sie stellt die Tasse auf dem Teller.",
+      "highlight": ["den", "dem"],
+      "explanation": "'stellen' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp034",
+      "correct": "Die Tasse steht auf dem Teller.",
+      "incorrect": "Die Tasse steht auf den Teller.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp035",
+      "correct": "Das Kind legt die Puppe in das Bett.",
+      "incorrect": "Das Kind legt die Puppe in dem Bett.",
+      "highlight": ["das", "dem"],
+      "explanation": "'legen' zeigt eine Bewegung an (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp036",
+      "correct": "Die Puppe liegt in dem Bett.",
+      "incorrect": "Die Puppe liegt in das Bett.",
+      "highlight": ["dem", "das"],
+      "explanation": "'liegen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp037",
+      "correct": "Ich hänge die Jacke in den Schrank.",
+      "incorrect": "Ich hänge die Jacke in dem Schrank.",
+      "highlight": ["den", "dem"],
+      "explanation": "'hängen' (transitiv) ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp038",
+      "correct": "Die Jacke hängt in dem Schrank.",
+      "incorrect": "Die Jacke hängt in den Schrank.",
+      "highlight": ["dem", "den"],
+      "explanation": "'hängen' (intransitiv) beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp039",
+      "correct": "Sie setzt das Baby auf das Sofa.",
+      "incorrect": "Sie setzt das Baby auf dem Sofa.",
+      "highlight": ["das", "dem"],
+      "explanation": "'setzen' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp040",
+      "correct": "Das Baby sitzt auf dem Sofa.",
+      "incorrect": "Das Baby sitzt auf das Sofa.",
+      "highlight": ["dem", "das"],
+      "explanation": "'sitzen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp041",
+      "correct": "Er fährt den Wagen vor das Haus.",
+      "incorrect": "Er fährt den Wagen vor dem Haus.",
+      "highlight": ["das", "dem"],
+      "explanation": "'fahren vor' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp042",
+      "correct": "Der Wagen steht vor dem Haus.",
+      "incorrect": "Der Wagen steht vor das Haus.",
+      "highlight": ["dem", "das"],
+      "explanation": "'stehen vor' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp043",
+      "correct": "Die Kinder rennen in den Garten.",
+      "incorrect": "Die Kinder rennen in dem Garten.",
+      "highlight": ["den", "dem"],
+      "explanation": "'rennen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp044",
+      "correct": "Die Kinder spielen in dem Garten.",
+      "incorrect": "Die Kinder spielen in den Garten.",
+      "highlight": ["dem", "den"],
+      "explanation": "'spielen in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp045",
+      "correct": "Ich stelle das Fahrrad an die Mauer.",
+      "incorrect": "Ich stelle das Fahrrad an der Mauer.",
+      "highlight": ["die", "der"],
+      "explanation": "'stellen an' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp046",
+      "correct": "Das Fahrrad steht an der Mauer.",
+      "incorrect": "Das Fahrrad steht an die Mauer.",
+      "highlight": ["der", "die"],
+      "explanation": "'stehen an' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp047",
+      "correct": "Er wirft den Ball über den Zaun.",
+      "incorrect": "Er wirft den Ball über dem Zaun.",
+      "highlight": ["den", "dem"],
+      "explanation": "'werfen über' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp048",
+      "correct": "Der Vogel fliegt über dem Haus.",
+      "incorrect": "Der Vogel fliegt über das Haus.",
+      "highlight": ["dem", "das"],
+      "explanation": "'fliegen über' ohne Richtungsänderung beschreibt einen Ort, daher Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp049",
+      "correct": "Sie legt den Teppich unter den Tisch.",
+      "incorrect": "Sie legt den Teppich unter dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'legen unter' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp050",
+      "correct": "Der Teppich liegt unter dem Tisch.",
+      "incorrect": "Der Teppich liegt unter den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'liegen unter' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp051",
+      "correct": "Ich stelle die Schuhe neben die Tür.",
+      "incorrect": "Ich stelle die Schuhe neben der Tür.",
+      "highlight": ["die", "der"],
+      "explanation": "'stellen neben' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp052",
+      "correct": "Die Schuhe stehen neben der Tür.",
+      "incorrect": "Die Schuhe stehen neben die Tür.",
+      "highlight": ["der", "die"],
+      "explanation": "'stehen neben' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp053",
+      "correct": "Er kriecht unter das Bett.",
+      "incorrect": "Er kriecht unter dem Bett.",
+      "highlight": ["das", "dem"],
+      "explanation": "'kriechen unter' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp054",
+      "correct": "Er versteckt sich unter dem Bett.",
+      "incorrect": "Er versteckt sich unter das Bett.",
+      "highlight": ["dem", "das"],
+      "explanation": "'sich verstecken unter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp055",
+      "correct": "Sie hängt den Spiegel über das Waschbecken.",
+      "incorrect": "Sie hängt den Spiegel über dem Waschbecken.",
+      "highlight": ["das", "dem"],
+      "explanation": "'hängen über' (transitiv) ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp056",
+      "correct": "Der Spiegel hängt über dem Waschbecken.",
+      "incorrect": "Der Spiegel hängt über das Waschbecken.",
+      "highlight": ["dem", "das"],
+      "explanation": "'hängen über' (intransitiv) beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp057",
+      "correct": "Ich setze mich neben meinen Freund.",
+      "incorrect": "Ich setze mich neben meinem Freund.",
+      "highlight": ["meinen", "meinem"],
+      "explanation": "'sich setzen neben' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp058",
+      "correct": "Ich sitze neben meinem Freund.",
+      "incorrect": "Ich sitze neben meinen Freund.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "'sitzen neben' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp059",
+      "correct": "Er stellt die Leiter an den Baum.",
+      "incorrect": "Er stellt die Leiter an dem Baum.",
+      "highlight": ["den", "dem"],
+      "explanation": "'stellen an' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp060",
+      "correct": "Die Leiter steht an dem Baum.",
+      "incorrect": "Die Leiter steht an den Baum.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen an' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp061",
+      "correct": "Sie fliegt morgen in die Schweiz.",
+      "incorrect": "Sie fliegt morgen in der Schweiz.",
+      "highlight": ["die", "der"],
+      "explanation": "'fliegen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp062",
+      "correct": "Sie lebt seit Jahren in der Schweiz.",
+      "incorrect": "Sie lebt seit Jahren in die Schweiz.",
+      "highlight": ["der", "die"],
+      "explanation": "'leben in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp063",
+      "correct": "Das Boot fährt auf das Meer hinaus.",
+      "incorrect": "Das Boot fährt auf dem Meer hinaus.",
+      "highlight": ["das", "dem"],
+      "explanation": "'fahren auf' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp064",
+      "correct": "Das Boot schwimmt auf dem Meer.",
+      "incorrect": "Das Boot schwimmt auf das Meer.",
+      "highlight": ["dem", "das"],
+      "explanation": "'schwimmen auf' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp065",
+      "correct": "Er klettert auf den Berg.",
+      "incorrect": "Er klettert auf dem Berg.",
+      "highlight": ["den", "dem"],
+      "explanation": "'klettern auf' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp066",
+      "correct": "Er steht auf dem Berg.",
+      "incorrect": "Er steht auf den Berg.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen auf' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp067",
+      "correct": "Sie schiebt den Stuhl unter den Schreibtisch.",
+      "incorrect": "Sie schiebt den Stuhl unter dem Schreibtisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'schieben unter' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp068",
+      "correct": "Der Stuhl steht unter dem Schreibtisch.",
+      "incorrect": "Der Stuhl steht unter den Schreibtisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen unter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp069",
+      "correct": "Ich lege mein Handy auf den Nachttisch.",
+      "incorrect": "Ich lege mein Handy auf dem Nachttisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'legen auf' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp070",
+      "correct": "Mein Handy liegt auf dem Nachttisch.",
+      "incorrect": "Mein Handy liegt auf den Nachttisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'liegen auf' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp071",
+      "correct": "Der Kellner stellt das Glas auf den Tisch.",
+      "incorrect": "Der Kellner stellt das Glas auf dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'stellen auf' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp072",
+      "correct": "Das Glas steht auf dem Tisch.",
+      "incorrect": "Das Glas steht auf den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen auf' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp073",
+      "correct": "Er trägt die Kiste in den Keller.",
+      "incorrect": "Er trägt die Kiste in dem Keller.",
+      "highlight": ["den", "dem"],
+      "explanation": "'tragen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp074",
+      "correct": "Die Kiste steht in dem Keller.",
+      "incorrect": "Die Kiste steht in den Keller.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp075",
+      "correct": "Sie läuft vor das Tor.",
+      "incorrect": "Sie läuft vor dem Tor.",
+      "highlight": ["das", "dem"],
+      "explanation": "'laufen vor' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp076",
+      "correct": "Sie wartet vor dem Tor.",
+      "incorrect": "Sie wartet vor das Tor.",
+      "highlight": ["dem", "das"],
+      "explanation": "'warten vor' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp077",
+      "correct": "Er rollt den Ball hinter das Sofa.",
+      "incorrect": "Er rollt den Ball hinter dem Sofa.",
+      "highlight": ["das", "dem"],
+      "explanation": "'rollen hinter' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp078",
+      "correct": "Der Ball liegt hinter dem Sofa.",
+      "incorrect": "Der Ball liegt hinter das Sofa.",
+      "highlight": ["dem", "das"],
+      "explanation": "'liegen hinter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp079",
+      "correct": "Ich stelle den Müll vor die Haustür.",
+      "incorrect": "Ich stelle den Müll vor der Haustür.",
+      "highlight": ["die", "der"],
+      "explanation": "'stellen vor' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp080",
+      "correct": "Der Müll steht vor der Haustür.",
+      "incorrect": "Der Müll steht vor die Haustür.",
+      "highlight": ["der", "die"],
+      "explanation": "'stehen vor' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp081",
+      "correct": "Das Flugzeug fliegt über den Ozean.",
+      "incorrect": "Das Flugzeug fliegt über dem Ozean.",
+      "highlight": ["den", "dem"],
+      "explanation": "'fliegen über' mit Überquerung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp082",
+      "correct": "Die Wolken schweben über dem Ozean.",
+      "incorrect": "Die Wolken schweben über den Ozean.",
+      "highlight": ["dem", "den"],
+      "explanation": "'schweben über' ohne Richtungswechsel beschreibt einen Ort, daher Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp083",
+      "correct": "Sie zieht sich hinter den Baum zurück.",
+      "incorrect": "Sie zieht sich hinter dem Baum zurück.",
+      "highlight": ["den", "dem"],
+      "explanation": "'sich zurückziehen hinter' ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp084",
+      "correct": "Sie steht hinter dem Baum.",
+      "incorrect": "Sie steht hinter den Baum.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen hinter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp085",
+      "correct": "Ich schiebe den Schreibtisch an die Wand.",
+      "incorrect": "Ich schiebe den Schreibtisch an der Wand.",
+      "highlight": ["die", "der"],
+      "explanation": "'schieben an' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp086",
+      "correct": "Der Schreibtisch steht an der Wand.",
+      "incorrect": "Der Schreibtisch steht an die Wand.",
+      "highlight": ["der", "die"],
+      "explanation": "'stehen an' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp087",
+      "correct": "Er wirft die Tasche auf das Bett.",
+      "incorrect": "Er wirft die Tasche auf dem Bett.",
+      "highlight": ["das", "dem"],
+      "explanation": "'werfen auf' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp088",
+      "correct": "Die Tasche liegt auf dem Bett.",
+      "incorrect": "Die Tasche liegt auf das Bett.",
+      "highlight": ["dem", "das"],
+      "explanation": "'liegen auf' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp089",
+      "correct": "Die Maus läuft hinter die Couch.",
+      "incorrect": "Die Maus läuft hinter der Couch.",
+      "highlight": ["die", "der"],
+      "explanation": "'laufen hinter' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp090",
+      "correct": "Die Maus sitzt hinter der Couch.",
+      "incorrect": "Die Maus sitzt hinter die Couch.",
+      "highlight": ["der", "die"],
+      "explanation": "'sitzen hinter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp091",
+      "correct": "Wir fahren an die Küste.",
+      "incorrect": "Wir fahren an der Küste.",
+      "highlight": ["die", "der"],
+      "explanation": "'fahren an' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp092",
+      "correct": "Wir verbringen den Urlaub an der Küste.",
+      "incorrect": "Wir verbringen den Urlaub an die Küste.",
+      "highlight": ["der", "die"],
+      "explanation": "'verbringen an' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp093",
+      "correct": "Sie hängt das Poster an die Tür.",
+      "incorrect": "Sie hängt das Poster an der Tür.",
+      "highlight": ["die", "der"],
+      "explanation": "'hängen an' (transitiv) ist eine Bewegung, daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp094",
+      "correct": "Das Poster hängt an der Tür.",
+      "incorrect": "Das Poster hängt an die Tür.",
+      "highlight": ["der", "die"],
+      "explanation": "'hängen an' (intransitiv) beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp095",
+      "correct": "Er geht in das Restaurant.",
+      "incorrect": "Er geht in dem Restaurant.",
+      "highlight": ["das", "dem"],
+      "explanation": "'gehen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp096",
+      "correct": "Er isst in dem Restaurant.",
+      "incorrect": "Er isst in das Restaurant.",
+      "highlight": ["dem", "das"],
+      "explanation": "'essen in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp097",
+      "correct": "Sie springt in das Wasser.",
+      "incorrect": "Sie springt in dem Wasser.",
+      "highlight": ["das", "dem"],
+      "explanation": "'springen in' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp098",
+      "correct": "Sie schwimmt in dem Wasser.",
+      "incorrect": "Sie schwimmt in das Wasser.",
+      "highlight": ["dem", "das"],
+      "explanation": "'schwimmen in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp099",
+      "correct": "Er steckt den Brief in den Briefkasten.",
+      "incorrect": "Er steckt den Brief in dem Briefkasten.",
+      "highlight": ["den", "dem"],
+      "explanation": "'stecken in' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp100",
+      "correct": "Der Brief liegt in dem Briefkasten.",
+      "incorrect": "Der Brief liegt in den Briefkasten.",
+      "highlight": ["dem", "den"],
+      "explanation": "'liegen in' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp101",
+      "correct": "Ich setze mich an den Tisch.",
+      "incorrect": "Ich setze mich an dem Tisch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'sich setzen an' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp102",
+      "correct": "Ich sitze an dem Tisch.",
+      "incorrect": "Ich sitze an den Tisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen an' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp103",
+      "correct": "Sie stellt die Lampe neben das Sofa.",
+      "incorrect": "Sie stellt die Lampe neben dem Sofa.",
+      "highlight": ["das", "dem"],
+      "explanation": "'stellen neben' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp104",
+      "correct": "Die Lampe steht neben dem Sofa.",
+      "incorrect": "Die Lampe steht neben das Sofa.",
+      "highlight": ["dem", "das"],
+      "explanation": "'stehen neben' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp105",
+      "correct": "Die Katze klettert auf das Dach.",
+      "incorrect": "Die Katze klettert auf dem Dach.",
+      "highlight": ["das", "dem"],
+      "explanation": "'klettern auf' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp106",
+      "correct": "Die Katze sitzt auf dem Dach.",
+      "incorrect": "Die Katze sitzt auf das Dach.",
+      "highlight": ["dem", "das"],
+      "explanation": "'sitzen auf' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp107",
+      "correct": "Er zieht in eine neue Wohnung.",
+      "incorrect": "Er zieht in einer neuen Wohnung.",
+      "highlight": ["eine neue", "einer neuen"],
+      "explanation": "'ziehen in' mit Umzug ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp108",
+      "correct": "Er wohnt in einer neuen Wohnung.",
+      "incorrect": "Er wohnt in eine neue Wohnung.",
+      "highlight": ["einer neuen", "eine neue"],
+      "explanation": "'wohnen in' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp109",
+      "correct": "Sie legt das Handtuch über den Stuhl.",
+      "incorrect": "Sie legt das Handtuch über dem Stuhl.",
+      "highlight": ["den", "dem"],
+      "explanation": "'legen über' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp110",
+      "correct": "Das Handtuch hängt über dem Stuhl.",
+      "incorrect": "Das Handtuch hängt über den Stuhl.",
+      "highlight": ["dem", "den"],
+      "explanation": "'hängen über' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp111",
+      "correct": "Der Junge springt über den Zaun.",
+      "incorrect": "Der Junge springt über dem Zaun.",
+      "highlight": ["den", "dem"],
+      "explanation": "'springen über' mit Überquerung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp112",
+      "correct": "Die Lampe hängt über dem Esstisch.",
+      "incorrect": "Die Lampe hängt über den Esstisch.",
+      "highlight": ["dem", "den"],
+      "explanation": "'hängen über' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp113",
+      "correct": "Ich stelle mich vor die Gruppe.",
+      "incorrect": "Ich stelle mich vor der Gruppe.",
+      "highlight": ["die", "der"],
+      "explanation": "'sich stellen vor' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp114",
+      "correct": "Ich stehe vor der Gruppe.",
+      "incorrect": "Ich stehe vor die Gruppe.",
+      "highlight": ["der", "die"],
+      "explanation": "'stehen vor' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp115",
+      "correct": "Sie geht hinter das Gebäude.",
+      "incorrect": "Sie geht hinter dem Gebäude.",
+      "highlight": ["das", "dem"],
+      "explanation": "'gehen hinter' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp116",
+      "correct": "Sie parkt hinter dem Gebäude.",
+      "incorrect": "Sie parkt hinter das Gebäude.",
+      "highlight": ["dem", "das"],
+      "explanation": "'parken hinter' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp117",
+      "correct": "Er legt sich zwischen die beiden Kissen.",
+      "incorrect": "Er legt sich zwischen den beiden Kissen.",
+      "highlight": ["die", "den"],
+      "explanation": "'sich legen zwischen' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp118",
+      "correct": "Er liegt zwischen den beiden Kissen.",
+      "incorrect": "Er liegt zwischen die beiden Kissen.",
+      "highlight": ["den", "die"],
+      "explanation": "'liegen zwischen' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "wp119",
+      "correct": "Sie pflanzt den Baum neben den Zaun.",
+      "incorrect": "Sie pflanzt den Baum neben dem Zaun.",
+      "highlight": ["den", "dem"],
+      "explanation": "'pflanzen neben' ist eine Positionierung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp120",
+      "correct": "Der Baum steht neben dem Zaun.",
+      "incorrect": "Der Baum steht neben den Zaun.",
+      "highlight": ["dem", "den"],
+      "explanation": "'stehen neben' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp121",
+      "correct": "Ich gehe an das Fenster.",
+      "incorrect": "Ich gehe an dem Fenster.",
+      "highlight": ["das", "dem"],
+      "explanation": "'gehen an' mit Richtung erfordert Akkusativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp122",
+      "correct": "Ich stehe an dem Fenster.",
+      "incorrect": "Ich stehe an das Fenster.",
+      "highlight": ["dem", "das"],
+      "explanation": "'stehen an' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "wp123",
+      "correct": "Der Hund springt auf das Sofa.",
+      "incorrect": "Der Hund springt auf dem Sofa.",
+      "highlight": ["das", "dem"],
+      "explanation": "'springen auf' ist eine Bewegung (wohin?), daher Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp124",
+      "correct": "Der Hund liegt auf dem Sofa.",
+      "incorrect": "Der Hund liegt auf das Sofa.",
+      "highlight": ["dem", "das"],
+      "explanation": "'liegen auf' beschreibt einen Ort (wo?), daher Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp125",
+      "correct": "Sie fährt auf den Parkplatz.",
+      "incorrect": "Sie fährt auf dem Parkplatz.",
+      "highlight": ["den", "dem"],
+      "explanation": "'fahren auf' mit Richtung erfordert Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "wp126",
+      "correct": "Sie parkt auf dem Parkplatz.",
+      "incorrect": "Sie parkt auf den Parkplatz.",
+      "highlight": ["dem", "den"],
+      "explanation": "'parken auf' beschreibt einen Ort, daher Dativ.",
+      "difficulty": 2
     }
   ]
 }

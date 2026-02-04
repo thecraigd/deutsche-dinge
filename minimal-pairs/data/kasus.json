@@ -242,6 +242,774 @@
       "highlight": ["dem", "den"],
       "explanation": "'antworten' verlangt den Dativ. Maskulin: der → dem.",
       "difficulty": 2
+    },
+    {
+      "id": "ka031",
+      "correct": "Ich treffe meinen Freund morgen.",
+      "incorrect": "Ich treffe meinem Freund morgen.",
+      "highlight": ["meinen", "meinem"],
+      "explanation": "'treffen' verlangt ein Akkusativobjekt. Maskulin: mein → meinen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka032",
+      "correct": "Sie kauft einen roten Pullover.",
+      "incorrect": "Sie kauft einem roten Pullover.",
+      "highlight": ["einen", "einem"],
+      "explanation": "'kaufen' verlangt ein Akkusativobjekt. Maskulin: ein → einen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka033",
+      "correct": "Ich höre die Musik.",
+      "incorrect": "Ich höre der Musik.",
+      "highlight": ["die", "der"],
+      "explanation": "'hören' verlangt ein Akkusativobjekt. Feminin: die bleibt die.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka034",
+      "correct": "Er besucht seine Großeltern.",
+      "incorrect": "Er besucht seinen Großeltern.",
+      "highlight": ["seine", "seinen"],
+      "explanation": "'besuchen' verlangt ein Akkusativobjekt. Plural: seine bleibt seine.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka035",
+      "correct": "Wir suchen das Hotel.",
+      "incorrect": "Wir suchen dem Hotel.",
+      "highlight": ["das", "dem"],
+      "explanation": "'suchen' verlangt ein Akkusativobjekt. Neutrum: das bleibt das.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka036",
+      "correct": "Sie liest das Buch.",
+      "incorrect": "Sie liest dem Buch.",
+      "highlight": ["das", "dem"],
+      "explanation": "'lesen' verlangt ein Akkusativobjekt. Neutrum: das bleibt das.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka037",
+      "correct": "Ich hole meinen Bruder vom Bahnhof ab.",
+      "incorrect": "Ich hole meinem Bruder vom Bahnhof ab.",
+      "highlight": ["meinen", "meinem"],
+      "explanation": "'abholen' verlangt ein Akkusativobjekt. Maskulin: mein → meinen.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka038",
+      "correct": "Er hört seinen Vater nicht.",
+      "incorrect": "Er hört seinem Vater nicht.",
+      "highlight": ["seinen", "seinem"],
+      "explanation": "'hören' verlangt ein Akkusativobjekt. Maskulin: sein → seinen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka039",
+      "correct": "Ich empfehle dir dieses Restaurant.",
+      "incorrect": "Ich empfehle dich dieses Restaurant.",
+      "highlight": ["dir", "dich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'du' → 'dir'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka040",
+      "correct": "Sie bringt ihrer Freundin Blumen mit.",
+      "incorrect": "Sie bringt ihre Freundin Blumen mit.",
+      "highlight": ["ihrer", "ihre"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Feminin: ihre → ihrer.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka041",
+      "correct": "Er schickt seinem Chef eine E-Mail.",
+      "incorrect": "Er schickt seinen Chef eine E-Mail.",
+      "highlight": ["seinem", "seinen"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Maskulin: sein → seinem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka042",
+      "correct": "Ich kaufe meinem Sohn ein Fahrrad.",
+      "incorrect": "Ich kaufe meinen Sohn ein Fahrrad.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Maskulin: mein → meinem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka043",
+      "correct": "Sie erzählt den Kindern eine Geschichte.",
+      "incorrect": "Sie erzählt die Kinder eine Geschichte.",
+      "highlight": ["den Kindern", "die Kinder"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Plural: die → den + Kindern.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka044",
+      "correct": "Das Ende des Buches überraschte mich.",
+      "incorrect": "Das Ende das Buch überraschte mich.",
+      "highlight": ["des Buches", "das Buch"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Buch → Buches.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka045",
+      "correct": "Die Stimme der Sängerin ist wunderschön.",
+      "incorrect": "Die Stimme die Sängerin ist wunderschön.",
+      "highlight": ["der Sängerin", "die Sängerin"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Feminin: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka046",
+      "correct": "Der Preis des Autos ist hoch.",
+      "incorrect": "Der Preis das Auto ist hoch.",
+      "highlight": ["des Autos", "das Auto"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Auto → Autos.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka047",
+      "correct": "Die Größe des Zimmers ist perfekt.",
+      "incorrect": "Die Größe dem Zimmer ist perfekt.",
+      "highlight": ["des Zimmers", "dem Zimmer"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Zimmer → Zimmers.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka048",
+      "correct": "Das Dach des Hauses ist rot.",
+      "incorrect": "Das Dach dem Haus ist rot.",
+      "highlight": ["des Hauses", "dem Haus"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Haus → Hauses.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka049",
+      "correct": "Unweit des Bahnhofs gibt es ein Hotel.",
+      "incorrect": "Unweit dem Bahnhof gibt es ein Hotel.",
+      "highlight": ["des Bahnhofs", "dem Bahnhof"],
+      "explanation": "'unweit' verlangt den Genitiv. Maskulin: der → des + Bahnhof → Bahnhofs.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka050",
+      "correct": "Aufgrund des Unfalls kam er zu spät.",
+      "incorrect": "Aufgrund dem Unfall kam er zu spät.",
+      "highlight": ["des Unfalls", "dem Unfall"],
+      "explanation": "'aufgrund' verlangt den Genitiv. Maskulin: der → des + Unfall → Unfalls.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka051",
+      "correct": "Ich suche ihn überall.",
+      "incorrect": "Ich suche ihm überall.",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'suchen' verlangt ein Akkusativobjekt. 'er' → 'ihn'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka052",
+      "correct": "Wir besuchen sie morgen.",
+      "incorrect": "Wir besuchen ihr morgen.",
+      "highlight": ["sie", "ihr"],
+      "explanation": "'besuchen' verlangt ein Akkusativobjekt. 'sie' bleibt 'sie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka053",
+      "correct": "Sie sieht uns nicht.",
+      "incorrect": "Sie sieht wir nicht.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'sehen' verlangt ein Akkusativobjekt. 'wir' → 'uns'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka054",
+      "correct": "Ich rufe euch später an.",
+      "incorrect": "Ich rufe ihr später an.",
+      "highlight": ["euch", "ihr"],
+      "explanation": "'anrufen' verlangt ein Akkusativobjekt. 'ihr' → 'euch'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka055",
+      "correct": "Er bittet mich um Hilfe.",
+      "incorrect": "Er bittet mir um Hilfe.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'bitten' verlangt ein Akkusativobjekt. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka056",
+      "correct": "Sie fragt ihn nach dem Weg.",
+      "incorrect": "Sie fragt ihm nach dem Weg.",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'fragen' verlangt ein Akkusativobjekt. 'er' → 'ihn'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka057",
+      "correct": "Er leiht mir sein Auto.",
+      "incorrect": "Er leiht mich sein Auto.",
+      "highlight": ["mir", "mich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'ich' → 'mir'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka058",
+      "correct": "Ich erzähle dir eine Geschichte.",
+      "incorrect": "Ich erzähle dich eine Geschichte.",
+      "highlight": ["dir", "dich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'du' → 'dir'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka059",
+      "correct": "Wir erklären ihm das Problem.",
+      "incorrect": "Wir erklären ihn das Problem.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'er' → 'ihm'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka060",
+      "correct": "Sie zeigt ihnen die Fotos.",
+      "incorrect": "Sie zeigt sie die Fotos.",
+      "highlight": ["ihnen", "sie"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'sie' (Pl.) → 'ihnen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka061",
+      "correct": "Ich bringe euch das Essen.",
+      "incorrect": "Ich bringe ihr das Essen.",
+      "highlight": ["euch", "ihr"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'ihr' → 'euch'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka062",
+      "correct": "Er bezahlt mich für die Arbeit.",
+      "incorrect": "Er bezahlt mir für die Arbeit.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'bezahlen' (eine Person) verlangt Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka063",
+      "correct": "Die Blätter des Baumes fallen ab.",
+      "incorrect": "Die Blätter dem Baum fallen ab.",
+      "highlight": ["des Baumes", "dem Baum"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: der → des + Baum → Baumes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka064",
+      "correct": "Der Name der Straße ist mir unbekannt.",
+      "incorrect": "Der Name die Straße ist mir unbekannt.",
+      "highlight": ["der Straße", "die Straße"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Feminin: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka065",
+      "correct": "Die Qualität des Produkts ist ausgezeichnet.",
+      "incorrect": "Die Qualität das Produkt ist ausgezeichnet.",
+      "highlight": ["des Produkts", "das Produkt"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Produkt → Produkts.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka066",
+      "correct": "Jenseits des Flusses liegt ein Wald.",
+      "incorrect": "Jenseits dem Fluss liegt ein Wald.",
+      "highlight": ["des Flusses", "dem Fluss"],
+      "explanation": "'jenseits' verlangt den Genitiv. Maskulin: der → des + Fluss → Flusses.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka067",
+      "correct": "Oberhalb der Wolken scheint die Sonne.",
+      "incorrect": "Oberhalb die Wolken scheint die Sonne.",
+      "highlight": ["der Wolken", "die Wolken"],
+      "explanation": "'oberhalb' verlangt den Genitiv. Plural: die → der.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka068",
+      "correct": "Unterhalb des Berges liegt das Dorf.",
+      "incorrect": "Unterhalb dem Berg liegt das Dorf.",
+      "highlight": ["des Berges", "dem Berg"],
+      "explanation": "'unterhalb' verlangt den Genitiv. Maskulin: der → des + Berg → Berges.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka069",
+      "correct": "Hinsichtlich des Wetters bin ich optimistisch.",
+      "incorrect": "Hinsichtlich dem Wetter bin ich optimistisch.",
+      "highlight": ["des Wetters", "dem Wetter"],
+      "explanation": "'hinsichtlich' verlangt den Genitiv. Neutrum: das → des + Wetter → Wetters.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka070",
+      "correct": "Infolge des Sturms wurden Bäume gefällt.",
+      "incorrect": "Infolge dem Sturm wurden Bäume gefällt.",
+      "highlight": ["des Sturms", "dem Sturm"],
+      "explanation": "'infolge' verlangt den Genitiv. Maskulin: der → des + Sturm → Sturms.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka071",
+      "correct": "Ich treffe sie um 5 Uhr.",
+      "incorrect": "Ich treffe ihr um 5 Uhr.",
+      "highlight": ["sie", "ihr"],
+      "explanation": "'treffen' verlangt ein Akkusativobjekt. 'sie' bleibt 'sie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka072",
+      "correct": "Wir holen dich um 8 Uhr ab.",
+      "incorrect": "Wir holen dir um 8 Uhr ab.",
+      "highlight": ["dich", "dir"],
+      "explanation": "'abholen' verlangt ein Akkusativobjekt. 'du' → 'dich'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka073",
+      "correct": "Das Lied berührt mich.",
+      "incorrect": "Das Lied berührt mir.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'berühren' verlangt ein Akkusativobjekt. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka074",
+      "correct": "Der Film interessiert mich.",
+      "incorrect": "Der Film interessiert mir.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'interessieren' verlangt ein Akkusativobjekt. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka075",
+      "correct": "Das Resultat überrascht ihn.",
+      "incorrect": "Das Resultat überrascht ihm.",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'überraschen' verlangt ein Akkusativobjekt. 'er' → 'ihn'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka076",
+      "correct": "Die Nachricht freut uns.",
+      "incorrect": "Die Nachricht freut wir.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'freuen' verlangt ein Akkusativobjekt. 'wir' → 'uns'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka077",
+      "correct": "Das Lärm stört mich nicht.",
+      "incorrect": "Das Lärm stört mir nicht.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'stören' verlangt ein Akkusativobjekt. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka078",
+      "correct": "Das Geräusch erschreckt sie.",
+      "incorrect": "Das Geräusch erschreckt ihr.",
+      "highlight": ["sie", "ihr"],
+      "explanation": "'erschrecken' (transitiv) verlangt ein Akkusativobjekt.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka079",
+      "correct": "Ich gebe es ihm.",
+      "incorrect": "Ich gebe es ihn.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'er' → 'ihm'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka080",
+      "correct": "Sie schreibt ihnen einen Brief.",
+      "incorrect": "Sie schreibt sie einen Brief.",
+      "highlight": ["ihnen", "sie"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'sie' (Pl.) → 'ihnen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka081",
+      "correct": "Er sagt mir die Wahrheit.",
+      "incorrect": "Er sagt mich die Wahrheit.",
+      "highlight": ["mir", "mich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'ich' → 'mir'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka082",
+      "correct": "Wir versprechen euch zu kommen.",
+      "incorrect": "Wir versprechen ihr zu kommen.",
+      "highlight": ["euch", "ihr"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'ihr' → 'euch'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka083",
+      "correct": "Sie bietet mir einen Kaffee an.",
+      "incorrect": "Sie bietet mich einen Kaffee an.",
+      "highlight": ["mir", "mich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'ich' → 'mir'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka084",
+      "correct": "Der Arzt verschreibt ihm Medikamente.",
+      "incorrect": "Der Arzt verschreibt ihn Medikamente.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'er' → 'ihm'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka085",
+      "correct": "Die Lage des Hauses ist ideal.",
+      "incorrect": "Die Lage dem Haus ist ideal.",
+      "highlight": ["des Hauses", "dem Haus"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Haus → Hauses.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka086",
+      "correct": "Der Geschmack des Weins ist hervorragend.",
+      "incorrect": "Der Geschmack den Wein ist hervorragend.",
+      "highlight": ["des Weins", "den Wein"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: der → des + Wein → Weins.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka087",
+      "correct": "Die Größe der Wohnung passt uns.",
+      "incorrect": "Die Größe die Wohnung passt uns.",
+      "highlight": ["der Wohnung", "die Wohnung"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Feminin: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka088",
+      "correct": "Das Ergebnis der Prüfung war gut.",
+      "incorrect": "Das Ergebnis die Prüfung war gut.",
+      "highlight": ["der Prüfung", "die Prüfung"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Feminin: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka089",
+      "correct": "Bezüglich der Frage habe ich keine Meinung.",
+      "incorrect": "Bezüglich die Frage habe ich keine Meinung.",
+      "highlight": ["der Frage", "die Frage"],
+      "explanation": "'bezüglich' verlangt den Genitiv. Feminin: die → der.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka090",
+      "correct": "Mittels eines Messers öffnete er die Dose.",
+      "incorrect": "Mittels einem Messer öffnete er die Dose.",
+      "highlight": ["eines Messers", "einem Messer"],
+      "explanation": "'mittels' verlangt den Genitiv. Neutrum: ein → eines + Messer → Messers.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka091",
+      "correct": "Ich sehe den Baum im Garten.",
+      "incorrect": "Ich sehe der Baum im Garten.",
+      "highlight": ["den", "der"],
+      "explanation": "'sehen' verlangt ein Akkusativobjekt. Maskulin: der → den.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka092",
+      "correct": "Sie trägt einen schweren Koffer.",
+      "incorrect": "Sie trägt einem schweren Koffer.",
+      "highlight": ["einen", "einem"],
+      "explanation": "'tragen' verlangt ein Akkusativobjekt. Maskulin: ein → einen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka093",
+      "correct": "Wir haben eine schöne Wohnung.",
+      "incorrect": "Wir haben einer schönen Wohnung.",
+      "highlight": ["eine schöne", "einer schönen"],
+      "explanation": "'haben' verlangt ein Akkusativobjekt. Feminin: eine bleibt eine.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka094",
+      "correct": "Er findet das Buch interessant.",
+      "incorrect": "Er findet dem Buch interessant.",
+      "highlight": ["das", "dem"],
+      "explanation": "'finden' verlangt ein Akkusativobjekt. Neutrum: das bleibt das.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka095",
+      "correct": "Ich nehme den Bus zur Arbeit.",
+      "incorrect": "Ich nehme dem Bus zur Arbeit.",
+      "highlight": ["den", "dem"],
+      "explanation": "'nehmen' verlangt ein Akkusativobjekt. Maskulin: der → den.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka096",
+      "correct": "Sie macht die Hausaufgaben.",
+      "incorrect": "Sie macht der Hausaufgaben.",
+      "highlight": ["die", "der"],
+      "explanation": "'machen' verlangt ein Akkusativobjekt. Plural: die bleibt die.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka097",
+      "correct": "Ich gebe meinem Hund Futter.",
+      "incorrect": "Ich gebe meinen Hund Futter.",
+      "highlight": ["meinem", "meinen"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Maskulin: mein → meinem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka098",
+      "correct": "Er sendet seiner Mutter einen Brief.",
+      "incorrect": "Er sendet seine Mutter einen Brief.",
+      "highlight": ["seiner", "seine"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Feminin: seine → seiner.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka099",
+      "correct": "Wir reichen dem Kellner das Geld.",
+      "incorrect": "Wir reichen den Kellner das Geld.",
+      "highlight": ["dem", "den"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Maskulin: der → dem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka100",
+      "correct": "Sie verkauft ihrem Nachbarn das Auto.",
+      "incorrect": "Sie verkauft ihren Nachbarn das Auto.",
+      "highlight": ["ihrem", "ihren"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Maskulin Sg: ihr → ihrem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka101",
+      "correct": "Das Spielzeug des Kindes ist kaputt.",
+      "incorrect": "Das Spielzeug das Kind ist kaputt.",
+      "highlight": ["des Kindes", "das Kind"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Kind → Kindes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka102",
+      "correct": "Die Farbe meiner Jacke ist blau.",
+      "incorrect": "Die Farbe meine Jacke ist blau.",
+      "highlight": ["meiner Jacke", "meine Jacke"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Feminin: meine → meiner.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka103",
+      "correct": "Der Geruch des Essens ist köstlich.",
+      "incorrect": "Der Geruch dem Essen ist köstlich.",
+      "highlight": ["des Essens", "dem Essen"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Neutrum: das → des + Essen → Essens.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka104",
+      "correct": "Die Länge des Weges beträgt 5 Kilometer.",
+      "incorrect": "Die Länge den Weg beträgt 5 Kilometer.",
+      "highlight": ["des Weges", "den Weg"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: der → des + Weg → Weges.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka105",
+      "correct": "Statt eines Kuchens brachte er Blumen.",
+      "incorrect": "Statt einem Kuchen brachte er Blumen.",
+      "highlight": ["eines Kuchens", "einem Kuchen"],
+      "explanation": "'statt' verlangt den Genitiv. Maskulin: ein → eines + Kuchen → Kuchens.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka106",
+      "correct": "Kraft seines Amtes durfte er entscheiden.",
+      "incorrect": "Kraft seinem Amt durfte er entscheiden.",
+      "highlight": ["seines Amtes", "seinem Amt"],
+      "explanation": "'kraft' verlangt den Genitiv. Neutrum: sein → seines + Amt → Amtes.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka107",
+      "correct": "Ich frage mich, ob er kommt.",
+      "incorrect": "Ich frage mir, ob er kommt.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'sich fragen' ist reflexiv mit Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka108",
+      "correct": "Er wäscht sich die Hände.",
+      "incorrect": "Er wäscht ihn die Hände.",
+      "highlight": ["sich", "ihn"],
+      "explanation": "Reflexivpronomen im Dativ bei Körperteilen. 'er' → 'sich'.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka109",
+      "correct": "Sie kämmt sich die Haare.",
+      "incorrect": "Sie kämmt ihr die Haare.",
+      "highlight": ["sich", "ihr"],
+      "explanation": "Reflexivpronomen im Dativ bei Körperteilen. 'sie' → 'sich'.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka110",
+      "correct": "Ich putze mir die Zähne.",
+      "incorrect": "Ich putze mich die Zähne.",
+      "highlight": ["mir", "mich"],
+      "explanation": "Reflexivpronomen im Dativ bei Körperteilen. 'ich' → 'mir'.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka111",
+      "correct": "Wen hast du getroffen?",
+      "incorrect": "Wem hast du getroffen?",
+      "highlight": ["Wen", "Wem"],
+      "explanation": "'treffen' verlangt Akkusativ. Fragepronomen: wen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka112",
+      "correct": "Wem hast du das gesagt?",
+      "incorrect": "Wen hast du das gesagt?",
+      "highlight": ["Wem", "Wen"],
+      "explanation": "Indirektes Objekt (wem?) steht im Dativ. Fragepronomen: wem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka113",
+      "correct": "Wen rufst du an?",
+      "incorrect": "Wem rufst du an?",
+      "highlight": ["Wen", "Wem"],
+      "explanation": "'anrufen' verlangt Akkusativ. Fragepronomen: wen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka114",
+      "correct": "Wem gehört das Auto?",
+      "incorrect": "Wen gehört das Auto?",
+      "highlight": ["Wem", "Wen"],
+      "explanation": "'gehören' verlangt Dativ. Fragepronomen: wem.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka115",
+      "correct": "Wen liebst du?",
+      "incorrect": "Wem liebst du?",
+      "highlight": ["Wen", "Wem"],
+      "explanation": "'lieben' verlangt Akkusativ. Fragepronomen: wen.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka116",
+      "correct": "Wem vertraust du?",
+      "incorrect": "Wen vertraust du?",
+      "highlight": ["Wem", "Wen"],
+      "explanation": "'vertrauen' verlangt Dativ. Fragepronomen: wem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka117",
+      "correct": "Wessen Auto ist das?",
+      "incorrect": "Wer Auto ist das?",
+      "highlight": ["Wessen", "Wer"],
+      "explanation": "Besitz wird mit Genitiv erfragt. Fragepronomen: wessen.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka118",
+      "correct": "Wessen Buch liest du?",
+      "incorrect": "Wem Buch liest du?",
+      "highlight": ["Wessen", "Wem"],
+      "explanation": "Besitz wird mit Genitiv erfragt. Fragepronomen: wessen.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka119",
+      "correct": "Ich verstehe dich nicht.",
+      "incorrect": "Ich verstehe dir nicht.",
+      "highlight": ["dich", "dir"],
+      "explanation": "'verstehen' verlangt Akkusativ. 'du' → 'dich'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka120",
+      "correct": "Sie unterstützt uns bei der Arbeit.",
+      "incorrect": "Sie unterstützt wir bei der Arbeit.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'unterstützen' verlangt Akkusativ. 'wir' → 'uns'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka121",
+      "correct": "Er begleitet mich zum Bahnhof.",
+      "incorrect": "Er begleitet mir zum Bahnhof.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'begleiten' verlangt Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka122",
+      "correct": "Die Polizei sucht ihn.",
+      "incorrect": "Die Polizei sucht ihm.",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'suchen' verlangt Akkusativ. 'er' → 'ihn'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka123",
+      "correct": "Die Musik erinnert mich an meine Kindheit.",
+      "incorrect": "Die Musik erinnert mir an meine Kindheit.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'erinnern' verlangt Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka124",
+      "correct": "Der Chef lobt ihn oft.",
+      "incorrect": "Der Chef lobt ihm oft.",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'loben' verlangt Akkusativ. 'er' → 'ihn'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka125",
+      "correct": "Die Nachricht beunruhigt mich.",
+      "incorrect": "Die Nachricht beunruhigt mir.",
+      "highlight": ["mich", "mir"],
+      "explanation": "'beunruhigen' verlangt Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka126",
+      "correct": "Die Geschichte langweilt sie.",
+      "incorrect": "Die Geschichte langweilt ihr.",
+      "highlight": ["sie", "ihr"],
+      "explanation": "'langweilen' verlangt Akkusativ. 'sie' bleibt 'sie'.",
+      "difficulty": 2
     }
   ]
 }
