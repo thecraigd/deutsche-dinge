@@ -1,0 +1,247 @@
+{
+  "category": "kasus",
+  "displayName": "Kasus (Fälle)",
+  "description": "Die vier deutschen Fälle: Nominativ, Akkusativ, Dativ, Genitiv",
+  "items": [
+    {
+      "id": "ka001",
+      "correct": "Ich sehe den Mann.",
+      "incorrect": "Ich sehe der Mann.",
+      "highlight": ["den", "der"],
+      "explanation": "Das direkte Objekt steht im Akkusativ. Maskulin: der → den.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka002",
+      "correct": "Der Mann sieht mich.",
+      "incorrect": "Der Mann sieht ich.",
+      "highlight": ["mich", "ich"],
+      "explanation": "Das direkte Objekt steht im Akkusativ. 'ich' → 'mich'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka003",
+      "correct": "Ich gebe dem Kind ein Geschenk.",
+      "incorrect": "Ich gebe das Kind ein Geschenk.",
+      "highlight": ["dem", "das"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Neutrum: das → dem.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka004",
+      "correct": "Er hilft mir.",
+      "incorrect": "Er hilft mich.",
+      "highlight": ["mir", "mich"],
+      "explanation": "'helfen' verlangt den Dativ. 'ich' → 'mir'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka005",
+      "correct": "Das ist das Auto meines Vaters.",
+      "incorrect": "Das ist das Auto meinem Vater.",
+      "highlight": ["meines Vaters", "meinem Vater"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: mein → meines + Vater → Vaters.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka006",
+      "correct": "Wegen des Regens bleibe ich zu Hause.",
+      "incorrect": "Wegen dem Regen bleibe ich zu Hause.",
+      "highlight": ["des Regens", "dem Regen"],
+      "explanation": "'wegen' verlangt den Genitiv. Maskulin: der → des + Regen → Regens.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka007",
+      "correct": "Ich liebe dich.",
+      "incorrect": "Ich liebe dir.",
+      "highlight": ["dich", "dir"],
+      "explanation": "'lieben' verlangt ein Akkusativobjekt. 'du' → 'dich'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka008",
+      "correct": "Das Buch gehört ihr.",
+      "incorrect": "Das Buch gehört sie.",
+      "highlight": ["ihr", "sie"],
+      "explanation": "'gehören' verlangt den Dativ. 'sie' → 'ihr'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka009",
+      "correct": "Ich schenke meiner Mutter Blumen.",
+      "incorrect": "Ich schenke meine Mutter Blumen.",
+      "highlight": ["meiner", "meine"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. Feminin: meine → meiner.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka010",
+      "correct": "Während der Ferien reise ich.",
+      "incorrect": "Während die Ferien reise ich.",
+      "highlight": ["der Ferien", "die Ferien"],
+      "explanation": "'während' verlangt den Genitiv. Plural: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka011",
+      "correct": "Kennst du ihn?",
+      "incorrect": "Kennst du ihm?",
+      "highlight": ["ihn", "ihm"],
+      "explanation": "'kennen' verlangt ein Akkusativobjekt. 'er' → 'ihn'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka012",
+      "correct": "Ich vertraue ihm.",
+      "incorrect": "Ich vertraue ihn.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "'vertrauen' verlangt den Dativ. 'er' → 'ihm'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka013",
+      "correct": "Trotz des schlechten Wetters gehen wir wandern.",
+      "incorrect": "Trotz dem schlechten Wetter gehen wir wandern.",
+      "highlight": ["des schlechten Wetters", "dem schlechten Wetter"],
+      "explanation": "'trotz' verlangt den Genitiv. Neutrum: das → des + Wetter → Wetters.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka014",
+      "correct": "Die Farbe des Himmels ist blau.",
+      "incorrect": "Die Farbe dem Himmel ist blau.",
+      "highlight": ["des Himmels", "dem Himmel"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: der → des + Himmel → Himmels.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka015",
+      "correct": "Ich frage dich etwas.",
+      "incorrect": "Ich frage dir etwas.",
+      "highlight": ["dich", "dir"],
+      "explanation": "'fragen' verlangt ein Akkusativobjekt. 'du' → 'dich'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka016",
+      "correct": "Das Essen schmeckt mir gut.",
+      "incorrect": "Das Essen schmeckt mich gut.",
+      "highlight": ["mir", "mich"],
+      "explanation": "'schmecken' verlangt den Dativ. 'ich' → 'mir'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka017",
+      "correct": "Sie gibt ihm das Buch.",
+      "incorrect": "Sie gibt ihn das Buch.",
+      "highlight": ["ihm", "ihn"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'er' → 'ihm'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka018",
+      "correct": "Innerhalb eines Jahres hat er viel gelernt.",
+      "incorrect": "Innerhalb einem Jahr hat er viel gelernt.",
+      "highlight": ["eines Jahres", "einem Jahr"],
+      "explanation": "'innerhalb' verlangt den Genitiv. Neutrum: ein → eines + Jahr → Jahres.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka019",
+      "correct": "Der Hund folgt seinem Herrchen.",
+      "incorrect": "Der Hund folgt sein Herrchen.",
+      "highlight": ["seinem", "sein"],
+      "explanation": "'folgen' verlangt den Dativ. Neutrum: sein → seinem.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka020",
+      "correct": "Ich habe einen neuen Computer.",
+      "incorrect": "Ich habe ein neuer Computer.",
+      "highlight": ["einen neuen", "ein neuer"],
+      "explanation": "'haben' verlangt ein Akkusativobjekt. Maskulin: ein → einen, neuer → neuen.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka021",
+      "correct": "Anstatt des Kuchens nehme ich Obst.",
+      "incorrect": "Anstatt den Kuchen nehme ich Obst.",
+      "highlight": ["des Kuchens", "den Kuchen"],
+      "explanation": "'anstatt' verlangt den Genitiv. Maskulin: der → des + Kuchen → Kuchens.",
+      "difficulty": 3
+    },
+    {
+      "id": "ka022",
+      "correct": "Ich zeige dir meinen Garten.",
+      "incorrect": "Ich zeige dich meinen Garten.",
+      "highlight": ["dir", "dich"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'du' → 'dir'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka023",
+      "correct": "Sie ruft uns an.",
+      "incorrect": "Sie ruft wir an.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'anrufen' verlangt ein Akkusativobjekt. 'wir' → 'uns'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka024",
+      "correct": "Der Anfang des Films war langweilig.",
+      "incorrect": "Der Anfang den Film war langweilig.",
+      "highlight": ["des Films", "den Film"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Maskulin: der → des + Film → Films.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka025",
+      "correct": "Das gefällt uns sehr.",
+      "incorrect": "Das gefällt wir sehr.",
+      "highlight": ["uns", "wir"],
+      "explanation": "'gefallen' verlangt den Dativ. 'wir' → 'uns'.",
+      "difficulty": 1
+    },
+    {
+      "id": "ka026",
+      "correct": "Außerhalb der Stadt gibt es viele Wälder.",
+      "incorrect": "Außerhalb die Stadt gibt es viele Wälder.",
+      "highlight": ["der Stadt", "die Stadt"],
+      "explanation": "'außerhalb' verlangt den Genitiv. Feminin: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka027",
+      "correct": "Er erklärt ihr die Aufgabe.",
+      "incorrect": "Er erklärt sie die Aufgabe.",
+      "highlight": ["ihr", "sie"],
+      "explanation": "Das indirekte Objekt (wem?) steht im Dativ. 'sie' → 'ihr'.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka028",
+      "correct": "Ich brauche deine Hilfe.",
+      "incorrect": "Ich brauche deiner Hilfe.",
+      "highlight": ["deine", "deiner"],
+      "explanation": "'brauchen' verlangt ein Akkusativobjekt. Feminin Akkusativ: deine.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka029",
+      "correct": "Die Meinung der Experten ist wichtig.",
+      "incorrect": "Die Meinung die Experten ist wichtig.",
+      "highlight": ["der Experten", "die Experten"],
+      "explanation": "Besitz wird mit Genitiv ausgedrückt. Plural: die → der.",
+      "difficulty": 2
+    },
+    {
+      "id": "ka030",
+      "correct": "Sie antwortet dem Lehrer.",
+      "incorrect": "Sie antwortet den Lehrer.",
+      "highlight": ["dem", "den"],
+      "explanation": "'antworten' verlangt den Dativ. Maskulin: der → dem.",
+      "difficulty": 2
+    }
+  ]
+}

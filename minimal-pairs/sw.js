@@ -3,7 +3,7 @@
  * Enables offline functionality and caching
  */
 
-const CACHE_NAME = 'minimal-pairs-v1';
+const CACHE_NAME = 'minimal-pairs-v2';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -13,6 +13,7 @@ const ASSETS_TO_CACHE = [
   './manifest.json',
   './data/wechselpraepositionen.json',
   './data/dativ-verben.json',
+  './data/kasus.json',
   './data/kommasetzung.json',
   './data/wortstellung.json',
   './data/adjektivendungen.json'

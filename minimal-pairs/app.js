@@ -11,6 +11,7 @@
         categories: [
             'wechselpraepositionen',
             'dativ-verben',
+            'kasus',
             'kommasetzung',
             'wortstellung',
             'adjektivendungen'
@@ -421,6 +422,7 @@
         const names = {
             'wechselpraepositionen': 'Wechselpräpositionen',
             'dativ-verben': 'Dativ-Verben',
+            'kasus': 'Kasus (Fälle)',
             'kommasetzung': 'Kommasetzung',
             'wortstellung': 'Wortstellung',
             'adjektivendungen': 'Adjektivendungen'

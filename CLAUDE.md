@@ -44,6 +44,7 @@ deutsche-dinge/
 │   └── data/
 │       ├── wechselpraepositionen.json  # Two-way prepositions (30 items)
 │       ├── dativ-verben.json           # Dative verbs & prepositions (30 items)
+│       ├── kasus.json                  # All four cases (30 items)
 │       ├── kommasetzung.json           # Comma rules (30 items)
 │       ├── wortstellung.json           # Word order (30 items)
 │       └── adjektivendungen.json       # Adjective endings (30 items)
@@ -95,6 +96,7 @@ Each grammar category is stored as a JSON file in `minimal-pairs/data/`.
 
 - `wp` - Wechselpräpositionen
 - `dv` - Dativ-Verben
+- `ka` - Kasus (Fälle)
 - `ks` - Kommasetzung
 - `ws` - Wortstellung
 - `ae` - Adjektivendungen
@@ -209,6 +211,68 @@ Explanation: "'mit' ist eine Präposition, die den Dativ verlangt."
 ```
 
 **Vary the pronouns/articles:** mir/mich, dir/dich, ihm/ihn, ihr/sie, meinem/meinen, dem/den, der/die
+
+#### Kasus (Cases)
+
+**Focus:** Direct practice of all four German cases in various contexts.
+
+**The four cases:**
+
+| Case | Question | Function | Article (m/f/n/pl) |
+|------|----------|----------|-------------------|
+| Nominativ | Wer? Was? | Subject | der/die/das/die |
+| Akkusativ | Wen? Was? | Direct object | den/die/das/die |
+| Dativ | Wem? | Indirect object | dem/der/dem/den |
+| Genitiv | Wessen? | Possession | des/der/des/der |
+
+**Personal pronouns by case:**
+
+| Person | Nom | Akk | Dat |
+|--------|-----|-----|-----|
+| 1st sg | ich | mich | mir |
+| 2nd sg | du | dich | dir |
+| 3rd sg m | er | ihn | ihm |
+| 3rd sg f | sie | sie | ihr |
+| 3rd sg n | es | es | ihm |
+| 1st pl | wir | uns | uns |
+| 2nd pl | ihr | euch | euch |
+| 3rd pl | sie | sie | ihnen |
+
+**Sub-categories to cover:**
+
+1. **Akkusativ vs. Nominativ:** Direct object recognition
+   ```
+   Correct: "Ich sehe den Mann."
+   Incorrect: "Ich sehe der Mann."
+   Explanation: "Das direkte Objekt steht im Akkusativ. Maskulin: der → den."
+   ```
+
+2. **Dativ vs. Akkusativ:** Indirect object and dative verbs
+   ```
+   Correct: "Ich gebe dem Kind ein Geschenk."
+   Incorrect: "Ich gebe das Kind ein Geschenk."
+   Explanation: "Das indirekte Objekt (wem?) steht im Dativ. Neutrum: das → dem."
+   ```
+
+3. **Genitiv:** Possession and genitive prepositions
+   ```
+   Correct: "Das ist das Auto meines Vaters."
+   Incorrect: "Das ist das Auto meinem Vater."
+   Explanation: "Besitz wird mit Genitiv ausgedrückt. Maskulin: mein → meines + Vater → Vaters."
+   ```
+
+4. **Genitive prepositions:** wegen, trotz, während, innerhalb, außerhalb, anstatt
+   ```
+   Correct: "Wegen des Regens bleibe ich zu Hause."
+   Incorrect: "Wegen dem Regen bleibe ich zu Hause."
+   Explanation: "'wegen' verlangt den Genitiv. Maskulin: der → des + Regen → Regens."
+   ```
+
+**Key verbs for case practice:**
+- Akkusativ: sehen, hören, fragen, lieben, kennen, haben, brauchen, rufen
+- Dativ: helfen, danken, gefallen, gehören, schmecken, vertrauen, folgen, antworten, geben, zeigen, erklären
+
+**Note on Genitiv:** Remember to add -s or -es to masculine and neuter nouns (des Mannes, des Kindes, des Buches).
 
 #### Kommasetzung (Comma Rules)
 
@@ -540,6 +604,7 @@ const CONFIG = {
 |----------|-------|---------------|
 | **Wechselpräpositionen** | Akkusativ (movement) vs. Dativ (location) | "auf den Tisch" vs. "auf dem Tisch" |
 | **Dativ-Verben** | Verbs requiring dative case | "Ich helfe ihm" vs. "Ich helfe ihn" |
+| **Kasus (Fälle)** | All four cases: Nom/Akk/Dat/Gen | "Ich sehe den Mann" vs. "Ich sehe der Mann" |
 | **Kommasetzung** | Comma placement in German | ", dass" vs. " dass" |
 | **Wortstellung** | Verb position in clauses | "...dass er kommt" vs. "...dass er kommt morgen" |
 | **Adjektivendungen** | Adjective declension | "der große Mann" vs. "der großer Mann" |
