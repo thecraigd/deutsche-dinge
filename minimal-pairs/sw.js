@@ -3,7 +3,7 @@
  * Enables offline functionality and caching
  */
 
-const CACHE_NAME = 'minimal-pairs-v3';
+const CACHE_NAME = 'minimal-pairs-v4';
 
 const ASSETS_TO_CACHE = [
   './',
