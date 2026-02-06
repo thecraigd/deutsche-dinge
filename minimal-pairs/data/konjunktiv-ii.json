@@ -1,0 +1,1015 @@
+{
+  "category": "konjunktiv-ii",
+  "displayName": "Konjunktiv II",
+  "description": "Irreale Situationen, Wünsche und höfliche Bitten im Konjunktiv II",
+  "items": [
+    {
+      "id": "kz001",
+      "correct": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.",
+      "incorrect": "Wenn ich mehr Zeit habe, würde ich öfter lesen.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "In irrealen Bedingungssätzen steht der Konjunktiv II. 'haben' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz002",
+      "correct": "Wenn ich reich wäre, würde ich um die Welt reisen.",
+      "incorrect": "Wenn ich reich bin, würde ich um die Welt reisen.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Irreale Bedingungen verlangen den Konjunktiv II. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz003",
+      "correct": "Wenn du hier wärest, wäre alles einfacher.",
+      "incorrect": "Wenn du hier bist, wäre alles einfacher.",
+      "highlight": ["wärest", "bist"],
+      "explanation": "Der wenn-Satz drückt eine irreale Situation aus, daher Konjunktiv II: 'bist' → 'wärest'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz004",
+      "correct": "Wenn er besser Deutsch könnte, würde er den Job bekommen.",
+      "incorrect": "Wenn er besser Deutsch kann, würde er den Job bekommen.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "Im irrealen Bedingungssatz steht 'können' im Konjunktiv II: 'kann' → 'könnte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz005",
+      "correct": "Wenn wir ein Auto hätten, könnten wir aufs Land fahren.",
+      "incorrect": "Wenn wir ein Auto haben, könnten wir aufs Land fahren.",
+      "highlight": ["hätten", "haben"],
+      "explanation": "Der Bedingungssatz ist irreal (wir haben kein Auto), daher Konjunktiv II: 'haben' → 'hätten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz006",
+      "correct": "Wenn sie müsste, würde sie sofort anfangen.",
+      "incorrect": "Wenn sie muss, würde sie sofort anfangen.",
+      "highlight": ["müsste", "muss"],
+      "explanation": "In irrealen Bedingungssätzen: 'müssen' → 'müsste'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz007",
+      "correct": "Wenn ich das wüsste, würde ich es dir sagen.",
+      "incorrect": "Wenn ich das weiß, würde ich es dir sagen.",
+      "highlight": ["wüsste", "weiß"],
+      "explanation": "Der wenn-Satz drückt eine irreale Bedingung aus. 'wissen' → 'wüsste'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz008",
+      "correct": "Wenn er gesund wäre, könnte er mitspielen.",
+      "incorrect": "Wenn er gesund ist, könnte er mitspielen.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Er ist nicht gesund – die Bedingung ist irreal. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz009",
+      "correct": "Wenn du schneller liefest, würdest du den Bus noch schaffen.",
+      "incorrect": "Wenn du schneller läufst, würdest du den Bus noch schaffen.",
+      "highlight": ["liefest", "läufst"],
+      "explanation": "Im irrealen Bedingungssatz steht 'laufen' im Konjunktiv II: 'läufst' → 'liefest'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz010",
+      "correct": "Wenn sie mehr Geld hätte, würde sie sich ein Fahrrad kaufen.",
+      "incorrect": "Wenn sie mehr Geld hat, würde sie sich ein Fahrrad kaufen.",
+      "highlight": ["hätte", "hat"],
+      "explanation": "Der irreale Bedingungssatz verlangt den Konjunktiv II: 'hat' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz011",
+      "correct": "Wenn ich du wäre, würde ich den Vertrag nicht unterschreiben.",
+      "incorrect": "Wenn ich du bin, würde ich den Vertrag nicht unterschreiben.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "'Wenn ich du wäre' ist eine typische irreale Konstruktion. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz012",
+      "correct": "Wenn das Wetter besser wäre, würden wir draußen essen.",
+      "incorrect": "Wenn das Wetter besser ist, würden wir draußen essen.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Das Wetter ist nicht besser – irreale Bedingung, daher Konjunktiv II: 'ist' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz013",
+      "correct": "Wenn er pünktlich wäre, müssten wir nicht warten.",
+      "incorrect": "Wenn er pünktlich ist, müssten wir nicht warten.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Er ist nicht pünktlich – der Bedingungssatz ist irreal. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz014",
+      "correct": "Wenn wir näher wohnten, würden wir uns öfter treffen.",
+      "incorrect": "Wenn wir näher wohnen, würden wir uns öfter treffen.",
+      "highlight": ["wohnten", "wohnen"],
+      "explanation": "Im irrealen Bedingungssatz steht 'wohnen' im Konjunktiv II: 'wohnen' → 'wohnten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz015",
+      "correct": "Wenn ich Klavier spielen könnte, würde ich ein Konzert geben.",
+      "incorrect": "Wenn ich Klavier spielen kann, würde ich ein Konzert geben.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "Die Bedingung ist irreal: 'können' → 'könnte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz016",
+      "correct": "Wenn du nicht so laut wärst, könnte ich mich konzentrieren.",
+      "incorrect": "Wenn du nicht so laut bist, könnte ich mich konzentrieren.",
+      "highlight": ["wärst", "bist"],
+      "explanation": "Der irreale Bedingungssatz verlangt 'sein' im Konjunktiv II: 'bist' → 'wärst'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz017",
+      "correct": "Wenn ich fliegen könnte, würde ich nach Japan reisen.",
+      "incorrect": "Wenn ich fliegen kann, würde ich nach Japan reisen.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "Ein irrealer Wunsch verlangt den Konjunktiv II: 'kann' → 'könnte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz018",
+      "correct": "Wenn er mutiger wäre, würde er sie ansprechen.",
+      "incorrect": "Wenn er mutiger ist, würde er sie ansprechen.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Er ist nicht mutig genug – irreale Bedingung. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz019",
+      "correct": "Wenn ich jünger wäre, würde ich noch einmal studieren.",
+      "incorrect": "Wenn ich jünger bin, würde ich noch einmal studieren.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Die Bedingung ist irreal (man kann nicht jünger werden). 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz020",
+      "correct": "Wenn sie die Antwort wüsste, würde sie die Hand heben.",
+      "incorrect": "Wenn sie die Antwort weiß, würde sie die Hand heben.",
+      "highlight": ["wüsste", "weiß"],
+      "explanation": "Sie weiß die Antwort nicht – irreale Bedingung. 'wissen' → 'wüsste'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz021",
+      "correct": "Ich wäre jetzt gern am Strand.",
+      "incorrect": "Ich bin jetzt gern am Strand.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Ein irrealer Wunsch wird mit dem Konjunktiv II ausgedrückt: 'bin' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz022",
+      "correct": "Wenn ich nur mehr Geduld hätte!",
+      "incorrect": "Wenn ich nur mehr Geduld habe!",
+      "highlight": ["hätte", "habe"],
+      "explanation": "Wünsche mit 'wenn ... nur' stehen im Konjunktiv II: 'habe' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz023",
+      "correct": "Ich hätte gern einen Kaffee.",
+      "incorrect": "Ich habe gern einen Kaffee.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "'Ich hätte gern' drückt einen höflichen Wunsch aus. 'haben' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz024",
+      "correct": "Wenn wir nur mehr Zeit hätten!",
+      "incorrect": "Wenn wir nur mehr Zeit haben!",
+      "highlight": ["hätten", "haben"],
+      "explanation": "Irreale Wünsche mit 'wenn ... nur' verlangen den Konjunktiv II: 'haben' → 'hätten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz025",
+      "correct": "Ich wäre lieber zu Hause geblieben.",
+      "incorrect": "Ich bin lieber zu Hause geblieben.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Der Wunsch bezieht sich auf eine irreale Alternative: 'bin' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz026",
+      "correct": "Wenn er nur pünktlich käme!",
+      "incorrect": "Wenn er nur pünktlich kommt!",
+      "highlight": ["käme", "kommt"],
+      "explanation": "Wünsche mit 'wenn ... nur' stehen im Konjunktiv II: 'kommt' → 'käme'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz027",
+      "correct": "Ich hätte so gern ein Haustier.",
+      "incorrect": "Ich habe so gern ein Haustier.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "Ein unerfüllter Wunsch wird mit Konjunktiv II ausgedrückt: 'habe' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz028",
+      "correct": "Wir wären gern länger geblieben.",
+      "incorrect": "Wir sind gern länger geblieben.",
+      "highlight": ["wären", "sind"],
+      "explanation": "Der Wunsch bezieht sich auf etwas Irreales (man ist nicht geblieben): 'sind' → 'wären'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz029",
+      "correct": "Wenn ich nur besser singen könnte!",
+      "incorrect": "Wenn ich nur besser singen kann!",
+      "highlight": ["könnte", "kann"],
+      "explanation": "Der irreale Wunsch verlangt den Konjunktiv II: 'kann' → 'könnte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz030",
+      "correct": "Ich wäre gern so schlau wie meine Schwester.",
+      "incorrect": "Ich bin gern so schlau wie meine Schwester.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Ein irrealer Wunsch: Man ist nicht so schlau. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz031",
+      "correct": "Hätte ich nur auf dich gehört!",
+      "incorrect": "Habe ich nur auf dich gehört!",
+      "highlight": ["Hätte", "Habe"],
+      "explanation": "Der irreale Wunsch in der Vergangenheit verlangt 'hätte': 'Habe' → 'Hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz032",
+      "correct": "Wenn das Wetter nur schöner wäre!",
+      "incorrect": "Wenn das Wetter nur schöner ist!",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Der Wunsch nach besserem Wetter ist irreal. 'sein' → 'wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz033",
+      "correct": "Ich hätte gern zwei Brötchen.",
+      "incorrect": "Ich habe gern zwei Brötchen.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "'Ich hätte gern' ist eine höfliche Wunschform. 'haben' → 'hätte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz034",
+      "correct": "Wir hätten gern einen Tisch für zwei Personen.",
+      "incorrect": "Wir haben gern einen Tisch für zwei Personen.",
+      "highlight": ["hätten", "haben"],
+      "explanation": "'Wir hätten gern' drückt einen höflichen Wunsch aus: 'haben' → 'hätten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz035",
+      "correct": "Wenn ich nur fliegen könnte!",
+      "incorrect": "Wenn ich nur fliegen kann!",
+      "highlight": ["könnte", "kann"],
+      "explanation": "Ein irrealer Wunsch verlangt den Konjunktiv II: 'kann' → 'könnte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz036",
+      "correct": "Könnten Sie mir bitte den Weg zum Bahnhof erklären?",
+      "incorrect": "Können Sie mir bitte den Weg zum Bahnhof erklären?",
+      "highlight": ["Könnten", "Können"],
+      "explanation": "Höfliche Bitten an Fremde stehen im Konjunktiv II: 'Können' → 'Könnten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz037",
+      "correct": "Würden Sie bitte das Fenster schließen?",
+      "incorrect": "Werden Sie bitte das Fenster schließen?",
+      "highlight": ["Würden", "Werden"],
+      "explanation": "Höfliche Bitten verwendet man mit 'würden', nicht 'werden': 'Werden' → 'Würden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz038",
+      "correct": "Hätten Sie einen Moment Zeit für mich?",
+      "incorrect": "Haben Sie einen Moment Zeit für mich?",
+      "highlight": ["Hätten", "Haben"],
+      "explanation": "Der Konjunktiv II macht die Frage höflicher und zurückhaltender: 'Haben' → 'Hätten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz039",
+      "correct": "Dürfte ich Sie kurz etwas fragen?",
+      "incorrect": "Darf ich Sie kurz etwas fragen?",
+      "highlight": ["Dürfte", "Darf"],
+      "explanation": "In formellen Situationen ist der Konjunktiv II höflicher: 'Darf' → 'Dürfte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz040",
+      "correct": "Wären Sie so freundlich, mir zu helfen?",
+      "incorrect": "Sind Sie so freundlich, mir zu helfen?",
+      "highlight": ["Wären", "Sind"],
+      "explanation": "'Wären Sie so freundlich' ist eine besonders höfliche Bitte. 'Sind' → 'Wären'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz041",
+      "correct": "Könntest du mir bitte das Salz reichen?",
+      "incorrect": "Kannst du mir bitte das Salz reichen?",
+      "highlight": ["Könntest", "Kannst"],
+      "explanation": "Auch bei 'du' klingt der Konjunktiv II höflicher: 'Kannst' → 'Könntest'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz042",
+      "correct": "Würden Sie mir bitte Ihren Ausweis zeigen?",
+      "incorrect": "Werden Sie mir bitte Ihren Ausweis zeigen?",
+      "highlight": ["Würden", "Werden"],
+      "explanation": "Formelle Bitten stehen im Konjunktiv II: 'Werden' → 'Würden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz043",
+      "correct": "Könnten Sie bitte etwas langsamer sprechen?",
+      "incorrect": "Können Sie bitte etwas langsamer sprechen?",
+      "highlight": ["Könnten", "Können"],
+      "explanation": "Der Konjunktiv II drückt die Bitte vorsichtiger aus: 'Können' → 'Könnten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz044",
+      "correct": "Würdest du mir bitte bei den Hausaufgaben helfen?",
+      "incorrect": "Wirst du mir bitte bei den Hausaufgaben helfen?",
+      "highlight": ["Würdest", "Wirst"],
+      "explanation": "'Würdest du' ist eine höfliche Bitte, 'wirst du' klingt wie eine Forderung: 'Wirst' → 'Würdest'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz045",
+      "correct": "Hätten Sie vielleicht einen Stift für mich?",
+      "incorrect": "Haben Sie vielleicht einen Stift für mich?",
+      "highlight": ["Hätten", "Haben"],
+      "explanation": "Der Konjunktiv II macht die Frage höflicher und unverbindlicher: 'Haben' → 'Hätten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz046",
+      "correct": "Würden Sie mir bitte sagen, wie spät es ist?",
+      "incorrect": "Werden Sie mir bitte sagen, wie spät es ist?",
+      "highlight": ["Würden", "Werden"],
+      "explanation": "'Würden Sie' ist die höfliche Form einer Bitte: 'Werden' → 'Würden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz047",
+      "correct": "Dürfte ich bitte noch ein Glas Wasser bekommen?",
+      "incorrect": "Darf ich bitte noch ein Glas Wasser bekommen?",
+      "highlight": ["Dürfte", "Darf"],
+      "explanation": "'Dürfte ich' ist höflicher als 'Darf ich' in formellen Situationen: 'Darf' → 'Dürfte'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz048",
+      "correct": "Wäre es möglich, den Termin zu verschieben?",
+      "incorrect": "Ist es möglich, den Termin zu verschieben?",
+      "highlight": ["Wäre", "Ist"],
+      "explanation": "Der Konjunktiv II klingt bei formellen Anfragen höflicher: 'Ist' → 'Wäre'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz049",
+      "correct": "Könnten Sie das bitte wiederholen?",
+      "incorrect": "Können Sie das bitte wiederholen?",
+      "highlight": ["Könnten", "Können"],
+      "explanation": "In formellen Gesprächen ist 'könnten' höflicher als 'können': 'Können' → 'Könnten'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz050",
+      "correct": "Würden Sie bitte hier unterschreiben?",
+      "incorrect": "Werden Sie bitte hier unterschreiben?",
+      "highlight": ["Würden", "Werden"],
+      "explanation": "'Würden Sie bitte' ist eine höfliche Aufforderung. 'Werden' → 'Würden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz051",
+      "correct": "Er könnte besser spielen, wenn er mehr üben würde.",
+      "incorrect": "Er kann besser spielen, wenn er mehr üben würde.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "In hypothetischen Aussagen steht 'können' im Konjunktiv II: 'kann' → 'könnte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz052",
+      "correct": "Du solltest mehr Wasser trinken.",
+      "incorrect": "Du sollst mehr Wasser trinken.",
+      "highlight": ["solltest", "sollst"],
+      "explanation": "'Solltest' drückt einen freundlichen Ratschlag aus, 'sollst' klingt wie ein Befehl.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz053",
+      "correct": "Das dürfte kein Problem sein.",
+      "incorrect": "Das darf kein Problem sein.",
+      "highlight": ["dürfte", "darf"],
+      "explanation": "'Dürfte' drückt eine vorsichtige Vermutung aus, 'darf' ist ein Verbot/Erlaubnis.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz054",
+      "correct": "Wir müssten eigentlich früher losfahren.",
+      "incorrect": "Wir müssen eigentlich früher losfahren.",
+      "highlight": ["müssten", "müssen"],
+      "explanation": "'Müssten' drückt eine hypothetische Notwendigkeit aus: 'müssen' → 'müssten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz055",
+      "correct": "An deiner Stelle würde ich den Arzt fragen.",
+      "incorrect": "An deiner Stelle werde ich den Arzt fragen.",
+      "highlight": ["würde", "werde"],
+      "explanation": "'An deiner Stelle' leitet eine irreale Situation ein. 'werden' → 'würde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz056",
+      "correct": "Sie könnte die Prüfung schaffen, wenn sie lernt.",
+      "incorrect": "Sie kann die Prüfung schaffen, wenn sie lernt.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "'Könnte' drückt eine Möglichkeit aus, die unsicher ist: 'kann' → 'könnte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz057",
+      "correct": "Du solltest dich besser auf die Arbeit vorbereiten.",
+      "incorrect": "Du sollst dich besser auf die Arbeit vorbereiten.",
+      "highlight": ["solltest", "sollst"],
+      "explanation": "'Solltest' ist ein höflicher Ratschlag, 'sollst' ein strikter Auftrag.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz058",
+      "correct": "Man müsste das Gesetz eigentlich ändern.",
+      "incorrect": "Man muss das Gesetz eigentlich ändern.",
+      "highlight": ["müsste", "muss"],
+      "explanation": "'Müsste' drückt eine hypothetische Forderung aus, 'muss' eine reale.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz059",
+      "correct": "Das könnte stimmen, aber ich bin nicht sicher.",
+      "incorrect": "Das kann stimmen, aber ich bin nicht sicher.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "'Könnte' drückt eine vorsichtige Vermutung aus: 'kann' → 'könnte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz060",
+      "correct": "Ihr solltet euch warm anziehen, es wird kalt.",
+      "incorrect": "Ihr sollt euch warm anziehen, es wird kalt.",
+      "highlight": ["solltet", "sollt"],
+      "explanation": "'Solltet' ist ein freundlicher Rat, 'sollt' klingt wie eine Anweisung.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz061",
+      "correct": "Sie müsste eigentlich schon da sein.",
+      "incorrect": "Sie muss eigentlich schon da sein.",
+      "highlight": ["müsste", "muss"],
+      "explanation": "'Müsste' drückt eine unsichere Erwartung aus: 'muss' → 'müsste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz062",
+      "correct": "Wir könnten morgen ins Kino gehen, wenn du Lust hast.",
+      "incorrect": "Wir können morgen ins Kino gehen, wenn du Lust hast.",
+      "highlight": ["könnten", "können"],
+      "explanation": "'Könnten' drückt einen vorsichtigen Vorschlag aus: 'können' → 'könnten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz063",
+      "correct": "Du solltest nicht so viel Zucker essen.",
+      "incorrect": "Du sollst nicht so viel Zucker essen.",
+      "highlight": ["solltest", "sollst"],
+      "explanation": "'Solltest' klingt als Empfehlung, 'sollst' als Verbot.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz064",
+      "correct": "Man könnte meinen, er sei der Chef.",
+      "incorrect": "Man kann meinen, er sei der Chef.",
+      "highlight": ["könnte", "kann"],
+      "explanation": "'Man könnte meinen' drückt eine hypothetische Annahme aus: 'kann' → 'könnte'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz065",
+      "correct": "Er dürfte etwa fünfzig Jahre alt sein.",
+      "incorrect": "Er darf etwa fünfzig Jahre alt sein.",
+      "highlight": ["dürfte", "darf"],
+      "explanation": "'Dürfte' drückt eine vorsichtige Schätzung aus, 'darf' eine Erlaubnis.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz066",
+      "correct": "Wir müssten das Projekt bis Freitag abschließen.",
+      "incorrect": "Wir müssen das Projekt bis Freitag abschließen.",
+      "highlight": ["müssten", "müssen"],
+      "explanation": "'Müssten' drückt eine bedingte Notwendigkeit aus: 'müssen' → 'müssten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz067",
+      "correct": "Du könntest ruhig etwas freundlicher sein.",
+      "incorrect": "Du kannst ruhig etwas freundlicher sein.",
+      "highlight": ["könntest", "kannst"],
+      "explanation": "'Könntest' ist ein höflicher Hinweis, 'kannst' klingt direkter: 'kannst' → 'könntest'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz068",
+      "correct": "Man sollte seine Nachbarn respektieren.",
+      "incorrect": "Man soll seine Nachbarn respektieren.",
+      "highlight": ["sollte", "soll"],
+      "explanation": "'Sollte' ist eine allgemeine Empfehlung, 'soll' eine strikte Pflicht.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz069",
+      "correct": "Das dürfte die richtige Lösung sein.",
+      "incorrect": "Das darf die richtige Lösung sein.",
+      "highlight": ["dürfte", "darf"],
+      "explanation": "'Dürfte' drückt eine wahrscheinliche Vermutung aus, 'darf' eine Erlaubnis.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz070",
+      "correct": "Wir sollten vielleicht eine Pause machen.",
+      "incorrect": "Wir sollen vielleicht eine Pause machen.",
+      "highlight": ["sollten", "sollen"],
+      "explanation": "'Sollten' ist ein freundlicher Vorschlag, 'sollen' klingt wie ein Auftrag.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz071",
+      "correct": "Wenn ich das gewusst hätte, wäre ich gekommen.",
+      "incorrect": "Wenn ich das gewusst habe, wäre ich gekommen.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "Im irrealen Bedingungssatz der Vergangenheit: 'haben' → 'hätte' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz072",
+      "correct": "Wenn er früher aufgestanden wäre, hätte er den Zug erreicht.",
+      "incorrect": "Wenn er früher aufgestanden ist, hätte er den Zug erreicht.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Der irreale Bedingungssatz der Vergangenheit verlangt 'wäre' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz073",
+      "correct": "Er hätte das nicht tun sollen.",
+      "incorrect": "Er hat das nicht tun sollen.",
+      "highlight": ["hätte", "hat"],
+      "explanation": "Der Konjunktiv II der Vergangenheit drückt Bedauern aus: 'hat' → 'hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz074",
+      "correct": "Wir hätten den früheren Flug nehmen sollen.",
+      "incorrect": "Wir haben den früheren Flug nehmen sollen.",
+      "highlight": ["hätten", "haben"],
+      "explanation": "Nachträgliches Bedauern steht im Konjunktiv II: 'haben' → 'hätten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz075",
+      "correct": "Wenn sie schneller gelaufen wäre, hätte sie gewonnen.",
+      "incorrect": "Wenn sie schneller gelaufen ist, hätte sie gewonnen.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Im irrealen Vergangenheitssatz: 'sein' → 'wäre' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz076",
+      "correct": "Hättest du mich angerufen, wäre ich sofort gekommen.",
+      "incorrect": "Hast du mich angerufen, wäre ich sofort gekommen.",
+      "highlight": ["Hättest", "Hast"],
+      "explanation": "Der irreale Bedingungssatz ohne 'wenn' verlangt Konjunktiv II: 'Hast' → 'Hättest'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz077",
+      "correct": "Ich hätte mehr lernen müssen.",
+      "incorrect": "Ich habe mehr lernen müssen.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "Rückblickendes Bedauern steht im Konjunktiv II: 'habe' → 'hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz078",
+      "correct": "Wäre ich nicht so müde gewesen, hätte ich weitergearbeitet.",
+      "incorrect": "Bin ich nicht so müde gewesen, hätte ich weitergearbeitet.",
+      "highlight": ["Wäre", "Bin"],
+      "explanation": "Im irrealen Bedingungssatz der Vergangenheit: 'sein' → 'wäre'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz079",
+      "correct": "Wenn du mir geholfen hättest, wären wir schneller fertig gewesen.",
+      "incorrect": "Wenn du mir geholfen hast, wären wir schneller fertig gewesen.",
+      "highlight": ["hättest", "hast"],
+      "explanation": "Der irreale Bedingungssatz der Vergangenheit: 'hast' → 'hättest'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz080",
+      "correct": "Wenn das Wetter besser gewesen wäre, hätten wir gewandert.",
+      "incorrect": "Wenn das Wetter besser gewesen ist, hätten wir gewandert.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Die Vergangenheit des irrealen Bedingungssatzes verlangt 'wäre' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz081",
+      "correct": "Er hätte den Brief früher schicken können.",
+      "incorrect": "Er hat den Brief früher schicken können.",
+      "highlight": ["hätte", "hat"],
+      "explanation": "Eine verpasste Möglichkeit in der Vergangenheit: 'hat' → 'hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz082",
+      "correct": "Wenn ich an seiner Stelle gewesen wäre, hätte ich anders gehandelt.",
+      "incorrect": "Wenn ich an seiner Stelle gewesen bin, hätte ich anders gehandelt.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "Im irrealen Vergangenheitssatz steht 'sein' im Konjunktiv II: 'bin' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz083",
+      "correct": "Hätte ich das früher erfahren, hätte ich reagiert.",
+      "incorrect": "Habe ich das früher erfahren, hätte ich reagiert.",
+      "highlight": ["Hätte", "Habe"],
+      "explanation": "Ohne 'wenn' steht der Bedingungssatz im Konjunktiv II: 'Habe' → 'Hätte'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz084",
+      "correct": "Wenn er nicht gestürzt wäre, hätte er das Rennen gewonnen.",
+      "incorrect": "Wenn er nicht gestürzt ist, hätte er das Rennen gewonnen.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Irrealer Vergangenheitssatz: 'sein' → 'wäre' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz085",
+      "correct": "Sie hätte den Kuchen nicht verbrennen dürfen.",
+      "incorrect": "Sie hat den Kuchen nicht verbrennen dürfen.",
+      "highlight": ["hätte", "hat"],
+      "explanation": "Nachträglicher Vorwurf steht im Konjunktiv II: 'hat' → 'hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz086",
+      "correct": "Wenn wir das Taxi genommen hätten, wären wir pünktlich gewesen.",
+      "incorrect": "Wenn wir das Taxi genommen haben, wären wir pünktlich gewesen.",
+      "highlight": ["hätten", "haben"],
+      "explanation": "Im irrealen Bedingungssatz der Vergangenheit: 'haben' → 'hätten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz087",
+      "correct": "Ich wäre fast hingefallen.",
+      "incorrect": "Ich bin fast hingefallen.",
+      "highlight": ["wäre", "bin"],
+      "explanation": "'Beinahe/fast' + Konjunktiv II drückt aus, dass etwas nicht passiert ist: 'bin' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz088",
+      "correct": "Wenn er nicht so nervös gewesen wäre, hätte er besser gespielt.",
+      "incorrect": "Wenn er nicht so nervös gewesen ist, hätte er besser gespielt.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Der irreale Bedingungssatz der Vergangenheit verlangt 'wäre', nicht 'ist'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz089",
+      "correct": "Wir hätten das Problem vermeiden können.",
+      "incorrect": "Wir haben das Problem vermeiden können.",
+      "highlight": ["hätten", "haben"],
+      "explanation": "Eine verpasste Möglichkeit in der Vergangenheit steht im Konjunktiv II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz090",
+      "correct": "Wenn ich die E-Mail gelesen hätte, hätte ich Bescheid gewusst.",
+      "incorrect": "Wenn ich die E-Mail gelesen habe, hätte ich Bescheid gewusst.",
+      "highlight": ["hätte", "habe"],
+      "explanation": "Im irrealen Bedingungssatz der Vergangenheit: 'habe' → 'hätte' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz091",
+      "correct": "Er tut so, als ob er alles wüsste.",
+      "incorrect": "Er tut so, als ob er alles weiß.",
+      "highlight": ["wüsste", "weiß"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II: 'weiß' → 'wüsste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz092",
+      "correct": "Sie sieht aus, als ob sie geweint hätte.",
+      "incorrect": "Sie sieht aus, als ob sie geweint hat.",
+      "highlight": ["hätte", "hat"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II, auch in der Vergangenheit: 'hat' → 'hätte'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz093",
+      "correct": "Er benimmt sich, als ob er der Chef wäre.",
+      "incorrect": "Er benimmt sich, als ob er der Chef ist.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Nach 'als ob' verwendet man den Konjunktiv II: 'ist' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz094",
+      "correct": "Es klingt, als ob jemand an der Tür klopfen würde.",
+      "incorrect": "Es klingt, als ob jemand an der Tür klopft.",
+      "highlight": ["klopfen würde", "klopft"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II: 'klopft' → 'klopfen würde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz095",
+      "correct": "Sie spricht so, als ob sie eine Expertin wäre.",
+      "incorrect": "Sie spricht so, als ob sie eine Expertin ist.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "'Als ob' verlangt den Konjunktiv II: 'ist' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz096",
+      "correct": "Er fühlt sich, als ob er krank wäre.",
+      "incorrect": "Er fühlt sich, als ob er krank ist.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II: 'ist' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz097",
+      "correct": "Das Kind tut so, als ob es schlafen würde.",
+      "incorrect": "Das Kind tut so, als ob es schläft.",
+      "highlight": ["schlafen würde", "schläft"],
+      "explanation": "Nach 'als ob' verwendet man den Konjunktiv II: 'schläft' → 'schlafen würde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz098",
+      "correct": "Es riecht, als ob etwas brennen würde.",
+      "incorrect": "Es riecht, als ob etwas brennt.",
+      "highlight": ["brennen würde", "brennt"],
+      "explanation": "'Als ob' verlangt den Konjunktiv II: 'brennt' → 'brennen würde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz099",
+      "correct": "Er redet, als ob er nie dort gewesen wäre.",
+      "incorrect": "Er redet, als ob er nie dort gewesen ist.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II, auch in der Vergangenheit: 'ist' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz100",
+      "correct": "Sie lächelt, als ob nichts passiert wäre.",
+      "incorrect": "Sie lächelt, als ob nichts passiert ist.",
+      "highlight": ["wäre", "ist"],
+      "explanation": "Nach 'als ob' steht der Konjunktiv II in der Vergangenheit: 'ist' → 'wäre'.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz101",
+      "correct": "Wenn er käme, wäre ich froh.",
+      "incorrect": "Wenn er kommen würde, wäre ich froh.",
+      "highlight": ["käme", "kommen würde"],
+      "explanation": "Bei häufigen starken Verben wie 'kommen' ist die eigene KII-Form 'käme' stilistisch besser.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz102",
+      "correct": "Wenn ich es wüsste, würde ich es dir sagen.",
+      "incorrect": "Wenn ich es wissen würde, würde ich es dir sagen.",
+      "highlight": ["wüsste", "wissen würde"],
+      "explanation": "'Wüsste' ist die bevorzugte KII-Form von 'wissen'. Die würde-Umschreibung ist hier unüblich.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz103",
+      "correct": "Es wäre schön, wenn es mehr Optionen gäbe.",
+      "incorrect": "Es wäre schön, wenn es mehr Optionen geben würde.",
+      "highlight": ["gäbe", "geben würde"],
+      "explanation": "'Gäbe' ist die gebräuchliche KII-Form von 'geben'. Sie ist stilistisch besser als 'geben würde'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz104",
+      "correct": "Ich fände es gut, wenn wir das besprechen könnten.",
+      "incorrect": "Ich würde es gut finden, wenn wir das besprechen könnten.",
+      "highlight": ["fände", "würde"],
+      "explanation": "'Fände' ist die bevorzugte KII-Form von 'finden' in gehobener Sprache.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz105",
+      "correct": "Wenn er ginge, wäre es sehr schade.",
+      "incorrect": "Wenn er gehen würde, wäre es sehr schade.",
+      "highlight": ["ginge", "gehen würde"],
+      "explanation": "'Ginge' ist die gebräuchliche KII-Form von 'gehen'. Sie wirkt natürlicher.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz106",
+      "correct": "Ich bräuchte noch etwas mehr Zeit.",
+      "incorrect": "Ich würde noch etwas mehr Zeit brauchen.",
+      "highlight": ["bräuchte", "würde"],
+      "explanation": "'Bräuchte' ist die bevorzugte KII-Form von 'brauchen' in der Alltagssprache.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz107",
+      "correct": "Wenn ich mehr Geld bekäme, würde ich umziehen.",
+      "incorrect": "Wenn ich mehr Geld bekommen würde, würde ich umziehen.",
+      "highlight": ["bekäme", "bekommen würde"],
+      "explanation": "'Bekäme' ist die starke KII-Form von 'bekommen'. Man vermeidet damit doppeltes 'würde'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz108",
+      "correct": "Wenn er mich ließe, würde ich ihm helfen.",
+      "incorrect": "Wenn er mich lassen würde, würde ich ihm helfen.",
+      "highlight": ["ließe", "lassen würde"],
+      "explanation": "'Ließe' ist die starke KII-Form von 'lassen'. Sie vermeidet doppeltes 'würde'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz109",
+      "correct": "Wenn ich die Antwort wüsste, würde ich sie verraten.",
+      "incorrect": "Wenn ich die Antwort wissen würde, würde ich sie verraten.",
+      "highlight": ["wüsste", "wissen würde"],
+      "explanation": "'Wüsste' ist die natürliche KII-Form von 'wissen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz110",
+      "correct": "Ich nähme das Angebot sofort an.",
+      "incorrect": "Ich würde das Angebot sofort annehmen.",
+      "highlight": ["nähme", "würde"],
+      "explanation": "'Nähme' ist die starke KII-Form von 'nehmen', die in der Schriftsprache bevorzugt wird.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz111",
+      "correct": "Wenn es nach mir ginge, würden wir sofort anfangen.",
+      "incorrect": "Wenn es nach mir gehen würde, würden wir sofort anfangen.",
+      "highlight": ["ginge", "gehen würde"],
+      "explanation": "'Wenn es nach mir ginge' ist eine feste Wendung mit der starken KII-Form.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz112",
+      "correct": "Er gäbe alles dafür, sie wiederzusehen.",
+      "incorrect": "Er würde alles dafür geben, sie wiederzusehen.",
+      "highlight": ["gäbe", "würde"],
+      "explanation": "'Gäbe' ist die starke KII-Form von 'geben', die hier stilistisch passender ist.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz113",
+      "correct": "Wenn er die Wahrheit wüsste, wäre er enttäuscht.",
+      "incorrect": "Wenn er die Wahrheit wissen würde, wäre er enttäuscht.",
+      "highlight": ["wüsste", "wissen würde"],
+      "explanation": "'Wüsste' ist die übliche KII-Form von 'wissen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz114",
+      "correct": "Ich fände es besser, wenn wir morgen anfangen.",
+      "incorrect": "Ich würde es besser finden, wenn wir morgen anfangen.",
+      "highlight": ["fände", "würde"],
+      "explanation": "'Fände' ist die natürliche KII-Form von 'finden' und klingt stilvoller.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz115",
+      "correct": "Wenn sie ihn ließe, würde er sofort kommen.",
+      "incorrect": "Wenn sie ihn lassen würde, würde er sofort kommen.",
+      "highlight": ["ließe", "lassen würde"],
+      "explanation": "'Ließe' vermeidet die Wiederholung von 'würde' und ist die übliche KII-Form.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz116",
+      "correct": "Es gäbe so viel zu tun.",
+      "incorrect": "Es würde so viel zu tun geben.",
+      "highlight": ["gäbe", "würde"],
+      "explanation": "'Gäbe' ist die bevorzugte KII-Form von 'geben' und klingt natürlicher.",
+      "difficulty": 3
+    },
+    {
+      "id": "kz117",
+      "correct": "Ich würde gern nach Berlin fahren.",
+      "incorrect": "Ich werde gern nach Berlin fahren.",
+      "highlight": ["würde", "werde"],
+      "explanation": "'Würde' + Infinitiv drückt einen hypothetischen Wunsch aus, 'werde' ist Futur I.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz118",
+      "correct": "Was würdest du an meiner Stelle tun?",
+      "incorrect": "Was wirst du an meiner Stelle tun?",
+      "highlight": ["würdest", "wirst"],
+      "explanation": "'An meiner Stelle' ist eine hypothetische Situation, daher Konjunktiv II: 'wirst' → 'würdest'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz119",
+      "correct": "Er würde am liebsten den ganzen Tag schlafen.",
+      "incorrect": "Er wird am liebsten den ganzen Tag schlafen.",
+      "highlight": ["würde", "wird"],
+      "explanation": "'Am liebsten' + 'würde' drückt einen irrealen Wunsch aus. 'wird' wäre Futur I.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz120",
+      "correct": "Wir würden euch gern besuchen, aber wir haben keine Zeit.",
+      "incorrect": "Wir werden euch gern besuchen, aber wir haben keine Zeit.",
+      "highlight": ["würden", "werden"],
+      "explanation": "Der Besuch ist irreal (keine Zeit), daher Konjunktiv II: 'werden' → 'würden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz121",
+      "correct": "Ich würde nie so etwas sagen.",
+      "incorrect": "Ich werde nie so etwas sagen.",
+      "highlight": ["würde", "werde"],
+      "explanation": "'Würde' betont die Irrealität: Man würde es grundsätzlich nicht tun. 'Werde' wäre eine Zukunftsaussage.",
+      "difficulty": 2
+    },
+    {
+      "id": "kz122",
+      "correct": "Würdest du mir bitte einen Gefallen tun?",
+      "incorrect": "Wirst du mir bitte einen Gefallen tun?",
+      "highlight": ["Würdest", "Wirst"],
+      "explanation": "'Würdest du' ist eine höfliche Bitte, 'wirst du' klingt wie eine Forderung.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz123",
+      "correct": "Sie würde sich freuen, wenn du kommst.",
+      "incorrect": "Sie wird sich freuen, wenn du kommst.",
+      "highlight": ["würde", "wird"],
+      "explanation": "'Würde' drückt eine hypothetische Freude aus (sie weiß noch nicht, ob du kommst).",
+      "difficulty": 2
+    },
+    {
+      "id": "kz124",
+      "correct": "An seiner Stelle würde ich den Job annehmen.",
+      "incorrect": "An seiner Stelle werde ich den Job annehmen.",
+      "highlight": ["würde", "werde"],
+      "explanation": "'An seiner Stelle' beschreibt eine irreale Situation. 'werden' → 'würde'.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz125",
+      "correct": "Ich würde dir ja helfen, aber ich kann nicht.",
+      "incorrect": "Ich werde dir ja helfen, aber ich kann nicht.",
+      "highlight": ["würde", "werde"],
+      "explanation": "'Würde' drückt die irreale Bereitschaft aus: Man möchte, kann aber nicht.",
+      "difficulty": 1
+    },
+    {
+      "id": "kz126",
+      "correct": "Was würden Sie in dieser Situation empfehlen?",
+      "incorrect": "Was werden Sie in dieser Situation empfehlen?",
+      "highlight": ["würden", "werden"],
+      "explanation": "'Würden' macht die Frage hypothetisch und höflich. 'Werden' wäre Futur I.",
+      "difficulty": 1
+    }
+  ]
+}

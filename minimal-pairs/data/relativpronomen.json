@@ -1,0 +1,1015 @@
+{
+  "category": "relativpronomen",
+  "displayName": "Relativpronomen",
+  "description": "Relativpronomen im richtigen Kasus, Genus und Numerus",
+  "items": [
+    {
+      "id": "rp001",
+      "correct": "Der Mann, der dort steht, ist mein Lehrer.",
+      "incorrect": "Der Mann, den dort steht, ist mein Lehrer.",
+      "highlight": ["der", "den"],
+      "explanation": "Das Relativpronomen ist Subjekt des Relativsatzes (wer steht?) und steht im Nominativ: 'der'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp002",
+      "correct": "Die Frau, die hier arbeitet, kommt aus Berlin.",
+      "incorrect": "Die Frau, der hier arbeitet, kommt aus Berlin.",
+      "highlight": ["die", "der"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer arbeitet?) und steht im Nominativ Feminin: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp003",
+      "correct": "Das Kind, das dort spielt, ist mein Neffe.",
+      "incorrect": "Das Kind, den dort spielt, ist mein Neffe.",
+      "highlight": ["das", "den"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer spielt?) und steht im Nominativ Neutrum: 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp004",
+      "correct": "Die Leute, die hier wohnen, sind sehr nett.",
+      "incorrect": "Die Leute, denen hier wohnen, sind sehr nett.",
+      "highlight": ["die", "denen"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer wohnt?) und steht im Nominativ Plural: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp005",
+      "correct": "Der Arzt, der mich behandelt, ist sehr erfahren.",
+      "incorrect": "Der Arzt, den mich behandelt, ist sehr erfahren.",
+      "highlight": ["der", "den"],
+      "explanation": "Das Relativpronomen ist Subjekt des Relativsatzes (wer behandelt?) und steht im Nominativ: 'der'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp006",
+      "correct": "Die Lehrerin, die uns unterrichtet, ist streng aber fair.",
+      "incorrect": "Die Lehrerin, der uns unterrichtet, ist streng aber fair.",
+      "highlight": ["die", "der"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'die Lehrerin' und ist Subjekt (wer unterrichtet?): Nominativ Feminin 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp007",
+      "correct": "Das Restaurant, das gerade geöffnet hat, ist sehr beliebt.",
+      "incorrect": "Das Restaurant, der gerade geöffnet hat, ist sehr beliebt.",
+      "highlight": ["das", "der"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'das Restaurant' (Neutrum) und ist Subjekt: Nominativ 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp008",
+      "correct": "Der Hund, der im Garten liegt, gehört meiner Nachbarin.",
+      "incorrect": "Der Hund, dem im Garten liegt, gehört meiner Nachbarin.",
+      "highlight": ["der", "dem"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer liegt?) und steht im Nominativ Maskulin: 'der'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp009",
+      "correct": "Die Studenten, die fleißig lernen, bestehen die Prüfung.",
+      "incorrect": "Die Studenten, denen fleißig lernen, bestehen die Prüfung.",
+      "highlight": ["die", "denen"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer lernt?) und steht im Nominativ Plural: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp010",
+      "correct": "Die Kollegin, die immer früh kommt, trinkt viel Kaffee.",
+      "incorrect": "Die Kollegin, den immer früh kommt, trinkt viel Kaffee.",
+      "highlight": ["die", "den"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'die Kollegin' (Feminin) und ist Subjekt: Nominativ 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp011",
+      "correct": "Der Bus, der zum Bahnhof fährt, kommt gleich.",
+      "incorrect": "Der Bus, den zum Bahnhof fährt, kommt gleich.",
+      "highlight": ["der", "den"],
+      "explanation": "Das Relativpronomen ist Subjekt (was fährt?) und steht im Nominativ Maskulin: 'der'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp012",
+      "correct": "Das Buch, das auf dem Tisch liegt, gehört mir.",
+      "incorrect": "Das Buch, die auf dem Tisch liegt, gehört mir.",
+      "highlight": ["das", "die"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'das Buch' (Neutrum) und ist Subjekt: Nominativ 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp013",
+      "correct": "Die Katze, die auf dem Sofa schläft, ist sehr alt.",
+      "incorrect": "Die Katze, das auf dem Sofa schläft, ist sehr alt.",
+      "highlight": ["die", "das"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'die Katze' (Feminin) und ist Subjekt: Nominativ 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp014",
+      "correct": "Der Freund, der mich angerufen hat, wohnt in München.",
+      "incorrect": "Der Freund, dem mich angerufen hat, wohnt in München.",
+      "highlight": ["der", "dem"],
+      "explanation": "Das Relativpronomen ist Subjekt (wer hat angerufen?) und steht im Nominativ: 'der'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp015",
+      "correct": "Die Kinder, die draussen spielen, sind laut.",
+      "incorrect": "Die Kinder, das draussen spielen, sind laut.",
+      "highlight": ["die", "das"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'die Kinder' (Plural) und ist Subjekt: Nominativ 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp016",
+      "correct": "Der Mann, den ich gestern gesehen habe, ist mein Nachbar.",
+      "incorrect": "Der Mann, der ich gestern gesehen habe, ist mein Nachbar.",
+      "highlight": ["den", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (wen habe ich gesehen?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp017",
+      "correct": "Die Frau, die ich kenne, arbeitet bei Siemens.",
+      "incorrect": "Die Frau, der ich kenne, arbeitet bei Siemens.",
+      "highlight": ["die", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (wen kenne ich?) und steht im Akkusativ Feminin: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp018",
+      "correct": "Das Buch, das ich gerade lese, ist sehr spannend.",
+      "incorrect": "Das Buch, den ich gerade lese, ist sehr spannend.",
+      "highlight": ["das", "den"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was lese ich?) und steht im Akkusativ Neutrum: 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp019",
+      "correct": "Die Filme, die wir gesehen haben, waren alle gut.",
+      "incorrect": "Die Filme, denen wir gesehen haben, waren alle gut.",
+      "highlight": ["die", "denen"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was haben wir gesehen?) und steht im Akkusativ Plural: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp020",
+      "correct": "Den Kuchen, den meine Mutter gebacken hat, esse ich gern.",
+      "incorrect": "Den Kuchen, der meine Mutter gebacken hat, esse ich gern.",
+      "highlight": ["den", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was hat sie gebacken?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp021",
+      "correct": "Der Lehrer, den alle mögen, geht bald in Rente.",
+      "incorrect": "Der Lehrer, der alle mögen, geht bald in Rente.",
+      "highlight": ["den", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (wen mögen alle?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp022",
+      "correct": "Die Stadt, die ich besucht habe, liegt in Süddeutschland.",
+      "incorrect": "Die Stadt, den ich besucht habe, liegt in Süddeutschland.",
+      "highlight": ["die", "den"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was habe ich besucht?) und steht im Akkusativ Feminin: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp023",
+      "correct": "Das Lied, das sie singt, kenne ich nicht.",
+      "incorrect": "Das Lied, dem sie singt, kenne ich nicht.",
+      "highlight": ["das", "dem"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was singt sie?) und steht im Akkusativ Neutrum: 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp024",
+      "correct": "Den Arzt, den sie empfohlen hat, finde ich gut.",
+      "incorrect": "Den Arzt, dem sie empfohlen hat, finde ich gut.",
+      "highlight": ["den", "dem"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (wen hat sie empfohlen?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp025",
+      "correct": "Die Jacke, die du trägst, gefällt mir.",
+      "incorrect": "Die Jacke, der du trägst, gefällt mir.",
+      "highlight": ["die", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was trägst du?) und steht im Akkusativ Feminin: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp026",
+      "correct": "Das Geschenk, das er bekommen hat, war teuer.",
+      "incorrect": "Das Geschenk, der er bekommen hat, war teuer.",
+      "highlight": ["das", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was hat er bekommen?) und steht im Akkusativ Neutrum: 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp027",
+      "correct": "Der Film, den du empfohlen hast, war wirklich toll.",
+      "incorrect": "Der Film, der du empfohlen hast, war wirklich toll.",
+      "highlight": ["den", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was hast du empfohlen?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp028",
+      "correct": "Die Blumen, die er mitgebracht hat, sind wunderschön.",
+      "incorrect": "Die Blumen, denen er mitgebracht hat, sind wunderschön.",
+      "highlight": ["die", "denen"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was hat er mitgebracht?) und steht im Akkusativ Plural: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp029",
+      "correct": "Die Zeitung, die ich gelesen habe, lag auf dem Tisch.",
+      "incorrect": "Die Zeitung, dem ich gelesen habe, lag auf dem Tisch.",
+      "highlight": ["die", "dem"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was habe ich gelesen?) und steht im Akkusativ Feminin: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp030",
+      "correct": "Das Handy, das ich kaufen will, ist zu teuer.",
+      "incorrect": "Das Handy, die ich kaufen will, ist zu teuer.",
+      "highlight": ["das", "die"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'das Handy' (Neutrum) und ist direktes Objekt: Akkusativ 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp031",
+      "correct": "Der Wein, den wir getrunken haben, war ausgezeichnet.",
+      "incorrect": "Der Wein, dem wir getrunken haben, war ausgezeichnet.",
+      "highlight": ["den", "dem"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was haben wir getrunken?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp032",
+      "correct": "Die Aufgaben, die der Lehrer gestellt hat, sind schwer.",
+      "incorrect": "Die Aufgaben, denen der Lehrer gestellt hat, sind schwer.",
+      "highlight": ["die", "denen"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was hat der Lehrer gestellt?) und steht im Akkusativ Plural: 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp033",
+      "correct": "Den Brief, den ich geschrieben habe, schicke ich morgen ab.",
+      "incorrect": "Den Brief, der ich geschrieben habe, schicke ich morgen ab.",
+      "highlight": ["den", "der"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was habe ich geschrieben?) und steht im Akkusativ Maskulin: 'den'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp034",
+      "correct": "Die Musik, die im Radio läuft, gefällt mir gut.",
+      "incorrect": "Die Musik, das im Radio läuft, gefällt mir gut.",
+      "highlight": ["die", "das"],
+      "explanation": "Das Relativpronomen bezieht sich auf 'die Musik' (Feminin) und ist Subjekt: Nominativ 'die'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp035",
+      "correct": "Das Auto, das er verkaufen möchte, steht in der Garage.",
+      "incorrect": "Das Auto, den er verkaufen möchte, steht in der Garage.",
+      "highlight": ["das", "den"],
+      "explanation": "Das Relativpronomen ist direktes Objekt (was möchte er verkaufen?) und steht im Akkusativ Neutrum: 'das'.",
+      "difficulty": 1
+    },
+    {
+      "id": "rp036",
+      "correct": "Der Mann, dem ich geholfen habe, war sehr dankbar.",
+      "incorrect": "Der Mann, den ich geholfen habe, war sehr dankbar.",
+      "highlight": ["dem", "den"],
+      "explanation": "'helfen' verlangt den Dativ. Das Relativpronomen steht im Dativ Maskulin: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp037",
+      "correct": "Die Frau, der ich das Buch gegeben habe, ist meine Kollegin.",
+      "incorrect": "Die Frau, die ich das Buch gegeben habe, ist meine Kollegin.",
+      "highlight": ["der", "die"],
+      "explanation": "'geben' braucht ein indirektes Objekt im Dativ (wem?). Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp038",
+      "correct": "Das Kind, dem ich das Spielzeug geschenkt habe, hat sich gefreut.",
+      "incorrect": "Das Kind, das ich das Spielzeug geschenkt habe, hat sich gefreut.",
+      "highlight": ["dem", "das"],
+      "explanation": "'schenken' braucht ein indirektes Objekt im Dativ (wem?). Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp039",
+      "correct": "Die Freunde, denen ich geschrieben habe, antworten selten.",
+      "incorrect": "Die Freunde, die ich geschrieben habe, antworten selten.",
+      "highlight": ["denen", "die"],
+      "explanation": "'schreiben' mit indirektem Objekt verlangt den Dativ. Plural Dativ: 'denen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp040",
+      "correct": "Der Kollege, dem ich vertraue, ist immer ehrlich.",
+      "incorrect": "Der Kollege, den ich vertraue, ist immer ehrlich.",
+      "highlight": ["dem", "den"],
+      "explanation": "'vertrauen' verlangt den Dativ (wem vertraue ich?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp041",
+      "correct": "Die Nachbarin, der ich gedankt habe, hat mir beim Umzug geholfen.",
+      "incorrect": "Die Nachbarin, die ich gedankt habe, hat mir beim Umzug geholfen.",
+      "highlight": ["der", "die"],
+      "explanation": "'danken' verlangt den Dativ (wem danke ich?). Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp042",
+      "correct": "Der Patient, dem der Arzt geraten hat, fühlt sich besser.",
+      "incorrect": "Der Patient, den der Arzt geraten hat, fühlt sich besser.",
+      "highlight": ["dem", "den"],
+      "explanation": "'raten' verlangt den Dativ (wem rät der Arzt?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp043",
+      "correct": "Die Studentin, der die Prüfung schwerfiel, hat trotzdem bestanden.",
+      "incorrect": "Die Studentin, die die Prüfung schwerfiel, hat trotzdem bestanden.",
+      "highlight": ["der", "die"],
+      "explanation": "'schwerfallen' verlangt den Dativ (wem fällt es schwer?). Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp044",
+      "correct": "Das Mädchen, dem wir die Nachricht überbracht haben, war überrascht.",
+      "incorrect": "Das Mädchen, das wir die Nachricht überbracht haben, war überrascht.",
+      "highlight": ["dem", "das"],
+      "explanation": "'überbringen' braucht ein indirektes Objekt im Dativ (wem?). Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp045",
+      "correct": "Der Freund, dem ich zum Geburtstag gratuliert habe, wurde 30.",
+      "incorrect": "Der Freund, den ich zum Geburtstag gratuliert habe, wurde 30.",
+      "highlight": ["dem", "den"],
+      "explanation": "'gratulieren' verlangt den Dativ (wem gratuliere ich?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp046",
+      "correct": "Die Kinder, denen die Grossmutter Geschichten erzählt, hören aufmerksam zu.",
+      "incorrect": "Die Kinder, die die Grossmutter Geschichten erzählt, hören aufmerksam zu.",
+      "highlight": ["denen", "die"],
+      "explanation": "'erzählen' braucht ein indirektes Objekt im Dativ (wem?). Plural Dativ: 'denen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp047",
+      "correct": "Der Schüler, dem der Stoff nicht gefällt, passt trotzdem auf.",
+      "incorrect": "Der Schüler, den der Stoff nicht gefällt, passt trotzdem auf.",
+      "highlight": ["dem", "den"],
+      "explanation": "'gefallen' verlangt den Dativ (wem gefällt es?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp048",
+      "correct": "Die Frau, der das Kleid gehört, ist nicht hier.",
+      "incorrect": "Die Frau, die das Kleid gehört, ist nicht hier.",
+      "highlight": ["der", "die"],
+      "explanation": "'gehören' verlangt den Dativ (wem gehört es?). Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp049",
+      "correct": "Der Junge, dem ich den Weg erklärt habe, fand das Gebäude.",
+      "incorrect": "Der Junge, den ich den Weg erklärt habe, fand das Gebäude.",
+      "highlight": ["dem", "den"],
+      "explanation": "'erklären' braucht ein indirektes Objekt im Dativ (wem?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp050",
+      "correct": "Die Kolleginnen, denen er immer widerspricht, sind genervt.",
+      "incorrect": "Die Kolleginnen, die er immer widerspricht, sind genervt.",
+      "highlight": ["denen", "die"],
+      "explanation": "'widersprechen' verlangt den Dativ (wem widerspricht er?). Plural Dativ: 'denen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp051",
+      "correct": "Das Baby, dem die Milch nicht schmeckt, weint laut.",
+      "incorrect": "Das Baby, das die Milch nicht schmeckt, weint laut.",
+      "highlight": ["dem", "das"],
+      "explanation": "'schmecken' verlangt den Dativ (wem schmeckt es?). Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp052",
+      "correct": "Der Tourist, dem ich den Weg gezeigt habe, kam aus Japan.",
+      "incorrect": "Der Tourist, den ich den Weg gezeigt habe, kam aus Japan.",
+      "highlight": ["dem", "den"],
+      "explanation": "'zeigen' braucht ein indirektes Objekt im Dativ (wem?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp053",
+      "correct": "Die Schauspielerin, der das Publikum applaudiert hat, verbeugte sich.",
+      "incorrect": "Die Schauspielerin, die das Publikum applaudiert hat, verbeugte sich.",
+      "highlight": ["der", "die"],
+      "explanation": "'applaudieren' verlangt den Dativ (wem applaudiert man?). Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp054",
+      "correct": "Der Nachbar, dem ich beim Umzug geholfen habe, lud mich zum Essen ein.",
+      "incorrect": "Der Nachbar, den ich beim Umzug geholfen habe, lud mich zum Essen ein.",
+      "highlight": ["dem", "den"],
+      "explanation": "'helfen' verlangt den Dativ (wem habe ich geholfen?). Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp055",
+      "correct": "Die Gäste, denen wir das Zimmer gezeigt haben, waren beeindruckt.",
+      "incorrect": "Die Gäste, die wir das Zimmer gezeigt haben, waren beeindruckt.",
+      "highlight": ["denen", "die"],
+      "explanation": "'zeigen' braucht ein indirektes Objekt im Dativ (wem?). Plural Dativ: 'denen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp056",
+      "correct": "Der Mann, dessen Auto gestohlen wurde, rief die Polizei.",
+      "incorrect": "Der Mann, dem Auto gestohlen wurde, rief die Polizei.",
+      "highlight": ["dessen", "dem"],
+      "explanation": "Besitz im Relativsatz wird mit dem Genitiv-Relativpronomen ausgedrückt. Maskulin Genitiv: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp057",
+      "correct": "Die Frau, deren Tasche hier liegt, ist kurz weg.",
+      "incorrect": "Die Frau, der Tasche hier liegt, ist kurz weg.",
+      "highlight": ["deren", "der"],
+      "explanation": "Besitz im Relativsatz wird mit dem Genitiv-Relativpronomen ausgedrückt. Feminin Genitiv: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp058",
+      "correct": "Das Haus, dessen Dach repariert wird, steht an der Ecke.",
+      "incorrect": "Das Haus, dem Dach repariert wird, steht an der Ecke.",
+      "highlight": ["dessen", "dem"],
+      "explanation": "Besitz im Relativsatz wird mit dem Genitiv-Relativpronomen ausgedrückt. Neutrum Genitiv: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp059",
+      "correct": "Die Kinder, deren Eltern hier sind, dürfen länger bleiben.",
+      "incorrect": "Die Kinder, denen Eltern hier sind, dürfen länger bleiben.",
+      "highlight": ["deren", "denen"],
+      "explanation": "Besitz im Relativsatz wird mit dem Genitiv-Relativpronomen ausgedrückt. Plural Genitiv: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp060",
+      "correct": "Der Autor, dessen Buch ich gelesen habe, hält morgen einen Vortrag.",
+      "incorrect": "Der Autor, dem Buch ich gelesen habe, hält morgen einen Vortrag.",
+      "highlight": ["dessen", "dem"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Buch?). Maskulin: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp061",
+      "correct": "Die Kollegin, deren Idee brillant war, bekam eine Beförderung.",
+      "incorrect": "Die Kollegin, der Idee brillant war, bekam eine Beförderung.",
+      "highlight": ["deren", "der"],
+      "explanation": "Das Genitiv-Relativpronomen 'deren' drückt Besitz aus (wessen Idee?). Feminin: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp062",
+      "correct": "Der Lehrer, dessen Unterricht mir gefällt, ist sehr beliebt.",
+      "incorrect": "Der Lehrer, den Unterricht mir gefällt, ist sehr beliebt.",
+      "highlight": ["dessen", "den"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Unterricht?). Maskulin: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp063",
+      "correct": "Das Gebäude, dessen Fassade renoviert wird, ist denkmalgeschützt.",
+      "incorrect": "Das Gebäude, das Fassade renoviert wird, ist denkmalgeschützt.",
+      "highlight": ["dessen", "das"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Fassade?). Neutrum: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp064",
+      "correct": "Die Nachbarn, deren Hund immer bellt, sind im Urlaub.",
+      "incorrect": "Die Nachbarn, denen Hund immer bellt, sind im Urlaub.",
+      "highlight": ["deren", "denen"],
+      "explanation": "Das Genitiv-Relativpronomen 'deren' drückt Besitz aus (wessen Hund?). Plural: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp065",
+      "correct": "Die Firma, deren Produkte weltweit bekannt sind, hat ihren Sitz in Hamburg.",
+      "incorrect": "Die Firma, die Produkte weltweit bekannt sind, hat ihren Sitz in Hamburg.",
+      "highlight": ["deren", "die"],
+      "explanation": "Das Genitiv-Relativpronomen 'deren' drückt Besitz aus (wessen Produkte?). Feminin: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp066",
+      "correct": "Der Politiker, dessen Rede kontrovers war, trat zurück.",
+      "incorrect": "Der Politiker, der Rede kontrovers war, trat zurück.",
+      "highlight": ["dessen", "der"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Rede?). Maskulin: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp067",
+      "correct": "Das Mädchen, dessen Fahrrad kaputt ist, geht heute zu Fuss.",
+      "incorrect": "Das Mädchen, dem Fahrrad kaputt ist, geht heute zu Fuss.",
+      "highlight": ["dessen", "dem"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Fahrrad?). Neutrum: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp068",
+      "correct": "Die Studenten, deren Noten gut waren, bekamen ein Stipendium.",
+      "incorrect": "Die Studenten, die Noten gut waren, bekamen ein Stipendium.",
+      "highlight": ["deren", "die"],
+      "explanation": "Das Genitiv-Relativpronomen 'deren' drückt Besitz aus (wessen Noten?). Plural: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp069",
+      "correct": "Die Lehrerin, deren Mann Arzt ist, fährt jeden Tag mit dem Zug.",
+      "incorrect": "Die Lehrerin, der Mann Arzt ist, fährt jeden Tag mit dem Zug.",
+      "highlight": ["deren", "der"],
+      "explanation": "Das Genitiv-Relativpronomen 'deren' drückt Besitz aus (wessen Mann?). Feminin: 'deren'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp070",
+      "correct": "Der Hund, dessen Besitzer verreist ist, wird von mir gefüttert.",
+      "incorrect": "Der Hund, den Besitzer verreist ist, wird von mir gefüttert.",
+      "highlight": ["dessen", "den"],
+      "explanation": "Das Genitiv-Relativpronomen 'dessen' drückt Besitz aus (wessen Besitzer?). Maskulin: 'dessen'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp071",
+      "correct": "Der Stuhl, auf dem ich sitze, ist unbequem.",
+      "incorrect": "Der Stuhl, auf den ich sitze, ist unbequem.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen' beschreibt einen Ort (wo?), daher verlangt 'auf' den Dativ: 'auf dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp072",
+      "correct": "Die Stadt, in der ich wohne, ist sehr schön.",
+      "incorrect": "Die Stadt, in die ich wohne, ist sehr schön.",
+      "highlight": ["der", "die"],
+      "explanation": "'wohnen' beschreibt einen Ort (wo?), daher verlangt 'in' den Dativ. Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp073",
+      "correct": "Das Thema, über das wir sprechen, ist wichtig.",
+      "incorrect": "Das Thema, über dem wir sprechen, ist wichtig.",
+      "highlight": ["das", "dem"],
+      "explanation": "'über' mit 'sprechen' verlangt den Akkusativ (worüber?). Neutrum Akkusativ: 'das'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp074",
+      "correct": "Die Leute, mit denen ich arbeite, sind sehr freundlich.",
+      "incorrect": "Die Leute, mit die ich arbeite, sind sehr freundlich.",
+      "highlight": ["denen", "die"],
+      "explanation": "'mit' verlangt immer den Dativ. Plural Dativ: 'denen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp075",
+      "correct": "Der Tisch, an dem wir sitzen, ist aus Holz.",
+      "incorrect": "Der Tisch, an den wir sitzen, ist aus Holz.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen' beschreibt einen Ort (wo?), daher verlangt 'an' den Dativ. Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp076",
+      "correct": "Die Firma, für die ich arbeite, ist international tätig.",
+      "incorrect": "Die Firma, für der ich arbeite, ist international tätig.",
+      "highlight": ["die", "der"],
+      "explanation": "'für' verlangt immer den Akkusativ. Feminin Akkusativ: 'die'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp077",
+      "correct": "Das Hotel, in dem wir übernachtet haben, war sehr sauber.",
+      "incorrect": "Das Hotel, in das wir übernachtet haben, war sehr sauber.",
+      "highlight": ["dem", "das"],
+      "explanation": "'übernachten' beschreibt einen Ort (wo?), daher verlangt 'in' den Dativ. Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp078",
+      "correct": "Der Freund, von dem ich dir erzählt habe, kommt morgen.",
+      "incorrect": "Der Freund, von den ich dir erzählt habe, kommt morgen.",
+      "highlight": ["dem", "den"],
+      "explanation": "'von' verlangt immer den Dativ. Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp079",
+      "correct": "Die Brücke, über die wir gehen, ist sehr alt.",
+      "incorrect": "Die Brücke, über der wir gehen, ist sehr alt.",
+      "highlight": ["die", "der"],
+      "explanation": "'gehen' beschreibt eine Bewegung (wohin/worüber?), daher verlangt 'über' den Akkusativ. Feminin Akkusativ: 'die'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp080",
+      "correct": "Der Grund, aus dem er gekündigt hat, ist mir unbekannt.",
+      "incorrect": "Der Grund, aus den er gekündigt hat, ist mir unbekannt.",
+      "highlight": ["dem", "den"],
+      "explanation": "'aus' verlangt immer den Dativ. Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp081",
+      "correct": "Die Schule, an der sie unterrichtet, liegt im Zentrum.",
+      "incorrect": "Die Schule, an die sie unterrichtet, liegt im Zentrum.",
+      "highlight": ["der", "die"],
+      "explanation": "'unterrichten' mit 'an' beschreibt einen Ort (wo?), daher Dativ. Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp082",
+      "correct": "Das Projekt, an dem wir arbeiten, ist fast fertig.",
+      "incorrect": "Das Projekt, an das wir arbeiten, ist fast fertig.",
+      "highlight": ["dem", "das"],
+      "explanation": "'arbeiten an' verlangt den Dativ (woran?). Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp083",
+      "correct": "Der Park, durch den wir spazieren, ist wunderschön.",
+      "incorrect": "Der Park, durch dem wir spazieren, ist wunderschön.",
+      "highlight": ["den", "dem"],
+      "explanation": "'durch' verlangt immer den Akkusativ. Maskulin Akkusativ: 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp084",
+      "correct": "Die Kollegin, bei der ich mich bedankt habe, war gerührt.",
+      "incorrect": "Die Kollegin, bei die ich mich bedankt habe, war gerührt.",
+      "highlight": ["der", "die"],
+      "explanation": "'bei' verlangt immer den Dativ. Feminin Dativ: 'der'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp085",
+      "correct": "Die Kinder, auf die ich aufpasse, sind brav.",
+      "incorrect": "Die Kinder, auf denen ich aufpasse, sind brav.",
+      "highlight": ["die", "denen"],
+      "explanation": "'aufpassen auf' verlangt den Akkusativ (auf wen?). Plural Akkusativ: 'die'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp086",
+      "correct": "Der Berg, auf den wir gestiegen sind, war sehr hoch.",
+      "incorrect": "Der Berg, auf dem wir gestiegen sind, war sehr hoch.",
+      "highlight": ["den", "dem"],
+      "explanation": "'steigen auf' beschreibt eine Bewegung (wohin?), daher Akkusativ. Maskulin Akkusativ: 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp087",
+      "correct": "Das Fest, zu dem wir eingeladen sind, findet am Samstag statt.",
+      "incorrect": "Das Fest, zu das wir eingeladen sind, findet am Samstag statt.",
+      "highlight": ["dem", "das"],
+      "explanation": "'zu' verlangt immer den Dativ. Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp088",
+      "correct": "Der Mann, neben dem ich gesessen habe, war sehr gesprächig.",
+      "incorrect": "Der Mann, neben den ich gesessen habe, war sehr gesprächig.",
+      "highlight": ["dem", "den"],
+      "explanation": "'sitzen' beschreibt einen Ort (wo?), daher verlangt 'neben' den Dativ. Maskulin Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp089",
+      "correct": "Die Sache, um die es geht, ist sehr ernst.",
+      "incorrect": "Die Sache, um der es geht, ist sehr ernst.",
+      "highlight": ["die", "der"],
+      "explanation": "'um' verlangt immer den Akkusativ. Feminin Akkusativ: 'die'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp090",
+      "correct": "Das Haus, vor dem ein grosser Baum steht, gehört meinem Onkel.",
+      "incorrect": "Das Haus, vor das ein grosser Baum steht, gehört meinem Onkel.",
+      "highlight": ["dem", "das"],
+      "explanation": "'stehen' beschreibt einen Ort (wo?), daher verlangt 'vor' den Dativ. Neutrum Dativ: 'dem'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp091",
+      "correct": "Die Kollegen, mit denen ich zusammenarbeite, sind kompetent.",
+      "incorrect": "Die Kollegen, mit den ich zusammenarbeite, sind kompetent.",
+      "highlight": ["denen", "den"],
+      "explanation": "'mit' verlangt den Dativ. Im Plural lautet das Relativpronomen im Dativ 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp092",
+      "correct": "Die Nachbarn, denen wir geholfen haben, bedankten sich herzlich.",
+      "incorrect": "Die Nachbarn, den wir geholfen haben, bedankten sich herzlich.",
+      "highlight": ["denen", "den"],
+      "explanation": "'helfen' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp093",
+      "correct": "Die Gäste, denen das Essen geschmeckt hat, lobten den Koch.",
+      "incorrect": "Die Gäste, den das Essen geschmeckt hat, lobten den Koch.",
+      "highlight": ["denen", "den"],
+      "explanation": "'schmecken' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp094",
+      "correct": "Die Freunde, von denen ich einen Brief bekommen habe, wohnen in Wien.",
+      "incorrect": "Die Freunde, von den ich einen Brief bekommen habe, wohnen in Wien.",
+      "highlight": ["denen", "den"],
+      "explanation": "'von' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp095",
+      "correct": "Die Kinder, denen die Lehrerin eine Geschichte vorgelesen hat, waren begeistert.",
+      "incorrect": "Die Kinder, den die Lehrerin eine Geschichte vorgelesen hat, waren begeistert.",
+      "highlight": ["denen", "den"],
+      "explanation": "'vorlesen' braucht ein indirektes Objekt im Dativ (wem?). Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp096",
+      "correct": "Die Patienten, bei denen der Arzt war, fühlen sich besser.",
+      "incorrect": "Die Patienten, bei den der Arzt war, fühlen sich besser.",
+      "highlight": ["denen", "den"],
+      "explanation": "'bei' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp097",
+      "correct": "Die Schüler, denen er Nachhilfe gibt, machen gute Fortschritte.",
+      "incorrect": "Die Schüler, den er Nachhilfe gibt, machen gute Fortschritte.",
+      "highlight": ["denen", "den"],
+      "explanation": "'geben' braucht ein indirektes Objekt im Dativ (wem?). Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp098",
+      "correct": "Die Teilnehmer, zu denen auch ich gehöre, treffen sich morgen.",
+      "incorrect": "Die Teilnehmer, zu den auch ich gehöre, treffen sich morgen.",
+      "highlight": ["denen", "den"],
+      "explanation": "'zu' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp099",
+      "correct": "Die Sportler, nach denen oft gefragt wird, trainieren täglich.",
+      "incorrect": "Die Sportler, nach den oft gefragt wird, trainieren täglich.",
+      "highlight": ["denen", "den"],
+      "explanation": "'nach' verlangt den Dativ. Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp100",
+      "correct": "Die Mitarbeiter, denen der Chef gekündigt hat, suchen eine neue Stelle.",
+      "incorrect": "Die Mitarbeiter, den der Chef gekündigt hat, suchen eine neue Stelle.",
+      "highlight": ["denen", "den"],
+      "explanation": "'kündigen' mit Dativperson (wem kündigt man?). Plural Dativ: 'denen', nicht 'den'.",
+      "difficulty": 2
+    },
+    {
+      "id": "rp101",
+      "correct": "Alles, was ich weiß, habe ich dir gesagt.",
+      "incorrect": "Alles, das ich weiß, habe ich dir gesagt.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach 'alles' steht das Relativpronomen 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp102",
+      "correct": "Nichts, was er sagt, stimmt.",
+      "incorrect": "Nichts, das er sagt, stimmt.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach 'nichts' steht das Relativpronomen 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp103",
+      "correct": "Etwas, was mich sehr gefreut hat, ist passiert.",
+      "incorrect": "Etwas, das mich sehr gefreut hat, ist passiert.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach 'etwas' steht das Relativpronomen 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp104",
+      "correct": "Das Beste, was mir je passiert ist, war unser Kennenlernen.",
+      "incorrect": "Das Beste, das mir je passiert ist, war unser Kennenlernen.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach substantivierten Superlativen (das Beste, das Schönste) steht 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp105",
+      "correct": "Das Einzige, was ich brauche, ist Ruhe.",
+      "incorrect": "Das Einzige, das ich brauche, ist Ruhe.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach substantivierten Superlativen und Aehnlichem (das Einzige) steht 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp106",
+      "correct": "Er kam zu spät, was mich sehr ärgerte.",
+      "incorrect": "Er kam zu spät, das mich sehr ärgerte.",
+      "highlight": ["was", "das"],
+      "explanation": "Wenn sich das Relativpronomen auf den ganzen Satz bezieht, verwendet man 'was'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp107",
+      "correct": "Sie hat die Prüfung bestanden, was uns alle überraschte.",
+      "incorrect": "Sie hat die Prüfung bestanden, das uns alle überraschte.",
+      "highlight": ["was", "das"],
+      "explanation": "Wenn sich das Relativpronomen auf den ganzen Satz bezieht, verwendet man 'was'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp108",
+      "correct": "Die Stadt, wo ich aufgewachsen bin, liegt im Norden.",
+      "incorrect": "Die Stadt, was ich aufgewachsen bin, liegt im Norden.",
+      "highlight": ["wo", "was"],
+      "explanation": "Für Orte kann man 'wo' als Relativpronomen verwenden. 'was' passt hier nicht.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp109",
+      "correct": "Das Schlimmste, was passieren kann, ist eine Verspätung.",
+      "incorrect": "Das Schlimmste, das passieren kann, ist eine Verspätung.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach substantivierten Superlativen (das Schlimmste) steht 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp110",
+      "correct": "Vieles, was er erzählt, klingt unglaublich.",
+      "incorrect": "Vieles, das er erzählt, klingt unglaublich.",
+      "highlight": ["was", "das"],
+      "explanation": "Nach Indefinitpronomen wie 'vieles' steht das Relativpronomen 'was', nicht 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp111",
+      "correct": "Das Mädchen, das dort steht, ist meine Nichte.",
+      "incorrect": "Das Mädchen, die dort steht, ist meine Nichte.",
+      "highlight": ["das", "die"],
+      "explanation": "'Mädchen' ist grammatisch Neutrum (das Mädchen), obwohl es ein weibliches Kind bezeichnet. Nominativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp112",
+      "correct": "Die Person, die dort wartet, möchte Sie sprechen.",
+      "incorrect": "Die Person, der dort wartet, möchte Sie sprechen.",
+      "highlight": ["die", "der"],
+      "explanation": "'Person' ist Feminin (die Person). Das Relativpronomen steht im Nominativ Feminin: 'die'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp113",
+      "correct": "Der Tisch, der dort steht, ist aus Eiche.",
+      "incorrect": "Der Tisch, das dort steht, ist aus Eiche.",
+      "highlight": ["der", "das"],
+      "explanation": "'Tisch' ist Maskulin (der Tisch). Das Relativpronomen steht im Nominativ Maskulin: 'der'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp114",
+      "correct": "Das Mitglied, das neu im Verein ist, stellt sich vor.",
+      "incorrect": "Das Mitglied, der neu im Verein ist, stellt sich vor.",
+      "highlight": ["das", "der"],
+      "explanation": "'Mitglied' ist Neutrum (das Mitglied). Das Relativpronomen steht im Nominativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp115",
+      "correct": "Die Wache, die vor dem Gebäude steht, trägt eine Uniform.",
+      "incorrect": "Die Wache, der vor dem Gebäude steht, trägt eine Uniform.",
+      "highlight": ["die", "der"],
+      "explanation": "'Wache' ist Feminin (die Wache). Das Relativpronomen steht im Nominativ Feminin: 'die'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp116",
+      "correct": "Das Opfer, das aussagen muss, ist nervös.",
+      "incorrect": "Das Opfer, der aussagen muss, ist nervös.",
+      "highlight": ["das", "der"],
+      "explanation": "'Opfer' ist Neutrum (das Opfer). Das Relativpronomen richtet sich nach dem grammatischen Genus: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp117",
+      "correct": "Das Genie, das den Preis gewonnen hat, ist erst 20 Jahre alt.",
+      "incorrect": "Das Genie, der den Preis gewonnen hat, ist erst 20 Jahre alt.",
+      "highlight": ["das", "der"],
+      "explanation": "'Genie' ist Neutrum (das Genie). Das Relativpronomen richtet sich nach dem grammatischen Genus: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp118",
+      "correct": "Die Geisel, die befreit wurde, ist unverletzt.",
+      "incorrect": "Die Geisel, das befreit wurde, ist unverletzt.",
+      "highlight": ["die", "das"],
+      "explanation": "'Geisel' ist Feminin (die Geisel). Das Relativpronomen steht im Nominativ Feminin: 'die'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp119",
+      "correct": "Das Vorbild, das er sich gewählt hat, ist beeindruckend.",
+      "incorrect": "Das Vorbild, den er sich gewählt hat, ist beeindruckend.",
+      "highlight": ["das", "den"],
+      "explanation": "'Vorbild' ist Neutrum (das Vorbild). Akkusativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp120",
+      "correct": "Der Gast, den wir erwartet haben, ist endlich da.",
+      "incorrect": "Der Gast, die wir erwartet haben, ist endlich da.",
+      "highlight": ["den", "die"],
+      "explanation": "'Gast' ist Maskulin (der Gast). Akkusativ Maskulin: 'den'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp121",
+      "correct": "Die Kraft, die man dafür braucht, ist enorm.",
+      "incorrect": "Die Kraft, das man dafür braucht, ist enorm.",
+      "highlight": ["die", "das"],
+      "explanation": "'Kraft' ist Feminin (die Kraft). Akkusativ Feminin: 'die'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp122",
+      "correct": "Das Kätzchen, das ich gefunden habe, braucht ein Zuhause.",
+      "incorrect": "Das Kätzchen, die ich gefunden habe, braucht ein Zuhause.",
+      "highlight": ["das", "die"],
+      "explanation": "'Kätzchen' ist Neutrum (das Kätzchen, Diminutiv mit -chen). Akkusativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp123",
+      "correct": "Das Brüderchen, das nebenan wohnt, ist sehr lieb.",
+      "incorrect": "Das Brüderchen, der nebenan wohnt, ist sehr lieb.",
+      "highlight": ["das", "der"],
+      "explanation": "Diminutive mit -chen sind immer Neutrum (das Brüderchen). Nominativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp124",
+      "correct": "Das Männlein, das dort tanzt, sieht lustig aus.",
+      "incorrect": "Das Männlein, der dort tanzt, sieht lustig aus.",
+      "highlight": ["das", "der"],
+      "explanation": "Diminutive mit -lein sind immer Neutrum (das Männlein). Nominativ Neutrum: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp125",
+      "correct": "Das Model, das auf dem Laufsteg geht, trägt ein rotes Kleid.",
+      "incorrect": "Das Model, die auf dem Laufsteg geht, trägt ein rotes Kleid.",
+      "highlight": ["das", "die"],
+      "explanation": "'Model' ist Neutrum (das Model). Das Relativpronomen richtet sich nach dem grammatischen Genus: 'das'.",
+      "difficulty": 3
+    },
+    {
+      "id": "rp126",
+      "correct": "Das Individuum, das sich beschwert hat, wurde gehört.",
+      "incorrect": "Das Individuum, der sich beschwert hat, wurde gehört.",
+      "highlight": ["das", "der"],
+      "explanation": "'Individuum' ist Neutrum (das Individuum). Das Relativpronomen richtet sich nach dem grammatischen Genus: 'das'.",
+      "difficulty": 3
+    }
+  ]
+}

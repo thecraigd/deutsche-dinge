@@ -3,7 +3,7 @@
  * Enables offline functionality and caching
  */
 
-const CACHE_NAME = 'minimal-pairs-v2';
+const CACHE_NAME = 'minimal-pairs-v3';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -16,7 +16,11 @@ const ASSETS_TO_CACHE = [
   './data/kasus.json',
   './data/kommasetzung.json',
   './data/wortstellung.json',
-  './data/adjektivendungen.json'
+  './data/adjektivendungen.json',
+  './data/konjunktiv-ii.json',
+  './data/vergleiche.json',
+  './data/passiv.json',
+  './data/relativpronomen.json'
 ];
 
 // Install event - cache all static assets

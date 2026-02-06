@@ -47,7 +47,11 @@ deutsche-dinge/
 │       ├── kasus.json                  # All four cases (30 items)
 │       ├── kommasetzung.json           # Comma rules (30 items)
 │       ├── wortstellung.json           # Word order (30 items)
-│       └── adjektivendungen.json       # Adjective endings (30 items)
+│       ├── adjektivendungen.json       # Adjective endings (30 items)
+│       ├── konjunktiv-ii.json          # Subjunctive II (126 items)
+│       ├── vergleiche.json             # Comparisons (126 items)
+│       ├── passiv.json                 # Passive voice (126 items)
+│       └── relativpronomen.json        # Relative pronouns (126 items)
 └── CLAUDE.md                   # This documentation file
 ```
 
@@ -100,6 +104,10 @@ Each grammar category is stored as a JSON file in `minimal-pairs/data/`.
 - `ks` - Kommasetzung
 - `ws` - Wortstellung
 - `ae` - Adjektivendungen
+- `kz` - Konjunktiv II
+- `vg` - Vergleiche
+- `pv` - Passiv
+- `rp` - Relativpronomen
 
 ### Important Notes
 
@@ -482,7 +490,11 @@ const CONFIG = {
     'dativ-verben',
     'kommasetzung',
     'wortstellung',
-    'adjektivendungen'
+    'adjektivendungen',
+    'konjunktiv-ii',
+    'vergleiche',
+    'passiv',
+    'relativpronomen'
   ],
   leitnerBoxes: 5,
   reviewIntervals: [1, 2, 4, 8, 16],  // Sessions between reviews per box
@@ -591,7 +603,7 @@ const CONFIG = {
 
 6. **Increment cache version in sw.js:**
    ```javascript
-   const CACHE_NAME = 'minimal-pairs-v2';  // Bump version
+   const CACHE_NAME = 'minimal-pairs-v3';  // Bump version
    ```
 
 ---
@@ -608,12 +620,13 @@ const CONFIG = {
 | **Kommasetzung** | Comma placement in German | ", dass" vs. " dass" |
 | **Wortstellung** | Verb position in clauses | "...dass er kommt" vs. "...dass er kommt morgen" |
 | **Adjektivendungen** | Adjective declension | "der große Mann" vs. "der großer Mann" |
+| **Konjunktiv II** | Subjunctive II for unreal situations, wishes, polite requests | "Wenn ich Zeit hätte" vs. "Wenn ich Zeit habe" |
+| **Vergleiche** | Comparative, superlative, and comparison structures | "größer als" vs. "größer wie" |
+| **Passiv** | Process passive, state passive, passive constructions | "ist gemacht worden" vs. "ist gemacht geworden" |
+| **Relativpronomen** | Relative pronouns in correct case, gender, number | "Der Mann, den ich kenne" vs. "Der Mann, der ich kenne" |
 
 ### Potential Future Categories
 
-- **Konjunktiv II** - Subjunctive mood
-- **Relativpronomen** - Relative pronouns (der/die/das/dessen/deren)
-- **Passiv** - Passive voice formation
 - **Reflexive Verben** - Reflexive pronoun case (sich/mir/mich)
 - **Präpositionen mit Genitiv** - Genitive prepositions (trotz, während, wegen)
 - **Substantivierte Adjektive** - Nominalized adjectives

@@ -1,0 +1,1015 @@
+{
+  "category": "vergleiche",
+  "displayName": "Vergleiche",
+  "description": "Komparativ, Superlativ und Vergleichsstrukturen mit als und wie",
+  "items": [
+    {
+      "id": "vg001",
+      "correct": "Er ist größer als sein Bruder.",
+      "incorrect": "Er ist größer wie sein Bruder.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit (Komparativ) verwendet man 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg002",
+      "correct": "Sie läuft schneller als ich.",
+      "incorrect": "Sie läuft schneller wie ich.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ steht 'als' für den Vergleich bei Ungleichheit.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg003",
+      "correct": "Das Buch ist interessanter als der Film.",
+      "incorrect": "Das Buch ist interessanter wie der Film.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei einem Komparativ (interessanter) folgt 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg004",
+      "correct": "Mein Auto ist teurer als deins.",
+      "incorrect": "Mein Auto ist teurer wie deins.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit nach dem Komparativ steht immer 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg005",
+      "correct": "Berlin ist kleiner als London.",
+      "incorrect": "Berlin ist kleiner wie London.",
+      "highlight": ["als", "wie"],
+      "explanation": "Beim Vergleich mit Komparativ (kleiner) verwendet man 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg006",
+      "correct": "Der Winter ist kälter als der Herbst.",
+      "incorrect": "Der Winter ist kälter wie der Herbst.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'kälter' steht 'als' für den Vergleich.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg007",
+      "correct": "Sie singt besser als ihre Schwester.",
+      "incorrect": "Sie singt besser wie ihre Schwester.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'besser' steht 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg008",
+      "correct": "Dieses Restaurant ist billiger als das andere.",
+      "incorrect": "Dieses Restaurant ist billiger wie das andere.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit (Komparativ) verwendet man 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg009",
+      "correct": "Er arbeitet langsamer als seine Kollegen.",
+      "incorrect": "Er arbeitet langsamer wie seine Kollegen.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'langsamer' folgt immer 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg010",
+      "correct": "Diese Aufgabe ist einfacher als die letzte.",
+      "incorrect": "Diese Aufgabe ist einfacher wie die letzte.",
+      "highlight": ["als", "wie"],
+      "explanation": "Beim Komparativ (einfacher) steht 'als' zum Vergleichen.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg011",
+      "correct": "Meine Schwester ist jünger als ich.",
+      "incorrect": "Meine Schwester ist jünger wie ich.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'jünger' steht 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg012",
+      "correct": "Der Sommer ist wärmer als der Frühling.",
+      "incorrect": "Der Sommer ist wärmer wie der Frühling.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit mit Komparativ steht immer 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg013",
+      "correct": "Mathe ist schwieriger als Kunst.",
+      "incorrect": "Mathe ist schwieriger wie Kunst.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'schwieriger' verwendet man 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg014",
+      "correct": "Das Flugzeug ist schneller als der Zug.",
+      "incorrect": "Das Flugzeug ist schneller wie der Zug.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit (Komparativ) verwendet man 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg015",
+      "correct": "Sein Haus ist schöner als unseres.",
+      "incorrect": "Sein Haus ist schöner wie unseres.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'schöner' steht 'als' zum Vergleichen.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg016",
+      "correct": "Die Prüfung war leichter als erwartet.",
+      "incorrect": "Die Prüfung war leichter wie erwartet.",
+      "highlight": ["als", "wie"],
+      "explanation": "Beim Komparativ (leichter) folgt 'als', auch vor Partizipien.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg017",
+      "correct": "Er verdient mehr als sein Nachbar.",
+      "incorrect": "Er verdient mehr wie sein Nachbar.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'mehr' steht 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg018",
+      "correct": "Heute ist es kühler als gestern.",
+      "incorrect": "Heute ist es kühler wie gestern.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit mit Komparativ verwendet man 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg019",
+      "correct": "Der neue Chef ist strenger als der alte.",
+      "incorrect": "Der neue Chef ist strenger wie der alte.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'strenger' folgt 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg020",
+      "correct": "Ich bin müder als du.",
+      "incorrect": "Ich bin müder wie du.",
+      "highlight": ["als", "wie"],
+      "explanation": "Beim Komparativ (müder) steht immer 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg021",
+      "correct": "Diese Stadt ist sicherer als jene.",
+      "incorrect": "Diese Stadt ist sicherer wie jene.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'sicherer' steht 'als' für den Vergleich.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg022",
+      "correct": "Dieser Weg ist kürzer als der andere.",
+      "incorrect": "Dieser Weg ist kürzer wie der andere.",
+      "highlight": ["als", "wie"],
+      "explanation": "Bei Ungleichheit (Komparativ) verwendet man 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg023",
+      "correct": "Dein Vorschlag ist besser als meiner.",
+      "incorrect": "Dein Vorschlag ist besser wie meiner.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'besser' steht 'als', nicht 'wie'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg024",
+      "correct": "Das Wasser ist tiefer als wir dachten.",
+      "incorrect": "Das Wasser ist tiefer wie wir dachten.",
+      "highlight": ["als", "wie"],
+      "explanation": "Beim Komparativ (tiefer) folgt 'als', auch vor Nebensätzen.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg025",
+      "correct": "Die Miete ist höher als letztes Jahr.",
+      "incorrect": "Die Miete ist höher wie letztes Jahr.",
+      "highlight": ["als", "wie"],
+      "explanation": "Nach dem Komparativ 'höher' steht 'als' für den Vergleich.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg026",
+      "correct": "Er ist so groß wie sein Bruder.",
+      "incorrect": "Er ist so groß als sein Bruder.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit verwendet man 'so...wie', nicht 'so...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg027",
+      "correct": "Sie ist genauso intelligent wie ihre Schwester.",
+      "incorrect": "Sie ist genauso intelligent als ihre Schwester.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit steht 'genauso...wie', nicht 'genauso...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg028",
+      "correct": "Dieses Zimmer ist so hell wie das andere.",
+      "incorrect": "Dieses Zimmer ist so hell als das andere.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit (so...wie) verwendet man 'wie', nicht 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg029",
+      "correct": "Er kocht genauso gut wie seine Mutter.",
+      "incorrect": "Er kocht genauso gut als seine Mutter.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Genauso...wie' drückt Gleichheit aus. 'Als' wäre hier falsch.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg030",
+      "correct": "Das neue Modell ist so teuer wie das alte.",
+      "incorrect": "Das neue Modell ist so teuer als das alte.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit verwendet man 'so...wie', nicht 'so...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg031",
+      "correct": "Mein Bruder ist ebenso fleißig wie ich.",
+      "incorrect": "Mein Bruder ist ebenso fleißig als ich.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Ebenso...wie' drückt Gleichheit aus. 'Als' steht nur beim Komparativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg032",
+      "correct": "Der Tee ist so heiß wie der Kaffee.",
+      "incorrect": "Der Tee ist so heiß als der Kaffee.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit steht 'so...wie'. 'Als' nur bei Ungleichheit.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg033",
+      "correct": "Sie spricht so fließend wie eine Muttersprachlerin.",
+      "incorrect": "Sie spricht so fließend als eine Muttersprachlerin.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit (so...wie) verwendet man 'wie', nicht 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg034",
+      "correct": "Der Film war genauso langweilig wie das Buch.",
+      "incorrect": "Der Film war genauso langweilig als das Buch.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Genauso...wie' zeigt Gleichheit an. 'Als' wäre falsch.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg035",
+      "correct": "Dieses Hotel ist so komfortabel wie das letzte.",
+      "incorrect": "Dieses Hotel ist so komfortabel als das letzte.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit verwendet man 'so...wie', nicht 'so...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg036",
+      "correct": "Er läuft so schnell wie ein Profi.",
+      "incorrect": "Er läuft so schnell als ein Profi.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit (so...wie) steht 'wie'. 'Als' nur bei Komparativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg037",
+      "correct": "Ihre Arbeit ist ebenso wichtig wie seine.",
+      "incorrect": "Ihre Arbeit ist ebenso wichtig als seine.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Ebenso...wie' drückt Gleichheit aus. 'Als' wäre hier falsch.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg038",
+      "correct": "Der Kuchen schmeckt so gut wie bei Oma.",
+      "incorrect": "Der Kuchen schmeckt so gut als bei Oma.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit steht 'so...wie', nicht 'so...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg039",
+      "correct": "Sein Zimmer ist genauso groß wie meins.",
+      "incorrect": "Sein Zimmer ist genauso groß als meins.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Genauso...wie' zeigt Gleichheit an. 'Als' nur beim Komparativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg040",
+      "correct": "Die Aufgabe ist so schwer wie die letzte.",
+      "incorrect": "Die Aufgabe ist so schwer als die letzte.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit verwendet man 'so...wie'. 'Als' nur bei Ungleichheit.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg041",
+      "correct": "Er ist genauso alt wie seine Frau.",
+      "incorrect": "Er ist genauso alt als seine Frau.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Genauso...wie' drückt Gleichheit aus. 'Als' steht nur beim Komparativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg042",
+      "correct": "Das Fahrrad ist so praktisch wie das Auto.",
+      "incorrect": "Das Fahrrad ist so praktisch als das Auto.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit steht 'so...wie', nicht 'so...als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg043",
+      "correct": "Sie verdient ebenso viel wie ihr Mann.",
+      "incorrect": "Sie verdient ebenso viel als ihr Mann.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Ebenso...wie' drückt Gleichheit aus. 'Als' nur bei Komparativ.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg044",
+      "correct": "Der Zug ist so pünktlich wie immer.",
+      "incorrect": "Der Zug ist so pünktlich als immer.",
+      "highlight": ["wie", "als"],
+      "explanation": "Bei Gleichheit (so...wie) verwendet man 'wie', nicht 'als'.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg045",
+      "correct": "Deine Idee ist genauso kreativ wie seine.",
+      "incorrect": "Deine Idee ist genauso kreativ als seine.",
+      "highlight": ["wie", "als"],
+      "explanation": "'Genauso...wie' zeigt Gleichheit an. 'Als' wäre hier falsch.",
+      "difficulty": 1
+    },
+    {
+      "id": "vg046",
+      "correct": "Das Auto ist schneller.",
+      "incorrect": "Das Auto ist schnellerer.",
+      "highlight": ["schneller", "schnellerer"],
+      "explanation": "Prädikativ verwendete Komparative bekommen keine Adjektivendung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg047",
+      "correct": "Dieses Haus ist schöner als das andere.",
+      "incorrect": "Dieses Haus ist schönerer als das andere.",
+      "highlight": ["schöner", "schönerer"],
+      "explanation": "Prädikativ steht der Komparativ ohne Adjektivendung: 'schöner', nicht 'schönerer'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg048",
+      "correct": "Die Suppe wird heißer.",
+      "incorrect": "Die Suppe wird heißere.",
+      "highlight": ["heißer", "heißere"],
+      "explanation": "Prädikativ (nach 'werden') steht der Komparativ ohne Endung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg049",
+      "correct": "Das Wetter ist heute kälter.",
+      "incorrect": "Das Wetter ist heute kälteres.",
+      "highlight": ["kälter", "kälteres"],
+      "explanation": "Prädikativ verwendete Komparative bekommen keine Adjektivendung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg050",
+      "correct": "Er kaufte ein schnelleres Auto.",
+      "incorrect": "Er kaufte ein schneller Auto.",
+      "highlight": ["schnelleres", "schneller"],
+      "explanation": "Attributiv (vor dem Nomen) braucht der Komparativ eine Adjektivendung: 'ein schnelleres Auto'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg051",
+      "correct": "Sie sucht eine billigere Wohnung.",
+      "incorrect": "Sie sucht eine billiger Wohnung.",
+      "highlight": ["billigere", "billiger"],
+      "explanation": "Attributiv braucht der Komparativ eine Endung: nach 'eine' + Akk. feminin: -e.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg052",
+      "correct": "Wir brauchen einen größeren Tisch.",
+      "incorrect": "Wir brauchen einen größer Tisch.",
+      "highlight": ["größeren", "größer"],
+      "explanation": "Attributiv braucht der Komparativ eine Endung: nach 'einen' + Akk. maskulin: -en.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg053",
+      "correct": "Er hat ein teureres Fahrrad gekauft.",
+      "incorrect": "Er hat ein teurer Fahrrad gekauft.",
+      "highlight": ["teureres", "teurer"],
+      "explanation": "Attributiv: nach 'ein' + Akk. neutrum braucht der Komparativ die Endung -es.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg054",
+      "correct": "Sie wohnt in einer ruhigeren Gegend.",
+      "incorrect": "Sie wohnt in einer ruhiger Gegend.",
+      "highlight": ["ruhigeren", "ruhiger"],
+      "explanation": "Attributiv: nach 'einer' + Dativ feminin braucht der Komparativ die Endung -en.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg055",
+      "correct": "Ich möchte ein größeres Stück Kuchen.",
+      "incorrect": "Ich möchte ein größer Stück Kuchen.",
+      "highlight": ["größeres", "größer"],
+      "explanation": "Attributiv: nach 'ein' + Akk. neutrum braucht der Komparativ die Endung -es.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg056",
+      "correct": "Der Weg wird immer schmaler.",
+      "incorrect": "Der Weg wird immer schmalerer.",
+      "highlight": ["schmaler", "schmalerer"],
+      "explanation": "Prädikativ (nach 'werden') steht der Komparativ ohne Adjektivendung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg057",
+      "correct": "Die Tage werden immer länger.",
+      "incorrect": "Die Tage werden immer längere.",
+      "highlight": ["länger", "längere"],
+      "explanation": "Prädikativ nach 'werden' steht der Komparativ ohne Endung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg058",
+      "correct": "Mit einem stärkeren Motor fährt das Auto schneller.",
+      "incorrect": "Mit einem stärker Motor fährt das Auto schneller.",
+      "highlight": ["stärkeren", "stärker"],
+      "explanation": "Attributiv: nach 'einem' + Dativ maskulin braucht der Komparativ die Endung -en.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg059",
+      "correct": "Das Problem ist viel komplizierter.",
+      "incorrect": "Das Problem ist viel komplizierterer.",
+      "highlight": ["komplizierter", "komplizierterer"],
+      "explanation": "Prädikativ verwendete Komparative stehen ohne Adjektivendung.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg060",
+      "correct": "Die längeren Tage gefallen mir.",
+      "incorrect": "Die länger Tage gefallen mir.",
+      "highlight": ["längeren", "länger"],
+      "explanation": "Attributiv: nach bestimmtem Artikel + Nom. Plural braucht der Komparativ die Endung -en.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg061",
+      "correct": "Er spielt besser als ich.",
+      "incorrect": "Er spielt guter als ich.",
+      "highlight": ["besser", "guter"],
+      "explanation": "Der Komparativ von 'gut' ist 'besser', nicht 'guter'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg062",
+      "correct": "Sie trinkt lieber Tee als Kaffee.",
+      "incorrect": "Sie trinkt gerner Tee als Kaffee.",
+      "highlight": ["lieber", "gerner"],
+      "explanation": "Der Komparativ von 'gern' ist 'lieber', nicht 'gerner'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg063",
+      "correct": "Der Berg ist höher als der Turm.",
+      "incorrect": "Der Berg ist hocher als der Turm.",
+      "highlight": ["höher", "hocher"],
+      "explanation": "Der Komparativ von 'hoch' ist 'höher', nicht 'hocher'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg064",
+      "correct": "Er isst mehr als sein Bruder.",
+      "incorrect": "Er isst vieler als sein Bruder.",
+      "highlight": ["mehr", "vieler"],
+      "explanation": "Der Komparativ von 'viel' ist 'mehr', nicht 'vieler'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg065",
+      "correct": "Das Geschäft ist näher als die Post.",
+      "incorrect": "Das Geschäft ist naher als die Post.",
+      "highlight": ["näher", "naher"],
+      "explanation": "Der Komparativ von 'nah' ist 'näher', nicht 'naher'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg066",
+      "correct": "Dieses Buch gefällt mir besser als das andere.",
+      "incorrect": "Dieses Buch gefällt mir guter als das andere.",
+      "highlight": ["besser", "guter"],
+      "explanation": "'Gut' hat einen unregelmäßigen Komparativ: 'besser'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg067",
+      "correct": "Ich gehe lieber ins Kino als ins Theater.",
+      "incorrect": "Ich gehe gerner ins Kino als ins Theater.",
+      "highlight": ["lieber", "gerner"],
+      "explanation": "Der Komparativ von 'gern' ist 'lieber', nicht 'gerner'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg068",
+      "correct": "Das Regal hängt höher als das Bild.",
+      "incorrect": "Das Regal hängt hocher als das Bild.",
+      "highlight": ["höher", "hocher"],
+      "explanation": "'Hoch' hat den unregelmäßigen Komparativ 'höher'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg069",
+      "correct": "Sie hat mehr Erfahrung als er.",
+      "incorrect": "Sie hat vieler Erfahrung als er.",
+      "highlight": ["mehr", "vieler"],
+      "explanation": "Der Komparativ von 'viel' ist 'mehr'. 'Vieler' existiert nicht.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg070",
+      "correct": "Der Park ist näher als der See.",
+      "incorrect": "Der Park ist naher als der See.",
+      "highlight": ["näher", "naher"],
+      "explanation": "Der Komparativ von 'nah' ist 'näher' (mit Umlaut).",
+      "difficulty": 3
+    },
+    {
+      "id": "vg071",
+      "correct": "Er kann besser schwimmen als tauchen.",
+      "incorrect": "Er kann guter schwimmen als tauchen.",
+      "highlight": ["besser", "guter"],
+      "explanation": "'Gut' wird im Komparativ zu 'besser', nicht zu 'guter'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg072",
+      "correct": "Wir fahren lieber mit dem Zug als mit dem Bus.",
+      "incorrect": "Wir fahren gerner mit dem Zug als mit dem Bus.",
+      "highlight": ["lieber", "gerner"],
+      "explanation": "'Gern' wird im Komparativ zu 'lieber'. 'Gerner' ist falsch.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg073",
+      "correct": "Die Decke ist hier höher als im Flur.",
+      "incorrect": "Die Decke ist hier hocher als im Flur.",
+      "highlight": ["höher", "hocher"],
+      "explanation": "'Hoch' wird im Komparativ zu 'höher', nicht zu 'hocher'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg074",
+      "correct": "In der Stadt gibt es mehr Lärm als auf dem Land.",
+      "incorrect": "In der Stadt gibt es vieler Lärm als auf dem Land.",
+      "highlight": ["mehr", "vieler"],
+      "explanation": "Der Komparativ von 'viel' ist immer 'mehr'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg075",
+      "correct": "Die nächste Haltestelle ist näher als der Bahnhof.",
+      "incorrect": "Die nächste Haltestelle ist naher als der Bahnhof.",
+      "highlight": ["näher", "naher"],
+      "explanation": "'Nah' hat den unregelmäßigen Komparativ 'näher'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg076",
+      "correct": "Dieser Berg ist am höchsten.",
+      "incorrect": "Dieser Berg ist am hochsten.",
+      "highlight": ["höchsten", "hochsten"],
+      "explanation": "Der Superlativ von 'hoch' ist 'am höchsten', nicht 'am hochsten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg077",
+      "correct": "Sie ist am schönsten.",
+      "incorrect": "Sie ist am schönste.",
+      "highlight": ["schönsten", "schönste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet immer auf '-sten', nicht '-ste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg078",
+      "correct": "Dieses Lied gefällt mir am besten.",
+      "incorrect": "Dieses Lied gefällt mir am gutesten.",
+      "highlight": ["besten", "gutesten"],
+      "explanation": "Der Superlativ von 'gut' ist 'am besten', nicht 'am gutesten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg079",
+      "correct": "Er läuft am schnellsten.",
+      "incorrect": "Er läuft am schnellste.",
+      "highlight": ["schnellsten", "schnellste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet auf '-sten': 'am schnellsten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg080",
+      "correct": "Im Winter ist es am kältesten.",
+      "incorrect": "Im Winter ist es am kälteste.",
+      "highlight": ["kältesten", "kälteste"],
+      "explanation": "Der Superlativ mit 'am' endet immer auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg081",
+      "correct": "Sie hat am meisten gelernt.",
+      "incorrect": "Sie hat am mehrsten gelernt.",
+      "highlight": ["meisten", "mehrsten"],
+      "explanation": "Der Superlativ von 'viel' ist 'am meisten', nicht 'am mehrsten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg082",
+      "correct": "Er trinkt am liebsten Wasser.",
+      "incorrect": "Er trinkt am liebesten Wasser.",
+      "highlight": ["liebsten", "liebesten"],
+      "explanation": "Der Superlativ von 'gern' ist 'am liebsten', nicht 'am liebesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg083",
+      "correct": "Der Fluss ist hier am tiefsten.",
+      "incorrect": "Der Fluss ist hier am tiefste.",
+      "highlight": ["tiefsten", "tiefste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg084",
+      "correct": "Das ist am nächsten.",
+      "incorrect": "Das ist am nahsten.",
+      "highlight": ["nächsten", "nahsten"],
+      "explanation": "Der Superlativ von 'nah' ist 'am nächsten', nicht 'am nahsten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg085",
+      "correct": "Dieser Schüler ist am fleißigsten.",
+      "incorrect": "Dieser Schüler ist am fleißigste.",
+      "highlight": ["fleißigsten", "fleißigste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg086",
+      "correct": "Im August ist es am heißesten.",
+      "incorrect": "Im August ist es am heißten.",
+      "highlight": ["heißesten", "heißten"],
+      "explanation": "Nach -s, -ß, -z, -x wird im Superlativ '-esten' verwendet: 'am heißesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg087",
+      "correct": "Er ist am ältesten in der Gruppe.",
+      "incorrect": "Er ist am älteste in der Gruppe.",
+      "highlight": ["ältesten", "älteste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet immer auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg088",
+      "correct": "Diese Straße ist am breitesten.",
+      "incorrect": "Diese Straße ist am breitsten.",
+      "highlight": ["breitesten", "breitsten"],
+      "explanation": "Nach -d und -t wird '-esten' verwendet: 'am breitesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg089",
+      "correct": "Der Diamant ist am härtesten.",
+      "incorrect": "Der Diamant ist am härtsten.",
+      "highlight": ["härtesten", "härtsten"],
+      "explanation": "Nach -t wird '-esten' eingefügt: 'am härtesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg090",
+      "correct": "Dieses Kind ist am wildesten.",
+      "incorrect": "Dieses Kind ist am wildsten.",
+      "highlight": ["wildesten", "wildsten"],
+      "explanation": "Nach -d wird '-esten' verwendet: 'am wildesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg091",
+      "correct": "Von allen Kuchen schmeckt dieser am besten.",
+      "incorrect": "Von allen Kuchen schmeckt dieser am bessten.",
+      "highlight": ["besten", "bessten"],
+      "explanation": "Der Superlativ von 'gut' ist 'am besten' (unregelmäßig).",
+      "difficulty": 2
+    },
+    {
+      "id": "vg092",
+      "correct": "Sie tanzt am elegantesten.",
+      "incorrect": "Sie tanzt am elegantsten.",
+      "highlight": ["elegantesten", "elegantsten"],
+      "explanation": "Nach -t wird '-esten' eingefügt: 'am elegantesten'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg093",
+      "correct": "Dieser Turm ist am höchsten in der Stadt.",
+      "incorrect": "Dieser Turm ist am hochsten in der Stadt.",
+      "highlight": ["höchsten", "hochsten"],
+      "explanation": "Der Superlativ von 'hoch' ist 'am höchsten' (unregelmäßig).",
+      "difficulty": 2
+    },
+    {
+      "id": "vg094",
+      "correct": "Im Frühling regnet es am häufigsten.",
+      "incorrect": "Im Frühling regnet es am häufigste.",
+      "highlight": ["häufigsten", "häufigste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg095",
+      "correct": "Dieses Problem ist am schwierigsten.",
+      "incorrect": "Dieses Problem ist am schwierigste.",
+      "highlight": ["schwierigsten", "schwierigste"],
+      "explanation": "Der prädikative Superlativ mit 'am' endet immer auf '-sten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg096",
+      "correct": "Er ist der größte Mann im Raum.",
+      "incorrect": "Er ist der größeste Mann im Raum.",
+      "highlight": ["größte", "größeste"],
+      "explanation": "Der attributive Superlativ von 'groß' ist 'größte', nicht 'größeste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg097",
+      "correct": "Das ist die schönste Blume im Garten.",
+      "incorrect": "Das ist die schöneste Blume im Garten.",
+      "highlight": ["schönste", "schöneste"],
+      "explanation": "Der Superlativ von 'schön' ist 'schönste', nicht 'schöneste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg098",
+      "correct": "Das ist das beste Ergebnis.",
+      "incorrect": "Das ist das besteste Ergebnis.",
+      "highlight": ["beste", "besteste"],
+      "explanation": "'Gut' hat den unregelmäßigen Superlativ 'beste'. 'Besteste' gibt es nicht.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg099",
+      "correct": "Er ist der älteste Schüler in der Klasse.",
+      "incorrect": "Er ist der ältste Schüler in der Klasse.",
+      "highlight": ["älteste", "ältste"],
+      "explanation": "Nach -t wird '-este' eingefügt: 'der älteste', nicht 'der ältste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg100",
+      "correct": "Das ist die kürzeste Strecke.",
+      "incorrect": "Das ist die kürzste Strecke.",
+      "highlight": ["kürzeste", "kürzste"],
+      "explanation": "Nach -z wird '-este' eingefügt: 'die kürzeste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg101",
+      "correct": "Sie hat die meisten Punkte gesammelt.",
+      "incorrect": "Sie hat die mehrsten Punkte gesammelt.",
+      "highlight": ["meisten", "mehrsten"],
+      "explanation": "Der Superlativ von 'viel' ist 'meiste', nicht 'mehrste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg102",
+      "correct": "Das ist der höchste Berg Deutschlands.",
+      "incorrect": "Das ist der hochste Berg Deutschlands.",
+      "highlight": ["höchste", "hochste"],
+      "explanation": "Der Superlativ von 'hoch' ist 'höchste' (unregelmäßig).",
+      "difficulty": 2
+    },
+    {
+      "id": "vg103",
+      "correct": "Das war der heißeste Tag des Jahres.",
+      "incorrect": "Das war der heißte Tag des Jahres.",
+      "highlight": ["heißeste", "heißte"],
+      "explanation": "Nach -ß wird '-este' eingefügt: 'der heißeste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg104",
+      "correct": "Sie ist die netteste Kollegin.",
+      "incorrect": "Sie ist die nettste Kollegin.",
+      "highlight": ["netteste", "nettste"],
+      "explanation": "Nach -t wird '-este' eingefügt: 'die netteste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg105",
+      "correct": "Das ist die nächste Haltestelle.",
+      "incorrect": "Das ist die nahste Haltestelle.",
+      "highlight": ["nächste", "nahste"],
+      "explanation": "Der Superlativ von 'nah' ist 'nächste' (unregelmäßig).",
+      "difficulty": 3
+    },
+    {
+      "id": "vg106",
+      "correct": "Er kaufte den teuersten Wein.",
+      "incorrect": "Er kaufte den teueresten Wein.",
+      "highlight": ["teuersten", "teueresten"],
+      "explanation": "Der Superlativ von 'teuer' ist 'teuersten', nicht 'teueresten'. Das -er gehört zum Stamm.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg107",
+      "correct": "Das ist die dunkelste Nacht des Jahres.",
+      "incorrect": "Das ist die dunkeleste Nacht des Jahres.",
+      "highlight": ["dunkelste", "dunkeleste"],
+      "explanation": "Der Superlativ von 'dunkel' ist 'dunkelste', nicht 'dunkeleste'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg108",
+      "correct": "Sie wohnt in der schönsten Straße der Stadt.",
+      "incorrect": "Sie wohnt in der schönesten Straße der Stadt.",
+      "highlight": ["schönsten", "schönesten"],
+      "explanation": "Der Superlativ von 'schön' lautet 'schönsten', nicht 'schönesten'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg109",
+      "correct": "Das war der wildeste Sturm seit Jahren.",
+      "incorrect": "Das war der wildste Sturm seit Jahren.",
+      "highlight": ["wildeste", "wildste"],
+      "explanation": "Nach -d wird '-este' eingefügt: 'der wildeste'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg110",
+      "correct": "Das ist die liebste Erinnerung meiner Kindheit.",
+      "incorrect": "Das ist die liebeste Erinnerung meiner Kindheit.",
+      "highlight": ["liebste", "liebeste"],
+      "explanation": "Der Superlativ von 'lieb' ist 'liebste'. Kein '-este' nötig, da der Stamm nicht auf -d/-t/-s/-ß/-z endet.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg111",
+      "correct": "Mein Bruder ist älter als ich.",
+      "incorrect": "Mein Bruder ist alter als ich.",
+      "highlight": ["älter", "alter"],
+      "explanation": "'Alt' bekommt im Komparativ einen Umlaut: 'älter', nicht 'alter'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg112",
+      "correct": "Im Winter sind die Tage kürzer.",
+      "incorrect": "Im Winter sind die Tage kurzer.",
+      "highlight": ["kürzer", "kurzer"],
+      "explanation": "'Kurz' bekommt im Komparativ einen Umlaut: 'kürzer', nicht 'kurzer'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg113",
+      "correct": "Er ist stärker als sein Gegner.",
+      "incorrect": "Er ist starker als sein Gegner.",
+      "highlight": ["stärker", "starker"],
+      "explanation": "'Stark' bekommt im Komparativ einen Umlaut: 'stärker', nicht 'starker'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg114",
+      "correct": "Das Kind ist klüger als man denkt.",
+      "incorrect": "Das Kind ist kluger als man denkt.",
+      "highlight": ["klüger", "kluger"],
+      "explanation": "'Klug' bekommt im Komparativ einen Umlaut: 'klüger', nicht 'kluger'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg115",
+      "correct": "Im Keller ist es kälter als oben.",
+      "incorrect": "Im Keller ist es kalter als oben.",
+      "highlight": ["kälter", "kalter"],
+      "explanation": "'Kalt' bekommt im Komparativ einen Umlaut: 'kälter', nicht 'kalter'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg116",
+      "correct": "Sein Sohn ist jünger als meine Tochter.",
+      "incorrect": "Sein Sohn ist junger als meine Tochter.",
+      "highlight": ["jünger", "junger"],
+      "explanation": "'Jung' bekommt im Komparativ einen Umlaut: 'jünger', nicht 'junger'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg117",
+      "correct": "Im Süden ist es wärmer als im Norden.",
+      "incorrect": "Im Süden ist es warmer als im Norden.",
+      "highlight": ["wärmer", "warmer"],
+      "explanation": "'Warm' bekommt im Komparativ einen Umlaut: 'wärmer', nicht 'warmer'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg118",
+      "correct": "Der Rhein ist länger als die Elbe.",
+      "incorrect": "Der Rhein ist langer als die Elbe.",
+      "highlight": ["länger", "langer"],
+      "explanation": "'Lang' bekommt im Komparativ einen Umlaut: 'länger', nicht 'langer'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg119",
+      "correct": "Dieser Stoff ist härter als Holz.",
+      "incorrect": "Dieser Stoff ist harter als Holz.",
+      "highlight": ["härter", "harter"],
+      "explanation": "'Hart' bekommt im Komparativ einen Umlaut: 'härter', nicht 'harter'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg120",
+      "correct": "Diese Frage ist dümmer als die letzte.",
+      "incorrect": "Diese Frage ist dummer als die letzte.",
+      "highlight": ["dümmer", "dummer"],
+      "explanation": "'Dumm' bekommt im Komparativ einen Umlaut: 'dümmer', nicht 'dummer'.",
+      "difficulty": 2
+    },
+    {
+      "id": "vg121",
+      "correct": "Je mehr ich lerne, desto besser verstehe ich.",
+      "incorrect": "Je mehr ich lerne, je besser verstehe ich.",
+      "highlight": ["desto", "je"],
+      "explanation": "Die korrekte Struktur ist 'je...desto' oder 'je...umso', nicht 'je...je'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg122",
+      "correct": "Je länger man wartet, umso schwieriger wird es.",
+      "incorrect": "Je länger man wartet, je schwieriger wird es.",
+      "highlight": ["umso", "je"],
+      "explanation": "Die korrekte Struktur ist 'je...umso' oder 'je...desto', nicht 'je...je'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg123",
+      "correct": "Je älter er wird, desto weiser wird er.",
+      "incorrect": "Je älter er wird, je weiser wird er.",
+      "highlight": ["desto", "je"],
+      "explanation": "Im zweiten Teil steht 'desto' oder 'umso', nicht noch einmal 'je'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg124",
+      "correct": "Je schneller du fährst, desto gefährlicher ist es.",
+      "incorrect": "Je schneller du fährst, je gefährlicher ist es.",
+      "highlight": ["desto", "je"],
+      "explanation": "Die Konstruktion lautet 'je...desto', nicht 'je...je'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg125",
+      "correct": "Je früher wir anfangen, umso eher sind wir fertig.",
+      "incorrect": "Je früher wir anfangen, je eher sind wir fertig.",
+      "highlight": ["umso", "je"],
+      "explanation": "Die korrekte Struktur ist 'je...umso' oder 'je...desto', nicht 'je...je'.",
+      "difficulty": 3
+    },
+    {
+      "id": "vg126",
+      "correct": "Je öfter man übt, desto leichter wird es.",
+      "incorrect": "Je öfter man übt, je leichter wird es.",
+      "highlight": ["desto", "je"],
+      "explanation": "Im Hauptsatz steht 'desto' oder 'umso', niemals ein zweites 'je'.",
+      "difficulty": 3
+    }
+  ]
+}

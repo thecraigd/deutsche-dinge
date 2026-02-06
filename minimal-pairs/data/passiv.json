@@ -1,0 +1,1015 @@
+{
+  "category": "passiv",
+  "displayName": "Passiv",
+  "description": "Vorgangspassiv, Zustandspassiv und Passivkonstruktionen",
+  "items": [
+    {
+      "id": "pv001",
+      "correct": "Das Fenster wird geöffnet.",
+      "incorrect": "Das Fenster wird öffnen.",
+      "highlight": ["geöffnet", "öffnen"],
+      "explanation": "Das Vorgangspassiv wird mit 'werden' + Partizip II gebildet, nicht mit dem Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv002",
+      "correct": "Das Buch wird gelesen.",
+      "incorrect": "Das Buch wird lesen.",
+      "highlight": ["gelesen", "lesen"],
+      "explanation": "Im Vorgangspassiv Präsens steht nach 'werden' das Partizip II, nicht der Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv003",
+      "correct": "Die Tür wird geschlossen.",
+      "incorrect": "Die Tür wird schließen.",
+      "highlight": ["geschlossen", "schließen"],
+      "explanation": "Das Vorgangspassiv braucht das Partizip II: 'schließen' → 'geschlossen'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv004",
+      "correct": "Die Briefe werden geschrieben.",
+      "incorrect": "Die Briefe wird geschrieben.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Bei einem Pluralsubjekt ('die Briefe') muss 'werden' stehen, nicht 'wird'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv005",
+      "correct": "Das Auto wird repariert.",
+      "incorrect": "Das Auto wird reparieren.",
+      "highlight": ["repariert", "reparieren"],
+      "explanation": "Im Passiv steht das Partizip II ('repariert'), nicht der Infinitiv ('reparieren').",
+      "difficulty": 1
+    },
+    {
+      "id": "pv006",
+      "correct": "Die Suppe wird gekocht.",
+      "incorrect": "Die Suppe wird kochen.",
+      "highlight": ["gekocht", "kochen"],
+      "explanation": "Das Vorgangspassiv verlangt das Partizip II: 'kochen' → 'gekocht'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv007",
+      "correct": "Die Kinder werden abgeholt.",
+      "incorrect": "Die Kinder wird abgeholt.",
+      "highlight": ["werden", "wird"],
+      "explanation": "'Die Kinder' ist Plural, daher muss das Hilfsverb 'werden' lauten.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv008",
+      "correct": "Der Kuchen wird gebacken.",
+      "incorrect": "Der Kuchen wird backen.",
+      "highlight": ["gebacken", "backen"],
+      "explanation": "Im Passiv braucht man das Partizip II: 'backen' → 'gebacken'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv009",
+      "correct": "Die Blumen werden gegossen.",
+      "incorrect": "Die Blumen wird gegossen.",
+      "highlight": ["werden", "wird"],
+      "explanation": "'Die Blumen' ist Plural, deshalb 'werden' statt 'wird'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv010",
+      "correct": "Das Essen wird serviert.",
+      "incorrect": "Das Essen wird servieren.",
+      "highlight": ["serviert", "servieren"],
+      "explanation": "Das Vorgangspassiv bildet man mit 'werden' + Partizip II, hier 'serviert'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv011",
+      "correct": "Die Pakete werden geliefert.",
+      "incorrect": "Die Pakete wird geliefert.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Das Subjekt 'die Pakete' steht im Plural, daher 'werden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv012",
+      "correct": "Der Patient wird untersucht.",
+      "incorrect": "Der Patient wird untersuchen.",
+      "highlight": ["untersucht", "untersuchen"],
+      "explanation": "Im Passiv steht das Partizip II ('untersucht'), nicht der Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv013",
+      "correct": "Die Wäsche wird gewaschen.",
+      "incorrect": "Die Wäsche wird waschen.",
+      "highlight": ["gewaschen", "waschen"],
+      "explanation": "Das Vorgangspassiv benötigt das Partizip II: 'waschen' → 'gewaschen'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv014",
+      "correct": "Die Fenster werden geputzt.",
+      "incorrect": "Die Fenster wird geputzt.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Pluralsubjekt ('die Fenster') verlangt die Pluralform 'werden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv015",
+      "correct": "Das Lied wird gesungen.",
+      "incorrect": "Das Lied wird singen.",
+      "highlight": ["gesungen", "singen"],
+      "explanation": "Im Vorgangspassiv steht das Partizip II: 'singen' → 'gesungen'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv016",
+      "correct": "Das Haus wurde gebaut.",
+      "incorrect": "Das Haus wurde bauen.",
+      "highlight": ["gebaut", "bauen"],
+      "explanation": "Im Präteritum-Passiv steht 'wurde' + Partizip II, nicht der Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv017",
+      "correct": "Die E-Mail wurde gestern geschickt.",
+      "incorrect": "Die E-Mail wurde gestern schicken.",
+      "highlight": ["geschickt", "schicken"],
+      "explanation": "Auch im Präteritum braucht das Passiv das Partizip II: 'schicken' → 'geschickt'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv018",
+      "correct": "Das Buch wurde letzte Woche veröffentlicht.",
+      "incorrect": "Das Buch wird letzte Woche veröffentlicht.",
+      "highlight": ["wurde", "wird"],
+      "explanation": "'Letzte Woche' zeigt Vergangenheit an, daher 'wurde' (Präteritum), nicht 'wird' (Präsens).",
+      "difficulty": 2
+    },
+    {
+      "id": "pv019",
+      "correct": "Der Vertrag wurde unterschrieben.",
+      "incorrect": "Der Vertrag wurde unterschreiben.",
+      "highlight": ["unterschrieben", "unterschreiben"],
+      "explanation": "Im Passiv Präteritum: 'wurde' + Partizip II ('unterschrieben').",
+      "difficulty": 1
+    },
+    {
+      "id": "pv020",
+      "correct": "Die Gäste wurden eingeladen.",
+      "incorrect": "Die Gäste wurde eingeladen.",
+      "highlight": ["wurden", "wurde"],
+      "explanation": "Bei Pluralsubjekt ('die Gäste') heißt es 'wurden', nicht 'wurde'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv021",
+      "correct": "Das Fahrrad wurde gestern gestohlen.",
+      "incorrect": "Das Fahrrad wird gestern gestohlen.",
+      "highlight": ["wurde", "wird"],
+      "explanation": "'Gestern' verlangt die Vergangenheitsform 'wurde', nicht das Präsens 'wird'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv022",
+      "correct": "Die Straße wurde gesperrt.",
+      "incorrect": "Die Straße wurde sperren.",
+      "highlight": ["gesperrt", "sperren"],
+      "explanation": "Das Passiv Präteritum bildet man mit 'wurde' + Partizip II: 'sperren' → 'gesperrt'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv023",
+      "correct": "Die Bilder wurden aufgehängt.",
+      "incorrect": "Die Bilder wurde aufgehängt.",
+      "highlight": ["wurden", "wurde"],
+      "explanation": "'Die Bilder' ist Plural, daher 'wurden' statt 'wurde'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv024",
+      "correct": "Der Film wurde letzten Monat gedreht.",
+      "incorrect": "Der Film wird letzten Monat gedreht.",
+      "highlight": ["wurde", "wird"],
+      "explanation": "'Letzten Monat' ist Vergangenheit, daher muss 'wurde' stehen.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv025",
+      "correct": "Das Spiel wurde abgesagt.",
+      "incorrect": "Das Spiel wurde absagen.",
+      "highlight": ["abgesagt", "absagen"],
+      "explanation": "Im Passiv Präteritum steht das Partizip II: 'absagen' → 'abgesagt'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv026",
+      "correct": "Die Ergebnisse wurden veröffentlicht.",
+      "incorrect": "Die Ergebnisse wurde veröffentlicht.",
+      "highlight": ["wurden", "wurde"],
+      "explanation": "Das Subjekt 'die Ergebnisse' ist Plural, also 'wurden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv027",
+      "correct": "Das Medikament wurde vor einem Jahr entwickelt.",
+      "incorrect": "Das Medikament wird vor einem Jahr entwickelt.",
+      "highlight": ["wurde", "wird"],
+      "explanation": "'Vor einem Jahr' zeigt Vergangenheit an, daher Präteritum 'wurde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv028",
+      "correct": "Der Verbrecher wurde verhaftet.",
+      "incorrect": "Der Verbrecher wurde verhaften.",
+      "highlight": ["verhaftet", "verhaften"],
+      "explanation": "Im Passiv Präteritum braucht man das Partizip II: 'verhaften' → 'verhaftet'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv029",
+      "correct": "Die Dokumente wurden geprüft.",
+      "incorrect": "Die Dokumente wurde geprüft.",
+      "highlight": ["wurden", "wurde"],
+      "explanation": "Pluralsubjekt ('die Dokumente') verlangt 'wurden'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv030",
+      "correct": "Das Gebäude wurde im 19. Jahrhundert errichtet.",
+      "incorrect": "Das Gebäude wird im 19. Jahrhundert errichtet.",
+      "highlight": ["wurde", "wird"],
+      "explanation": "'Im 19. Jahrhundert' ist Vergangenheit, daher Präteritum 'wurde'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv031",
+      "correct": "Das Problem ist gelöst worden.",
+      "incorrect": "Das Problem ist gelöst geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Im Perfekt Passiv wird 'worden' verwendet, nicht 'geworden'. Das 'ge-' entfällt.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv032",
+      "correct": "Die Rechnung ist bezahlt worden.",
+      "incorrect": "Die Rechnung ist bezahlt geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Passiv Perfekt: 'ist' + Partizip II + 'worden' (ohne 'ge-').",
+      "difficulty": 2
+    },
+    {
+      "id": "pv033",
+      "correct": "Der Brief ist abgeschickt worden.",
+      "incorrect": "Der Brief ist abgeschickt geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Im Passiv Perfekt heißt es immer 'worden', nicht 'geworden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv034",
+      "correct": "Die Frage ist beantwortet worden.",
+      "incorrect": "Die Frage ist beantwortet geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "'geworden' wird im Passiv Perfekt zu 'worden' verkürzt.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv035",
+      "correct": "Das Haus ist renoviert worden.",
+      "incorrect": "Das Haus ist renoviert geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Passiv Perfekt: 'sein' + Partizip II + 'worden'. 'geworden' ist hier falsch.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv036",
+      "correct": "Mir ist geholfen worden.",
+      "incorrect": "Mir ist geholfen geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Auch bei unpersönlichem Passiv: 'worden', nicht 'geworden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv037",
+      "correct": "Die Tickets sind verkauft worden.",
+      "incorrect": "Die Tickets sind verkauft geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Im Passiv Perfekt steht immer 'worden' statt 'geworden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv038",
+      "correct": "Der Antrag ist abgelehnt worden.",
+      "incorrect": "Der Antrag ist abgelehnt geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Passiv Perfekt bildet man mit 'worden'. Das Präfix 'ge-' fehlt im Passiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv039",
+      "correct": "Die Arbeit ist erledigt worden.",
+      "incorrect": "Die Arbeit ist erledigt geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "'worden' ist die Passivform von 'geworden'. Im Passiv Perfekt immer 'worden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv040",
+      "correct": "Das Projekt ist abgeschlossen worden.",
+      "incorrect": "Das Projekt ist abgeschlossen geworden.",
+      "highlight": ["worden", "geworden"],
+      "explanation": "Perfekt Passiv: 'ist' + Partizip II + 'worden'. 'geworden' wäre Aktiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv041",
+      "correct": "Die Tür ist geöffnet.",
+      "incorrect": "Die Tür ist öffnen.",
+      "highlight": ["geöffnet", "öffnen"],
+      "explanation": "Das Zustandspassiv wird mit 'sein' + Partizip II gebildet, nicht mit dem Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv042",
+      "correct": "Das Geschäft ist geschlossen.",
+      "incorrect": "Das Geschäft ist schließen.",
+      "highlight": ["geschlossen", "schließen"],
+      "explanation": "Zustandspassiv: 'sein' + Partizip II ('geschlossen'), nicht der Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv043",
+      "correct": "Die Hausaufgaben sind gemacht.",
+      "incorrect": "Die Hausaufgaben ist gemacht.",
+      "highlight": ["sind", "ist"],
+      "explanation": "'Die Hausaufgaben' ist Plural, daher 'sind' statt 'ist'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv044",
+      "correct": "Der Tisch ist gedeckt.",
+      "incorrect": "Der Tisch ist decken.",
+      "highlight": ["gedeckt", "decken"],
+      "explanation": "Im Zustandspassiv steht das Partizip II: 'decken' → 'gedeckt'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv045",
+      "correct": "Das Auto ist repariert.",
+      "incorrect": "Das Auto ist reparieren.",
+      "highlight": ["repariert", "reparieren"],
+      "explanation": "Das Zustandspassiv braucht das Partizip II ('repariert'), nicht den Infinitiv.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv046",
+      "correct": "Die Fenster sind geputzt.",
+      "incorrect": "Die Fenster ist geputzt.",
+      "highlight": ["sind", "ist"],
+      "explanation": "Pluralsubjekt ('die Fenster') verlangt 'sind', nicht 'ist'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv047",
+      "correct": "Der Brief ist geschrieben.",
+      "incorrect": "Der Brief ist schreiben.",
+      "highlight": ["geschrieben", "schreiben"],
+      "explanation": "Zustandspassiv: 'sein' + Partizip II. 'schreiben' → 'geschrieben'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv048",
+      "correct": "Das Essen ist vorbereitet.",
+      "incorrect": "Das Essen ist vorbereiten.",
+      "highlight": ["vorbereitet", "vorbereiten"],
+      "explanation": "Im Zustandspassiv steht das Partizip II ('vorbereitet'), nicht der Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv049",
+      "correct": "Die Plätze sind reserviert.",
+      "incorrect": "Die Plätze ist reserviert.",
+      "highlight": ["sind", "ist"],
+      "explanation": "'Die Plätze' ist Plural, deshalb 'sind' statt 'ist'.",
+      "difficulty": 1
+    },
+    {
+      "id": "pv050",
+      "correct": "Das Zimmer ist aufgeräumt.",
+      "incorrect": "Das Zimmer ist aufräumen.",
+      "highlight": ["aufgeräumt", "aufräumen"],
+      "explanation": "Das Zustandspassiv bildet man mit 'sein' + Partizip II: 'aufräumen' → 'aufgeräumt'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv051",
+      "correct": "Der Brief ist schon geschrieben.",
+      "incorrect": "Der Brief wird schon geschrieben.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Schon' zeigt ein abgeschlossenes Ergebnis an. Daher Zustandspassiv mit 'sein', nicht Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv052",
+      "correct": "Die Tür wird gerade geschlossen.",
+      "incorrect": "Die Tür ist gerade geschlossen.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' beschreibt einen laufenden Vorgang, daher Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv053",
+      "correct": "Das Essen ist seit einer Stunde fertig gekocht.",
+      "incorrect": "Das Essen wird seit einer Stunde fertig gekocht.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Seit einer Stunde fertig' beschreibt ein Ergebnis, das andauert. Zustandspassiv mit 'sein'.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv054",
+      "correct": "Das Fenster wird gerade geputzt.",
+      "incorrect": "Das Fenster ist gerade geputzt.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' zeigt einen laufenden Prozess an, daher Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv055",
+      "correct": "Die Wohnung ist bereits renoviert.",
+      "incorrect": "Die Wohnung wird bereits renoviert.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Bereits' weist auf ein abgeschlossenes Ergebnis hin. Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv056",
+      "correct": "Der Kuchen wird gerade gebacken.",
+      "incorrect": "Der Kuchen ist gerade gebacken.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' bedeutet, dass der Vorgang noch läuft: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv057",
+      "correct": "Das Geschäft ist seit Montag geschlossen.",
+      "incorrect": "Das Geschäft wird seit Montag geschlossen.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Seit Montag' beschreibt einen andauernden Zustand. Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv058",
+      "correct": "Die Straße wird momentan repariert.",
+      "incorrect": "Die Straße ist momentan repariert.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Momentan' zeigt einen aktuellen Vorgang an: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv059",
+      "correct": "Das Paket ist schon geliefert.",
+      "incorrect": "Das Paket wird schon geliefert.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Schon' deutet auf ein abgeschlossenes Ergebnis hin. Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv060",
+      "correct": "Die Wäsche wird gerade gewaschen.",
+      "incorrect": "Die Wäsche ist gerade gewaschen.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' signalisiert einen laufenden Vorgang, also Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv061",
+      "correct": "Der Bericht ist längst fertiggestellt.",
+      "incorrect": "Der Bericht wird längst fertiggestellt.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Längst' betont, dass das Ergebnis schon lange vorliegt. Zustandspassiv mit 'sein'.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv062",
+      "correct": "Die Brücke wird zurzeit gebaut.",
+      "incorrect": "Die Brücke ist zurzeit gebaut.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Zurzeit' zeigt an, dass der Bau noch im Gange ist: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv063",
+      "correct": "Das Formular ist schon ausgefüllt.",
+      "incorrect": "Das Formular wird schon ausgefüllt.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Schon' weist auf ein fertiges Ergebnis hin. Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv064",
+      "correct": "Das Dach wird in diesem Moment repariert.",
+      "incorrect": "Das Dach ist in diesem Moment repariert.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'In diesem Moment' beschreibt einen laufenden Vorgang: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv065",
+      "correct": "Die Tickets sind seit gestern ausverkauft.",
+      "incorrect": "Die Tickets werden seit gestern ausverkauft.",
+      "highlight": ["sind", "werden"],
+      "explanation": "'Seit gestern ausverkauft' beschreibt einen bestehenden Zustand. Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv066",
+      "correct": "Die Suppe wird gerade gekocht.",
+      "incorrect": "Die Suppe ist gerade gekocht.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' zeigt einen laufenden Vorgang: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv067",
+      "correct": "Der Computer ist schon eingeschaltet.",
+      "incorrect": "Der Computer wird schon eingeschaltet.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Schon eingeschaltet' beschreibt einen Zustand: Zustandspassiv mit 'sein'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv068",
+      "correct": "Die Prüfung wird gerade korrigiert.",
+      "incorrect": "Die Prüfung ist gerade korrigiert.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' signalisiert, dass die Korrektur noch stattfindet: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv069",
+      "correct": "Die Heizung ist seit November angestellt.",
+      "incorrect": "Die Heizung wird seit November angestellt.",
+      "highlight": ["ist", "wird"],
+      "explanation": "'Seit November' beschreibt einen fortbestehenden Zustand. Zustandspassiv mit 'sein'.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv070",
+      "correct": "Der Rasen wird gerade gemäht.",
+      "incorrect": "Der Rasen ist gerade gemäht.",
+      "highlight": ["wird", "ist"],
+      "explanation": "'Gerade' drückt aus, dass der Vorgang im Moment passiert: Vorgangspassiv mit 'werden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv071",
+      "correct": "Das muss sofort gemacht werden.",
+      "incorrect": "Das muss sofort gemacht wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Nach einem Modalverb steht 'werden' im Infinitiv, nicht konjugiert.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv072",
+      "correct": "Die Arbeit kann morgen erledigt werden.",
+      "incorrect": "Die Arbeit kann morgen erledigt wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Bei Passiv mit Modalverb bleibt 'werden' im Infinitiv am Satzende.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv073",
+      "correct": "Der Brief soll heute geschickt werden.",
+      "incorrect": "Der Brief soll heute geschickt worden.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Nach Modalverb steht der Infinitiv 'werden', nicht das Partizip 'worden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv074",
+      "correct": "Das Fenster darf nicht geöffnet werden.",
+      "incorrect": "Das Fenster darf nicht geöffnet wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Nach Modalverb ('darf') steht 'werden' im Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv075",
+      "correct": "Die Rechnung muss bezahlt werden.",
+      "incorrect": "Die Rechnung muss bezahlt worden.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Im Passiv mit Modalverb: Modalverb + Partizip II + 'werden' (Infinitiv).",
+      "difficulty": 2
+    },
+    {
+      "id": "pv076",
+      "correct": "Der Patient muss sofort operiert werden.",
+      "incorrect": "Der Patient muss sofort operiert wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "'werden' bleibt im Infinitiv, wenn ein Modalverb im Satz steht.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv077",
+      "correct": "Die Regeln müssen beachtet werden.",
+      "incorrect": "Die Regeln müssen beachtet wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Nach Modalverb steht 'werden' als Infinitiv, nicht konjugiert als 'wird'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv078",
+      "correct": "Das Auto sollte regelmäßig gewartet werden.",
+      "incorrect": "Das Auto sollte regelmäßig gewartet worden.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Mit Modalverb: Partizip II + Infinitiv 'werden', nicht 'worden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv079",
+      "correct": "Die Kinder dürfen nicht allein gelassen werden.",
+      "incorrect": "Die Kinder dürfen nicht allein gelassen wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Passiv + Modalverb: 'werden' steht immer im Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv080",
+      "correct": "Das Ergebnis kann nicht geändert werden.",
+      "incorrect": "Das Ergebnis kann nicht geändert worden.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Bei Modalverb + Passiv steht am Ende der Infinitiv 'werden', nicht 'worden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv081",
+      "correct": "Die Nachricht will weitergeleitet werden.",
+      "incorrect": "Die Nachricht will weitergeleitet wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Nach Modalverb bleibt 'werden' im Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv082",
+      "correct": "Das Problem könnte schnell gelöst werden.",
+      "incorrect": "Das Problem könnte schnell gelöst wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Modalverb im Konjunktiv II + Partizip II + Infinitiv 'werden'.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv083",
+      "correct": "Die Waren müssen bis Freitag geliefert werden.",
+      "incorrect": "Die Waren müssen bis Freitag geliefert worden.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Modalverb + Passiv: Am Satzende steht 'werden' (Infinitiv), nicht 'worden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv084",
+      "correct": "Der Fehler hätte vermieden werden können.",
+      "incorrect": "Der Fehler hätte vermieden worden können.",
+      "highlight": ["werden", "worden"],
+      "explanation": "Im Konjunktiv II Passiv mit Modalverb: Partizip II + 'werden' + Modalverb-Infinitiv.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv085",
+      "correct": "Die Tür sollte abgeschlossen werden.",
+      "incorrect": "Die Tür sollte abgeschlossen wird.",
+      "highlight": ["werden", "wird"],
+      "explanation": "Bei Modalverb + Passiv steht 'werden' im Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv086",
+      "correct": "Das Buch wurde von dem Autor geschrieben.",
+      "incorrect": "Das Buch wurde durch den Autor geschrieben.",
+      "highlight": ["von dem", "durch den"],
+      "explanation": "Bei einer handelnden Person verwendet man 'von' + Dativ, nicht 'durch' + Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv087",
+      "correct": "Die Stadt wurde durch das Erdbeben zerstört.",
+      "incorrect": "Die Stadt wurde von dem Erdbeben zerstört.",
+      "highlight": ["durch das", "von dem"],
+      "explanation": "Bei einer unpersönlichen Ursache oder Naturkraft verwendet man 'durch' + Akkusativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv088",
+      "correct": "Der Brief wurde mit einem Kugelschreiber geschrieben.",
+      "incorrect": "Der Brief wurde von einem Kugelschreiber geschrieben.",
+      "highlight": ["mit einem", "von einem"],
+      "explanation": "Ein Instrument oder Werkzeug wird mit 'mit' + Dativ angegeben, nicht mit 'von'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv089",
+      "correct": "Das Kind wurde von der Mutter getröstet.",
+      "incorrect": "Das Kind wurde durch die Mutter getröstet.",
+      "highlight": ["von der", "durch die"],
+      "explanation": "Die handelnde Person steht mit 'von' + Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv090",
+      "correct": "Die Nachricht wurde durch die Medien verbreitet.",
+      "incorrect": "Die Nachricht wurde von den Medien verbreitet.",
+      "highlight": ["durch die", "von den"],
+      "explanation": "Bei Vermittlung oder Verbreitung durch ein Medium verwendet man 'durch' + Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv091",
+      "correct": "Die Suppe wurde mit einem Löffel gegessen.",
+      "incorrect": "Die Suppe wurde von einem Löffel gegessen.",
+      "highlight": ["mit einem", "von einem"],
+      "explanation": "Ein Instrument oder Hilfsmittel erfordert 'mit' + Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv092",
+      "correct": "Der Patient wurde von dem Arzt behandelt.",
+      "incorrect": "Der Patient wurde durch den Arzt behandelt.",
+      "highlight": ["von dem", "durch den"],
+      "explanation": "Bei einer handelnden Person steht 'von' + Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv093",
+      "correct": "Das Dorf wurde durch die Überschwemmung verwüstet.",
+      "incorrect": "Das Dorf wurde von der Überschwemmung verwüstet.",
+      "highlight": ["durch die", "von der"],
+      "explanation": "Bei Naturereignissen als Ursache verwendet man 'durch' + Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv094",
+      "correct": "Das Bild wurde mit Ölfarben gemalt.",
+      "incorrect": "Das Bild wurde von Ölfarben gemalt.",
+      "highlight": ["mit", "von"],
+      "explanation": "Das Material oder Werkzeug steht mit 'mit' + Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv095",
+      "correct": "Die Torte wurde von meiner Großmutter gebacken.",
+      "incorrect": "Die Torte wurde durch meine Großmutter gebacken.",
+      "highlight": ["von meiner", "durch meine"],
+      "explanation": "Die handelnde Person wird mit 'von' + Dativ angegeben.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv096",
+      "correct": "Das Haus wurde durch den Sturm beschädigt.",
+      "incorrect": "Das Haus wurde von dem Sturm beschädigt.",
+      "highlight": ["durch den", "von dem"],
+      "explanation": "Naturkräfte als Ursache stehen mit 'durch' + Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv097",
+      "correct": "Das Loch wurde mit einer Schaufel gegraben.",
+      "incorrect": "Das Loch wurde von einer Schaufel gegraben.",
+      "highlight": ["mit einer", "von einer"],
+      "explanation": "Ein Werkzeug wird mit 'mit' + Dativ angegeben.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv098",
+      "correct": "Das Gesetz wurde von dem Parlament verabschiedet.",
+      "incorrect": "Das Gesetz wurde durch das Parlament verabschiedet.",
+      "highlight": ["von dem", "durch das"],
+      "explanation": "Eine handelnde Institution verwendet man mit 'von' + Dativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv099",
+      "correct": "Die Information wurde durch einen Boten übermittelt.",
+      "incorrect": "Die Information wurde von einem Boten übermittelt.",
+      "highlight": ["durch einen", "von einem"],
+      "explanation": "Bei Vermittlung (jemand als Mittler) verwendet man 'durch' + Akkusativ.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv100",
+      "correct": "Das Hemd wurde mit der Hand gewaschen.",
+      "incorrect": "Das Hemd wurde von der Hand gewaschen.",
+      "highlight": ["mit der", "von der"],
+      "explanation": "Das Mittel oder die Art und Weise steht mit 'mit' + Dativ.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv101",
+      "correct": "Es wird hier nicht geraucht.",
+      "incorrect": "Es wird hier nicht rauchen.",
+      "highlight": ["geraucht", "rauchen"],
+      "explanation": "Auch beim subjektlosen Passiv steht das Partizip II, nicht der Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv102",
+      "correct": "Hier wird getanzt.",
+      "incorrect": "Hier wird tanzen.",
+      "highlight": ["getanzt", "tanzen"],
+      "explanation": "Subjektloses Passiv: 'werden' + Partizip II bei intransitiven Verben.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv103",
+      "correct": "Es wurde viel gelacht.",
+      "incorrect": "Es wurde viel lachen.",
+      "highlight": ["gelacht", "lachen"],
+      "explanation": "Im subjektlosen Passiv braucht man das Partizip II: 'lachen' → 'gelacht'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv104",
+      "correct": "Abends wird lange gefeiert.",
+      "incorrect": "Abends wird lange feiern.",
+      "highlight": ["gefeiert", "feiern"],
+      "explanation": "Subjektloses Passiv mit intransitivem Verb: 'werden' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv105",
+      "correct": "In diesem Raum wird nicht gegessen.",
+      "incorrect": "In diesem Raum wird nicht essen.",
+      "highlight": ["gegessen", "essen"],
+      "explanation": "Auch ohne explizites Subjekt: Passiv mit Partizip II ('gegessen').",
+      "difficulty": 2
+    },
+    {
+      "id": "pv106",
+      "correct": "Es wird sonntags nicht gearbeitet.",
+      "incorrect": "Es wird sonntags nicht arbeiten.",
+      "highlight": ["gearbeitet", "arbeiten"],
+      "explanation": "Subjektloses Passiv: 'es wird' + Partizip II, nicht Infinitiv.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv107",
+      "correct": "Auf der Party wurde viel gesungen.",
+      "incorrect": "Auf der Party wurde viel singen.",
+      "highlight": ["gesungen", "singen"],
+      "explanation": "Im subjektlosen Passiv Präteritum: 'wurde' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv108",
+      "correct": "Im Büro wird leise gesprochen.",
+      "incorrect": "Im Büro wird leise sprechen.",
+      "highlight": ["gesprochen", "sprechen"],
+      "explanation": "Subjektloses Passiv: 'werden' + Partizip II, hier 'gesprochen'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv109",
+      "correct": "Hier wird nicht gerannt.",
+      "incorrect": "Hier wird nicht rennen.",
+      "highlight": ["gerannt", "rennen"],
+      "explanation": "Auch bei intransitiven Verben: Passiv mit Partizip II ('gerannt').",
+      "difficulty": 2
+    },
+    {
+      "id": "pv110",
+      "correct": "Es wurde den ganzen Abend diskutiert.",
+      "incorrect": "Es wurde den ganzen Abend diskutieren.",
+      "highlight": ["diskutiert", "diskutieren"],
+      "explanation": "Subjektloses Passiv im Präteritum: 'wurde' + Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv111",
+      "correct": "Das Buch wurde empfohlen.",
+      "incorrect": "Das Buch wurde geempfohlen.",
+      "highlight": ["empfohlen", "geempfohlen"],
+      "explanation": "Verben mit untrennbarer Vorsilbe (emp-) bekommen kein 'ge-' im Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv112",
+      "correct": "Die Tür wurde aufgemacht.",
+      "incorrect": "Die Tür wurde geaufmacht.",
+      "highlight": ["aufgemacht", "geaufmacht"],
+      "explanation": "Bei trennbaren Verben steht 'ge-' zwischen Vorsilbe und Stamm: 'auf-ge-macht'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv113",
+      "correct": "Das Problem wurde verstanden.",
+      "incorrect": "Das Problem wurde geverstanden.",
+      "highlight": ["verstanden", "geverstanden"],
+      "explanation": "Verben mit 'ver-' (untrennbar) bilden das Partizip II ohne 'ge-'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv114",
+      "correct": "Die Gäste wurden eingeladen.",
+      "incorrect": "Die Gäste wurden geeinladen.",
+      "highlight": ["eingeladen", "geeinladen"],
+      "explanation": "Trennbares Verb: 'ge-' steht zwischen Vorsilbe und Stamm: 'ein-ge-laden'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv115",
+      "correct": "Das Produkt wurde beschrieben.",
+      "incorrect": "Das Produkt wurde gebeschrieben.",
+      "highlight": ["beschrieben", "gebeschrieben"],
+      "explanation": "Verben mit 'be-' (untrennbar) haben kein 'ge-' im Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv116",
+      "correct": "Die Tür wurde zugemacht.",
+      "incorrect": "Die Tür wurde gezumacht.",
+      "highlight": ["zugemacht", "gezumacht"],
+      "explanation": "Trennbares Verb: 'zu-ge-macht'. Das 'ge-' steht nach der Vorsilbe.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv117",
+      "correct": "Der Text wurde übersetzt.",
+      "incorrect": "Der Text wurde geübersetzt.",
+      "highlight": ["übersetzt", "geübersetzt"],
+      "explanation": "'übersetzen' (untrennbar) bildet das Partizip II ohne 'ge-': 'übersetzt'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv118",
+      "correct": "Das Paket wurde abgeholt.",
+      "incorrect": "Das Paket wurde geabholt.",
+      "highlight": ["abgeholt", "geabholt"],
+      "explanation": "Trennbares Verb: 'ab-ge-holt'. Das 'ge-' steht zwischen Vorsilbe und Stamm.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv119",
+      "correct": "Der Vertrag wurde unterschrieben.",
+      "incorrect": "Der Vertrag wurde geunterschrieben.",
+      "highlight": ["unterschrieben", "geunterschrieben"],
+      "explanation": "'unterschreiben' ist untrennbar, daher kein 'ge-' im Partizip II.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv120",
+      "correct": "Die Nachricht wurde weitergeleitet.",
+      "incorrect": "Die Nachricht wurde geweitergeleitet.",
+      "highlight": ["weitergeleitet", "geweitergeleitet"],
+      "explanation": "Trennbares Verb: 'weiter-ge-leitet'. Das 'ge-' steht nach der Vorsilbe.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv121",
+      "correct": "Die Situation wurde erklärt.",
+      "incorrect": "Die Situation wurde geerklärt.",
+      "highlight": ["erklärt", "geerklärt"],
+      "explanation": "Verben mit 'er-' (untrennbar) bilden das Partizip II ohne 'ge-'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv122",
+      "correct": "Das Licht wurde angemacht.",
+      "incorrect": "Das Licht wurde geanmacht.",
+      "highlight": ["angemacht", "geanmacht"],
+      "explanation": "Trennbares Verb: 'an-ge-macht'. Das 'ge-' steht nach der Vorsilbe 'an'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv123",
+      "correct": "Das Geld wurde entwendet.",
+      "incorrect": "Das Geld wurde geentwendet.",
+      "highlight": ["entwendet", "geentwendet"],
+      "explanation": "Verben mit 'ent-' (untrennbar) haben kein 'ge-' im Partizip II.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv124",
+      "correct": "Die Datei wurde heruntergeladen.",
+      "incorrect": "Die Datei wurde geheruntergeladen.",
+      "highlight": ["heruntergeladen", "geheruntergeladen"],
+      "explanation": "Trennbares Verb: 'herunter-ge-laden'. Das 'ge-' steht nach der Vorsilbe.",
+      "difficulty": 3
+    },
+    {
+      "id": "pv125",
+      "correct": "Das Ergebnis wurde mitgeteilt.",
+      "incorrect": "Das Ergebnis wurde gemitgeteilt.",
+      "highlight": ["mitgeteilt", "gemitgeteilt"],
+      "explanation": "Trennbares Verb: 'mit-ge-teilt'. Das 'ge-' kommt nach der Vorsilbe 'mit'.",
+      "difficulty": 2
+    },
+    {
+      "id": "pv126",
+      "correct": "Die Ware wurde zurückgeschickt.",
+      "incorrect": "Die Ware wurde gezurückgeschickt.",
+      "highlight": ["zurückgeschickt", "gezurückgeschickt"],
+      "explanation": "Trennbares Verb: 'zurück-ge-schickt'. Das 'ge-' steht nach der Vorsilbe.",
+      "difficulty": 3
+    }
+  ]
+}

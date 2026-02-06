@@ -14,7 +14,11 @@
             'kasus',
             'kommasetzung',
             'wortstellung',
-            'adjektivendungen'
+            'adjektivendungen',
+            'konjunktiv-ii',
+            'vergleiche',
+            'passiv',
+            'relativpronomen'
         ],
         leitnerBoxes: 5,
         // Review intervals in sessions (box 1 = every session, box 5 = every 16 sessions)
@@ -425,7 +429,11 @@
             'kasus': 'Kasus (Fälle)',
             'kommasetzung': 'Kommasetzung',
             'wortstellung': 'Wortstellung',
-            'adjektivendungen': 'Adjektivendungen'
+            'adjektivendungen': 'Adjektivendungen',
+            'konjunktiv-ii': 'Konjunktiv II',
+            'vergleiche': 'Vergleiche',
+            'passiv': 'Passiv',
+            'relativpronomen': 'Relativpronomen'
         };
         return names[category] || category;
     }
